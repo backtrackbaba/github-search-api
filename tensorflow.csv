@@ -1,0 +1,1020 @@
+tensorflow|Computation using data flow graphs for scalable machine learning|101561|101561|63763|Apache License 2.0|1624|153.39178|C++|{'C++': 48.09, 'Python': 40.83, 'HTML': 5.21, 'Jupyter Notebook': 2.46, 'Go': 1.28, 'Java': 0.84, 'Shell': 0.48, 'C': 0.34, 'CMake': 0.23, 'Objective-C++': 0.11, 'Makefile': 0.05, 'PureBasic': 0.03, 'Objective-C': 0.01, 'Batchfile': 0.01, 'Perl': 0.01, 'Smarty': 0.01, 'LLVM': 0.01, 'PHP': 0.0, 'Ruby': 0.0}
+TensorFlow-Examples|TensorFlow Tutorial and Examples for Beginners with Latest APIs|22670|22670|8262|Other|126|104.73594|Jupyter Notebook|{'Jupyter Notebook': 99.28, 'Python': 0.72}
+tensorflow-zh|谷歌全新开源人工智能系统TensorFlow官方文档中文版|8744|8744|3563|NO LICENSE|26|101.07128|TeX|{'TeX': 95.01, 'Python': 4.37, 'C++': 0.59, 'HTML': 0.04}
+models|Models and examples built with TensorFlow|36054|36054|20834|Apache License 2.0|961|99.573586|Python|{'Python': 69.2, 'Jupyter Notebook': 18.39, 'C++': 10.29, 'HTML': 0.97, 'Shell': 0.88, 'JavaScript': 0.22, 'Makefile': 0.03, 'GLSL': 0.01}
+awesome-tensorflow|TensorFlow - A curated list of dedicated resources http://tensorflow.org|11752|11752|1974|Creative Commons Zero v1.0 Universal|22|97.6725||{}
+stanford-tensorflow-tutorials|This repository contains code examples for the Stanford's course: TensorFlow for Deep Learning Research. |6409|6409|2903|MIT License|69|92.820114|Python|{'Python': 100.0}
+tensorflow|图解tensorflow 源码|1491|1491|467|NO LICENSE|1|92.661606||{}
+DCGAN-tensorflow|"A tensorflow implementation of ""Deep Convolutional Generative Adversarial Networks"""|4209|4209|1685|MIT License|123|92.624825|JavaScript|{'JavaScript': 50.95, 'Python': 23.02, 'HTML': 15.43, 'CSS': 10.6}
+facenet|Face recognition using Tensorflow|4686|4686|2006|MIT License|189|91.77292|Python|{'Python': 92.81, 'Matlab': 7.19}
+tensorflow_cookbook|Code for Tensorflow Machine Learning Cookbook|3199|3199|1481|MIT License|14|90.92002|Jupyter Notebook|{'Jupyter Notebook': 86.63, 'Python': 13.37}
+tensorflow_tutorials|From the basics to slightly more interesting applications of Tensorflow|4915|4915|1028|Other|12|89.661674|Jupyter Notebook|{'Jupyter Notebook': 86.69, 'Python': 13.31}
+TensorFlow-Tutorials|TensorFlow Tutorials with YouTube Videos|4344|4344|2064|MIT License|0|89.25525|Jupyter Notebook|{'Jupyter Notebook': 99.64, 'Python': 0.36}
+EffectiveTensorflow|TensorFlow tutorials and best practices.|7288|7288|716|NO LICENSE|0|88.02214||{}
+tensorflow-wavenet|A TensorFlow implementation of DeepMind's WaveNet paper|3672|3672|858|MIT License|122|87.39122|Python|{'Python': 99.55, 'Shell': 0.45}
+TensorFlow-Tutorials|Simple tutorials using Google's TensorFlow Framework|5412|5412|1433|NO LICENSE|15|87.16182|Jupyter Notebook|{'Jupyter Notebook': 94.0, 'Python': 5.94, 'Shell': 0.06}
+tensorflow|TensorFlow for R|1025|1025|278|Apache License 2.0|31|86.65873|R|{'R': 100.0}
+DeepLearningZeroToAll|TensorFlow Basic Tutorial Labs|2418|2418|1336|NO LICENSE|15|86.58457|Jupyter Notebook|{'Jupyter Notebook': 65.31, 'Python': 34.69}
+tensorflow-tutorial|Example TensorFlow codes and Caicloud TensorFlow as a Service dev environment.|1312|1312|1131|NO LICENSE|35|85.97212|Jupyter Notebook|{'Jupyter Notebook': 99.15, 'Python': 0.82, 'Shell': 0.03}
+tensorflow|使用谷歌开源的TensorFlow进行一系列的训练实践|649|649|300|"BSD 2-Clause ""Simplified"" License"|4|85.380394|Python|{'Python': 96.32, 'Protocol Buffer': 3.09, 'Jupyter Notebook': 0.59}
+caffe-tensorflow|Caffe models in TensorFlow|2167|2167|826|Other|102|85.229225|Python|{'Python': 100.0}
+SSD-Tensorflow|Single Shot MultiBox Detector in TensorFlow|1839|1839|846|NO LICENSE|180|84.84914|Jupyter Notebook|{'Jupyter Notebook': 74.42, 'Python': 25.58}
+Tensorflow-101|TensorFlow Tutorials|1630|1630|523|MIT License|13|84.58978|Jupyter Notebook|{'Jupyter Notebook': 99.96, 'Python': 0.04}
+Tensorflow-Tutorial|Tensorflow tutorial from basic to hard|1708|1708|815|MIT License|1|84.365814|Python|{'Python': 100.0}
+TensorFlow-Book|Accompanying source code for Machine Learning with TensorFlow. Refer to the book for step-by-step explanations.|3872|3872|954|MIT License|12|83.35017|Jupyter Notebook|{'Jupyter Notebook': 96.38, 'Python': 3.62}
+FastMaskRCNN|Mask RCNN in TensorFlow |2299|2299|880|Apache License 2.0|136|83.300156|Python|{'Python': 93.46, 'C++': 2.97, 'C': 2.35, 'Cuda': 1.14, 'Makefile': 0.06, 'Shell': 0.02}
+CapsNet-Tensorflow|A Tensorflow implementation of CapsNet(Capsules Net) in Hinton's paper Dynamic Routing Between Capsules|2829|2829|932|Apache License 2.0|20|81.991196|Python|{'Python': 98.17, 'R': 1.83}
+neural-style|Neural style in TensorFlow! :art:|3858|3858|1135|GNU General Public License v3.0|0|81.76419|Python|{'Python': 100.0}
+sonnet|TensorFlow-based neural network library|6511|6511|869|Apache License 2.0|5|81.48444|Python|{'Python': 93.02, 'Jupyter Notebook': 6.86, 'Shell': 0.12}
+Reinforcement-learning-with-tensorflow|Simple Reinforcement learning tutorials|1612|1612|1068|MIT License|3|81.322945|Python|{'Python': 100.0}
+deep-learning-keras-tensorflow|Introduction to Deep Neural Networks with Keras and Tensorflow|2041|2041|889|MIT License|11|80.803604|Jupyter Notebook|{'Jupyter Notebook': 99.71, 'Python': 0.29}
+DQN-tensorflow|Tensorflow implementation of Human-Level Control through Deep Reinforcement Learning|1596|1596|516|MIT License|27|80.63688|Python|{'Python': 100.0}
+Faster-RCNN_TF|Faster-RCNN in Tensorflow|1402|1402|738|MIT License|232|80.387634|Python|{'Python': 90.77, 'C++': 7.47, 'Cuda': 1.13, 'Shell': 0.62, 'Makefile': 0.02}
+pix2pix-tensorflow|Tensorflow port of Image-to-Image Translation with Conditional Adversarial Nets https://phillipi.github.io/pix2pix/|3083|3083|683|MIT License|78|80.22935|JavaScript|{'JavaScript': 87.97, 'Python': 7.84, 'HTML': 4.19}
+char-rnn-tensorflow| Multi-layer Recurrent Neural Networks (LSTM, RNN) for character-level language models in Python using Tensorflow |2019|2019|801|MIT License|44|80.013|Python|{'Python': 100.0}
+tensorflow_poems|中文古诗自动作诗机器人，屌炸天，基于tensorflow1.4 api，正在积极维护升级中，快star，保持更新！|1665|1665|483|NO LICENSE|23|79.985664|Python|{'Python': 100.0}
+tensorflow-tutorial|Practical tutorials and labs for TensorFlow used by Nvidia, FFN, CNN, RNN, Kaggle, AE|1913|1913|448|NO LICENSE|2|79.89054|Jupyter Notebook|{'Jupyter Notebook': 92.87, 'Python': 7.13}
+tensorflow_chatbot|Tensorflow chatbot demo by @Sirajology on Youtube|998|998|591|NO LICENSE|58|79.84776|Python|{'Python': 60.13, 'CSS': 34.57, 'JavaScript': 3.15, 'HTML': 1.92, 'Shell': 0.22}
+nmt|TensorFlow Neural Machine Translation Tutorial|2995|2995|973|Apache License 2.0|181|79.808525|Python|{'Python': 96.98, 'Shell': 3.02}
+TensorFlow-and-DeepLearning-Tutorial|TensorFlow & Deep Learning Tutorial|2071|2071|562|NO LICENSE|2|79.49689|Python|{'Python': 91.28, 'Jupyter Notebook': 8.38, 'JavaScript': 0.34}
+tensorflow-vgg|VGG19 and VGG16 on Tensorflow|988|988|548|NO LICENSE|12|79.30066|Python|{'Python': 100.0}
+TensorFlowOnSpark|TensorFlowOnSpark brings TensorFlow programs onto Apache Spark clusters|2413|2413|643|Apache License 2.0|21|78.879196|Python|{'Python': 78.88, 'Scala': 19.52, 'Shell': 1.6}
+tensorflow-mnist-tutorial|"Sample code for ""Tensorflow and deep learning, without a PhD"" presentation and code lab."|1480|1480|759|NO LICENSE|0|78.59771||{}
+tensorflow-docs|TensorFlow 官方文档中文版 V1.8|2775|2775|305|NO LICENSE|6|78.42135||{}
+tensorflow-resnet|ResNet model in TensorFlow|1066|1066|455|MIT License|36|78.21601|Python|{'Python': 100.0}
+YOLO_tensorflow|tensorflow implementation of 'YOLO : Real-Time Object Detection'|1105|1105|442|Other|32|78.07199|Python|{'Python': 100.0}
+tensorflow-101|learn code with tensorflow|886|886|473|NO LICENSE|5|77.951645|Python|{'Python': 97.46, 'HTML': 1.19, 'JavaScript': 0.97, 'Shell': 0.29, 'Protocol Buffer': 0.05, 'CSS': 0.04}
+fast-style-transfer|TensorFlow CNN for fast style transfer ⚡🖥🎨🖼|6096|6096|1392|NO LICENSE|33|77.4825|Python|{'Python': 99.26, 'Shell': 0.74}
+tensorboard|TensorFlow's Visualization Toolkit|1805|1805|431|Apache License 2.0|212|77.21306|Python|{'Python': 42.83, 'HTML': 29.27, 'TypeScript': 26.82, 'Java': 0.78, 'Shell': 0.26, 'JavaScript': 0.04}
+TensorFlow-Tutorials|텐서플로우를 기초부터 응용까지 단계별로 연습할 수 있는 소스 코드를 제공합니다|1366|1366|620|NO LICENSE|3|76.818634|Python|{'Python': 100.0}
+tensorflow_template_application|TensorFlow template application for deep learning|1419|1419|606|Apache License 2.0|12|76.76106|Python|{'Python': 68.43, 'Java': 10.09, 'Objective-C++': 8.29, 'C++': 3.91, 'Scala': 3.56, 'Go': 3.21, 'CMake': 0.88, 'Objective-C': 0.82, 'Shell': 0.75, 'Ruby': 0.06}
+tensorflow-on-raspberry-pi|TensorFlow for Raspberry Pi|1701|1701|416|Other|65|76.64032|Python|{'Python': 100.0}
+tensorflow-generative-model-collections|Collection of generative models in Tensorflow|2376|2376|470|Apache License 2.0|13|76.46553|Python|{'Python': 100.0}
+tensorflowbook||396|396|290|NO LICENSE|13|76.33418|Jupyter Notebook|{'Jupyter Notebook': 69.21, 'Python': 29.6, 'C++': 1.06, 'Protocol Buffer': 0.13}
+TensorBox|Object detection in TensorFlow|1298|1298|430|NO LICENSE|155|75.784966|Python|{'Python': 85.67, 'C++': 13.6, 'Shell': 0.45, 'Makefile': 0.27}
+Tensorflow-Project-Template|A best practice for tensorflow project template architecture. |2043|2043|435|Apache License 2.0|7|75.33208|Python|{'Python': 100.0}
+tensorflow-speech-recognition|🎙Speech recognition using the tensorflow deep learning framework, sequence-to-sequence neural networks|1569|1569|477|Other|21|75.264|Python|{'Python': 97.63, 'Swift': 2.37}
+learning-to-learn|Learning to Learn in TensorFlow|3491|3491|472|Apache License 2.0|7|75.2504|Python|{'Python': 100.0}
+TensorFlow-World|:earth_americas: Simple and ready-to-use tutorials for TensorFlow|3811|3811|320|MIT License|1|75.238014|Python|{'Python': 51.66, 'Jupyter Notebook': 47.4, 'Shell': 0.94}
+tensorflow-deepq|A deep Q learning demonstration using Google Tensorflow|1128|1128|298|MIT License|6|75.1597|Jupyter Notebook|{'Jupyter Notebook': 69.9, 'Python': 29.81, 'Shell': 0.29}
+AndroidTensorFlowMachineLearningExample|Android TensorFlow MachineLearning Example (Building TensorFlow for Android)|994|994|302|Apache License 2.0|7|74.98199|Java|{'Java': 100.0}
+tensorflow-fcn|An Implementation of Fully Convolutional Networks in Tensorflow.|793|793|339|MIT License|20|74.917786|Python|{'Python': 100.0}
+FCN.tensorflow|Tensorflow implementation of Fully Convolutional Networks for Semantic Segmentation (http://fcn.berkeleyvision.org)|724|724|342|MIT License|5|74.57845|Jupyter Notebook|{'Jupyter Notebook': 82.39, 'Python': 17.61}
+tensorflow-workshop|Slides and code from our TensorFlow workshop.|687|687|298|Apache License 2.0|11|73.45651|Jupyter Notebook|{'Jupyter Notebook': 99.71, 'Python': 0.29}
+TensorFlowSharp|TensorFlow API for .NET languages|1829|1829|309|MIT License|91|72.699684|C#|{'C#': 99.62, 'F#': 0.24, 'Perl': 0.11, 'Makefile': 0.03}
+easy-tensorflow|Simple and comprehensive tutorials in TensorFlow|2229|2229|157|MIT License|0|72.445625|Python|{'Python': 100.0}
+word-rnn-tensorflow|Multi-layer Recurrent Neural Networks (LSTM, RNN) for word-level language models in Python using TensorFlow.|938|938|392|MIT License|23|72.28921|Python|{'Python': 100.0}
+Deep-Learning-TensorFlow|Ready to use implementations of various Deep Learning algorithms using TensorFlow.|945|945|384|MIT License|23|72.23068|Python|{'Python': 100.0}
+tensorflow-yolo|tensorflow implementation of 'YOLO : Real-Time Object Detection'(train and test)|591|591|267|NO LICENSE|31|72.201|Python|{'Python': 100.0}
+tensorflow-mnist||599|599|262|MIT License|2|72.112206|Python|{'Python': 40.58, 'JavaScript': 39.57, 'HTML': 19.85}
+My-TensorFlow-tutorials|This repo contains all of my TensorFlow tutorials|610|610|456|NO LICENSE|12|72.0441|Python|{'Python': 100.0}
+MobileNet|MobileNet build with Tensorflow|901|901|280|Apache License 2.0|36|71.69693|Python|{'Python': 99.3, 'Shell': 0.7}
+tensorflow-workshop|This repo contains materials for use in a TensorFlow workshop.|560|560|259|Apache License 2.0|10|71.503044|Jupyter Notebook|{'Jupyter Notebook': 81.07, 'Python': 17.05, 'Shell': 1.0, 'HTML': 0.58, 'JavaScript': 0.25, 'CSS': 0.05}
+deep-rl-tensorflow|TensorFlow implementation of Deep Reinforcement Learning papers|1214|1214|309|MIT License|18|71.280975|Python|{'Python': 98.08, 'Shell': 1.92}
+dcgan-completion.tensorflow|Image Completion with Deep Learning in TensorFlow|996|996|309|Other|18|70.89307|Python|{'Python': 100.0}
+tflearn|Deep learning library featuring a higher-level API for TensorFlow.|8110|8110|2009|Other|511|70.68564|Python|{'Python': 100.0}
+NTM-tensorflow|"""Neural Turing Machine"" in Tensorflow"|841|841|183|MIT License|11|70.375374|Jupyter Notebook|{'Jupyter Notebook': 84.3, 'Python': 15.7}
+tensorpack|A Neural Net Training Interface on TensorFlow|2256|2256|715|Apache License 2.0|11|70.24046|Python|{'Python': 99.79, 'Shell': 0.21}
+tensorflow-tutorial|TensorFlow and Deep Learning Tutorials|676|676|201|NO LICENSE|0|70.211426||{}
+Tensorflow-Tutorial|Some interesting TensorFlow tutorials for beginners.|440|440|229|NO LICENSE|3|70.012276|Jupyter Notebook|{'Jupyter Notebook': 98.26, 'Python': 1.74, 'Shell': 0.0}
+tensorflow-deeplab-resnet|DeepLab-ResNet rebuilt in TensorFlow|741|741|309|MIT License|15|69.833694|Python|{'Python': 100.0}
+BEGAN-tensorflow|"Tensorflow implementation of ""BEGAN: Boundary Equilibrium Generative Adversarial Networks"""|643|643|187|Apache License 2.0|29|69.77112|Python|{'Python': 100.0}
+tf-faster-rcnn|Tensorflow Faster RCNN for Object Detection|1636|1636|740|MIT License|96|69.621254|Python|{'Python': 93.1, 'Shell': 3.02, 'Cuda': 2.36, 'Matlab': 0.85, 'Roff': 0.56, 'C++': 0.07, 'Makefile': 0.04}
+Tensorflow-|Tensorflow实战学习笔记、代码、机器学习进阶系列|326|326|100|NO LICENSE|1|69.08809|Jupyter Notebook|{'Jupyter Notebook': 57.23, 'Python': 42.75, 'Shell': 0.02}
+yolo_tensorflow|Tensorflow implementation of YOLO, including training and test phase.|370|370|211|MIT License|25|68.78925|Python|{'Python': 99.1, 'Shell': 0.9}
+TFFRCNN|FastER RCNN built on tensorflow|700|700|357|MIT License|90|68.77716|Python|{'Python': 90.77, 'C++': 6.74, 'C': 1.15, 'Shell': 0.72, 'Cuda': 0.61, 'Makefile': 0.01}
+MTCNN-Tensorflow| Reproduce MTCNN using Tensorflow|372|372|215|NO LICENSE|28|68.70056|Python|{'Python': 100.0}
+TensorFlow-LiveLessons|"""Deep Learning with TensorFlow"" LiveLessons"|454|454|324|MIT License|0|68.58561|Jupyter Notebook|{'Jupyter Notebook': 99.76, 'Shell': 0.18, 'Python': 0.06}
+darkflow|Translate darknet to tensorflow. Load trained weights, retrain/fine-tune using tensorflow, export constant graph def to mobile devices|3090|3090|1033|GNU General Public License v3.0|359|68.567894|Python|{'Python': 100.0}
+GPflow|Gaussian processes in TensorFlow|673|673|195|Apache License 2.0|48|68.430695|Python|{'Python': 99.87, 'Shell': 0.13}
+DNC-tensorflow|A TensorFlow implementation of DeepMind's Differential Neural Computers (DNC)|556|556|166|MIT License|15|68.240555|Jupyter Notebook|{'Jupyter Notebook': 68.61, 'Python': 31.33, 'Shell': 0.06}
+Autopilot-TensorFlow|A TensorFlow implementation of this Nvidia paper: https://arxiv.org/pdf/1604.07316.pdf with some changes|837|837|226|MIT License|8|67.92395|Python|{'Python': 100.0}
+pose-tensorflow| Human Pose estimation with TensorFlow framework |473|473|169|GNU Lesser General Public License v3.0|53|67.87734|C++|{'C++': 84.23, 'Python': 13.05, 'Matlab': 1.66, 'C': 0.93, 'Shell': 0.11, 'Makefile': 0.03}
+cnn-text-classification-tf|Convolutional Neural Network for Text Classification in Tensorflow|3363|3363|1834|Apache License 2.0|85|67.84511|Python|{'Python': 100.0}
+TF-recomm|Tensorflow-based Recommendation systems|726|726|185|Apache License 2.0|6|67.82648|Python|{'Python': 97.27, 'Shell': 2.73}
+tfjs-examples|Examples built with TensorFlow.js|1334|1334|252|Apache License 2.0|3|67.761986|JavaScript|{'JavaScript': 57.97, 'Python': 15.53, 'HTML': 10.6, 'TypeScript': 7.98, 'Shell': 5.33, 'CSS': 1.93, 'Vue': 0.66}
+fast-neural-style-tensorflow|A tensorflow implementation for fast neural style!|610|610|245|NO LICENSE|23|67.65092|Python|{'Python': 100.0}
+Tensorflow-Programs-and-Tutorials|Implementations of CNNs, RNNs, GANs, etc|765|765|219|NO LICENSE|1|67.41123|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+tensorflow_with_latest_papers|Implementation of Newest RNN and Seq2Seq Features|934|934|203|Apache License 2.0|13|67.31474|Python|{'Python': 100.0}
+WGAN-tensorflow|a tensorflow implementation of WGAN|414|414|164|NO LICENSE|9|67.22233|Jupyter Notebook|{'Jupyter Notebook': 97.14, 'Python': 2.86}
+Awesome-TensorFlow-Chinese|Awesome-TensorFlow-Chinese，TensorFlow 中文资源精选，官方网站，安装教程，入门教程，视频教程，实战项目，学习路径。QQ群：167122861，微信群二维码：http://www.tensorflownews.com/|767|767|207|Apache License 2.0|0|67.120026|Python|{'Python': 100.0}
+lstm-char-cnn-tensorflow|in progress|616|616|225|MIT License|15|66.973724|Python|{'Python': 100.0}
+tensorflow-char-rnn|Char-RNN implemented using TensorFlow. |374|374|277|MIT License|0|66.87155|Python|{'Python': 97.07, 'Shell': 2.93}
+DeepSpeech|A TensorFlow implementation of Baidu's DeepSpeech architecture|6878|6878|1107|Mozilla Public License 2.0|147|66.84532|C++|{'C++': 69.82, 'Python': 12.46, 'C': 11.55, 'Shell': 3.87, 'CMake': 0.91, 'Makefile': 0.82, 'HTML': 0.33, 'JavaScript': 0.21, 'Matlab': 0.03}
+tensorflow-ocr|🖺 OCR using tensorflow with attention|427|427|153|NO LICENSE|5|66.60189|Python|{'Python': 100.0}
+tensorflow-vgg16|conversation of caffe vgg16 model to tensorflow|502|502|232|NO LICENSE|11|66.54672|Python|{'Python': 97.14, 'Makefile': 2.86}
+tensorflow-exercises|TensorFlow Exercises - focusing on the comparison with NumPy.|432|432|147|Other|4|66.51429|Python|{'Python': 100.0}
+TensorKart|self-driving MarioKart with TensorFlow|1319|1319|202|MIT License|10|66.205185|Python|{'Python': 100.0}
+neural-style-tf|TensorFlow (Python API) implementation of Neural Style|1692|1692|416|GNU General Public License v3.0|26|66.05512|Python|{'Python': 75.73, 'Shell': 14.36, 'C++': 9.91}
+tensorflow-build|TensorFlow binaries supporting AVX, FMA, SSE|837|837|106|NO LICENSE|2|65.97919||{}
+tensorflow_image_classifier|TensorFlow Image Classifier Demo by @Sirajology on Youtube|411|411|233|NO LICENSE|15|65.91886|Python|{'Python': 77.74, 'Shell': 22.26}
+Tensorflow|Tensorflow相关教程|110|110|74|NO LICENSE|0|65.8825|Jupyter Notebook|{'Jupyter Notebook': 97.35, 'Python': 2.65}
+TensorFlow-NRE|Neural Relation Extraction implemented with LSTM in TensorFlow|466|466|219|NO LICENSE|38|65.72169|Python|{'Python': 100.0}
+awesome_tensorflow_implementations||640|640|184|NO LICENSE|0|65.709496||{}
+haskell|Haskell bindings for TensorFlow|942|942|123|Apache License 2.0|30|65.69825|Haskell|{'Haskell': 98.49, 'Shell': 0.97, 'Nix': 0.54}
+finetune_alexnet_with_tensorflow|Code for finetuning AlexNet in TensorFlow >= 1.12|394|394|230|"BSD 3-Clause ""New"" or ""Revised"" License"|1|65.6802|Jupyter Notebook|{'Jupyter Notebook': 97.66, 'Python': 2.34}
+deepnlp|Deep Learning NLP Pipeline implemented on Tensorflow|875|875|517|MIT License|39|65.61139|Python|{'Python': 98.45, 'Shell': 1.55}
+GDLnotes|Google Deep Learning Notes（TensorFlow教程）|1241|1241|463|Other|7|65.60958|Python|{'Python': 100.0}
+neuralart_tensorflow|"Implementation of  ""A Neural Algorithm of Artistic Style"" by Tensorflow"|419|419|127|MIT License|4|65.209076|Python|{'Python': 100.0}
+tensorflow-rnn-shakespeare|"Code from the ""Tensorflow and deep learning - without a PhD, Part 2"" session on Recurrent Neural Networks."|437|437|212|Apache License 2.0|9|65.2034|Python|{'Python': 100.0}
+pix2pix-tensorflow|"TensorFlow implementation of ""Image-to-Image Translation Using Conditional Adversarial Networks""."|546|546|181|MIT License|24|65.06784|Python|{'Python': 99.15, 'Shell': 0.85}
+tensorflow-seq2seq-tutorials|Dynamic seq2seq in TensorFlow, step by step|669|669|250|MIT License|11|64.97159|Jupyter Notebook|{'Jupyter Notebook': 92.41, 'Python': 7.59}
+resnet-in-tensorflow|Re-implement Kaiming He's deep residual networks in tensorflow. Can be trained with cifar10.|499|499|184|MIT License|18|64.94939|Python|{'Python': 100.0}
+TensorFlow-World-Resources|:satellite: Organized & Useful Resources about Deep Learning with TensorFlow|1241|1241|127|Other|0|64.88648|Python|{'Python': 100.0}
+tensorflow-reinforce|Implementations of Reinforcement Learning Models in Tensorflow|377|377|122|MIT License|5|64.684944|Python|{'Python': 100.0}
+tensorflow-kr|tensorflow.org 문서 번역 레파지토리|181|181|168|Apache License 2.0|38|64.490166|Python|{'Python': 55.91, 'C++': 42.63, 'HTML': 1.46}
+TensorflowProjects|Deep learning using tensorflow|138|138|51|MIT License|2|64.43028|Python|{'Python': 100.0}
+densenet-tensorflow|DenseNet Implementation in Tensorflow|394|394|117|GNU General Public License v3.0|5|64.269424|Python|{'Python': 100.0}
+tensorflow-lstm-regression|Sequence prediction using recurrent neural networks(LSTM) with TensorFlow|330|330|199|MIT License|7|64.06047|Jupyter Notebook|{'Jupyter Notebook': 98.85, 'Python': 1.15}
+multi-speaker-tacotron-tensorflow|Multi-speaker Tacotron in TensorFlow. 오픈소스 딥러닝 다중 화자 음성 합성 엔진.|81|81|372|Other|0|63.993664|Python|{'Python': 93.31, 'JavaScript': 3.82, 'HTML': 1.32, 'Shell': 1.15, 'CSS': 0.41}
+MemN2N-tensorflow|"""End-To-End Memory Networks"" in Tensorflow"|657|657|217|MIT License|9|63.982048|Python|{'Python': 100.0}
+seq2seq|A general-purpose encoder-decoder framework for Tensorflow|3791|3791|851|Apache License 2.0|162|63.940556|Python|{'Python': 94.55, 'Shell': 3.05, 'Perl': 1.2, 'JavaScript': 1.01, 'CSS': 0.2}
+gcn|Implementation of Graph Convolutional Networks in TensorFlow|1152|1152|359|MIT License|9|63.89842|Python|{'Python': 100.0}
+TensorFlow-Tutorials-for-Time-Series|TensorFlow Tutorial for Time Series Prediction|836|836|358|MIT License|10|63.708393|Jupyter Notebook|{'Jupyter Notebook': 91.03, 'Python': 8.97}
+rust|Rust language bindings for TensorFlow|1160|1160|136|Apache License 2.0|11|63.502148|Rust|{'Rust': 95.48, 'Shell': 4.35, 'Python': 0.16}
+Dynamic-Tensorflow-Tutorial|Tensorflow tutorial of building different dynamic recurrent neural network|496|496|151|MIT License|3|63.494217|Jupyter Notebook|{'Jupyter Notebook': 83.58, 'Python': 16.42}
+tensorflow_notes|Tensorflow notes|188|188|96|NO LICENSE|12|63.432457|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+node-tensorflow|Node-tensorflow is a NodeJS API for utilizing Google's machine learning library TensorFlow.|842|842|73|Apache License 2.0|12|63.183296|C++|{'C++': 97.33, 'Python': 2.17, 'JavaScript': 0.33, 'Shell': 0.17}
+write-rnn-tensorflow|Generative Handwriting using LSTM Mixture Density Network with TensorFlow|538|538|141|NO LICENSE|16|63.117283|Python|{'Python': 99.49, 'Shell': 0.51}
+Tensorflow-for-stock-prediction|Use Tensorflow to run CNN for predict stock movement. Hope to find out which pattern will follow the price rising.|304|304|172|NO LICENSE|3|62.84709|Jupyter Notebook|{'Jupyter Notebook': 71.89, 'Python': 28.11}
+sample-tensorflow-imageclassifier|Classify camera images locally using TensorFlow models|494|494|138|Apache License 2.0|13|62.800274|Java|{'Java': 100.0}
+rude-carnie|Age/Gender detection in Tensorflow|430|430|196|NO LICENSE|14|62.633156|Python|{'Python': 100.0}
+CycleGAN-TensorFlow|An implementation of CycleGan using TensorFlow|386|386|148|MIT License|32|62.52415|Python|{'Python': 93.81, 'Makefile': 3.84, 'Shell': 2.34}
+FaceRecognition-tensorflow|基于TensorFlow训练的人脸识别神经网络|328|328|155|NO LICENSE|11|62.345688|Python|{'Python': 100.0}
+advanced-tensorflow|Little More Advanced TensorFlow Implementations|287|287|103|NO LICENSE|3|62.23115|Jupyter Notebook|{'Jupyter Notebook': 99.96, 'Python': 0.04}
+siamfc-tf|SiamFC tracking in TensorFlow.|302|302|121|NO LICENSE|16|61.93374|Python|{'Python': 100.0}
+SSGAN-Tensorflow|A Tensorflow implementation of Semi-supervised Learning Generative Adversarial Networks.|300|300|98|MIT License|11|61.93194|Python|{'Python': 100.0}
+tensorflow_speech_recognition_demo|This is the code for 'How to Make a Simple Tensorflow Speech Recognizer' by @Sirajology on Youtube|249|249|164|NO LICENSE|28|61.84055|Python|{'Python': 100.0}
+EAST|A tensorflow implementation of EAST text detector|755|755|297|GNU General Public License v3.0|77|61.66822|C++|{'C++': 86.23, 'Python': 12.94, 'HTML': 0.74, 'Makefile': 0.05, 'Shell': 0.02, 'CSS': 0.02}
+keras_to_tensorflow|General code to convert a trained keras model into an inference tensorflow model|412|412|129|MIT License|8|61.645233|Jupyter Notebook|{'Jupyter Notebook': 65.53, 'Python': 34.47}
+swift|Swift for TensorFlow project home page|2454|2454|178|Creative Commons Attribution 4.0|5|61.64148||{}
+Tensorflow_Object_Tracking_Video|Object Tracking in Tensorflow ( Localization Detection Classification ) developed to partecipate to ImageNET VID competition|310|310|142|MIT License|9|61.546738|Python|{'Python': 90.84, 'C++': 9.12, 'Makefile': 0.03}
+tensorflow_demo|Tensorflow Demo for my TF in 5 Min Video on Youtube|143|143|126|NO LICENSE|20|61.486137|Python|{'Python': 100.0}
+DeepRL-Agents|A set of Deep Reinforcement Learning Agents implemented in Tensorflow.|1357|1357|528|MIT License|37|61.330883|Jupyter Notebook|{'Jupyter Notebook': 96.32, 'Python': 3.68}
+CarND-TensorFlow-Lab|TensorFlow Lab for Self-Driving Car ND|94|94|344|MIT License|3|61.293934|Jupyter Notebook|{'Jupyter Notebook': 92.75, 'Shell': 3.76, 'Python': 3.49}
+simulated-unsupervised-tensorflow|"TensorFlow implementation of ""Learning from Simulated and Unsupervised Images through Adversarial Training"""|447|447|119|Apache License 2.0|13|61.092915|Python|{'Python': 100.0}
+tensorflow-value-iteration-networks|TensorFlow implementation of the Value Iteration Networks (NIPS '16) paper|492|492|113|NO LICENSE|0|60.951466|Python|{'Python': 100.0}
+WassersteinGAN.tensorflow|Tensorflow implementation of Wasserstein GAN - arxiv: https://arxiv.org/abs/1701.07875|369|369|119|MIT License|7|60.82849|Python|{'Python': 99.51, 'Shell': 0.49}
+captcha-tensorflow|Image Captcha Solving Using TensorFlow and CNN Model. Accuracy 90%+|236|236|89|NO LICENSE|3|60.65969|Python|{'Python': 100.0}
+tensorflow.rb|tensorflow for ruby|670|670|58|"BSD 3-Clause ""New"" or ""Revised"" License"|15|60.637|Ruby|{'Ruby': 48.23, 'C': 36.22, 'C++': 9.46, 'Shell': 3.7, 'Python': 2.08, 'PureBasic': 0.31}
+tensorflow-for-poets-2||168|168|166|Apache License 2.0|50|60.610825|Python|{'Python': 52.83, 'Java': 38.7, 'Objective-C++': 6.85, 'Objective-C': 1.58, 'Ruby': 0.04}
+tensorspark|TensorFlow on Spark|289|289|105|NO LICENSE|5|60.603443|Python|{'Python': 99.09, 'Shell': 0.91}
+sequence_tagging|Named Entity Recognition (LSTM + CRF) - Tensorflow|676|676|267|Apache License 2.0|11|60.512505|Python|{'Python': 99.53, 'Makefile': 0.47}
+DualGAN|DualGAN-tensorflow: tensorflow implementation of DualGAN|142|142|56|Apache License 2.0|9|60.50516|Python|{'Python': 96.81, 'Shell': 3.19}
+g2p-seq2seq|G2P with Tensorflow|286|286|104|Other|18|60.503086|Python|{'Python': 100.0}
+tensorflow-train||76|76|143|NO LICENSE|7|60.476128|Python|{'Python': 100.0}
+pixel-rnn-tensorflow|in progress|418|418|108|MIT License|11|60.466904|Python|{'Python': 100.0}
+CycleGAN-tensorflow|Tensorflow implementation for learning an image-to-image translation without input-output pairs. https://arxiv.org/pdf/1703.10593.pdf|244|244|136|NO LICENSE|13|60.427677|Python|{'Python': 97.31, 'Shell': 2.69}
+deform-conv|Deformable Convolution in TensorFlow / Keras|486|486|137|MIT License|13|60.41817|Python|{'Python': 100.0}
+SRCNN-Tensorflow|Image Super-Resolution Using Deep Convolutional Networks in Tensorflow https://arxiv.org/abs/1501.00092v3|178|178|97|MIT License|8|60.40712|Python|{'Python': 100.0}
+Char-RNN-TensorFlow|Multi-language Char RNN for TensorFlow >= 1.2.|261|261|133|NO LICENSE|5|60.346195|Python|{'Python': 100.0}
+tensorflow-talk-debugging|💬 Slides and supplementary codes for my talk 'Debugging Tips on TensorFlow' (2016)|438|438|104|NO LICENSE|3|60.32562|Python|{'Python': 82.21, 'CSS': 9.7, 'HTML': 6.57, 'JavaScript': 1.52}
+TensorFlow-VAE-GAN-DRAW|A collection of generative methods implemented with TensorFlow (Deep Convolutional Generative Adversarial Networks (DCGAN), Variational Autoencoder (VAE) and DRAW: A Recurrent Neural Network For Image Generation).|481|481|152|Apache License 2.0|7|60.29486|Python|{'Python': 100.0}
+RFCN-tensorflow|RFCN implementation in TensorFlow|195|195|93|NO LICENSE|17|60.26228|Python|{'Python': 77.59, 'C++': 15.64, 'C': 5.5, 'Makefile': 1.27}
+skflow|Simplified interface for TensorFlow (mimicking Scikit Learn) for Deep Learning|3175|3175|463|Apache License 2.0|0|60.196186|Python|{'Python': 89.12, 'Shell': 10.88}
+tensorflow-DeepFM|Tensorflow implementation of DeepFM for CTR prediction.|234|234|134|MIT License|11|60.110706|Python|{'Python': 100.0}
+tensorflow-opencl|OpenCL support for TensorFlow|364|364|70|Apache License 2.0|31|60.106754|C++|{'C++': 48.26, 'Python': 44.45, 'Jupyter Notebook': 2.87, 'Go': 1.56, 'CMake': 1.02, 'Java': 0.69, 'Shell': 0.59, 'C': 0.31, 'Objective-C++': 0.1, 'Makefile': 0.06, 'PureBasic': 0.04, 'Batchfile': 0.01, 'Perl': 0.01, 'Objective-C': 0.01, 'LLVM': 0.01, 'Ruby': 0.0}
+ctc_tensorflow_example|CTC + Tensorflow Example for ASR|188|188|146|MIT License|5|60.06982|Python|{'Python': 100.0}
+StudyTensorFlow|How to use TensorFlow|167|167|122|NO LICENSE|0|59.983913|Python|{'Python': 100.0}
+tfjs-models|Pretrained models for TensorFlow.js|713|713|105|Apache License 2.0|2|59.792408|TypeScript|{'TypeScript': 77.27, 'JavaScript': 20.11, 'HTML': 2.62}
+show_attend_and_tell.tensorflow||397|397|153|"BSD 2-Clause ""Simplified"" License"|19|59.77492|Jupyter Notebook|{'Jupyter Notebook': 87.07, 'Python': 12.93}
+show_attend_and_tell.tensorflow||397|397|153|"BSD 2-Clause ""Simplified"" License"|19|59.74088|Jupyter Notebook|{'Jupyter Notebook': 87.07, 'Python': 12.93}
+tf_cnnvis|CNN visualization tool in TensorFlow|444|444|128|MIT License|11|59.70072|Python|{'Python': 100.0}
+TensorFlowLaboratory|Research about Tensorflow|249|249|95|NO LICENSE|7|59.377693|Python|{'Python': 100.0}
+tensorflow-tutorial|A tutorial on TensorFlow|215|215|78|Apache License 2.0|1|59.346947|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+tf-coreml|TensorFlow to CoreML Converter|573|573|64|Apache License 2.0|22|59.10377|Python|{'Python': 100.0}
+Convolutional-LSTM-in-Tensorflow|An implementation of convolutional lstms in tensorflow. The code is written in the same style as the basiclstmcell function in tensorflow|267|267|109|Apache License 2.0|11|59.050907|Python|{'Python': 100.0}
+dmn-tensorflow|Dynamic Memory Networks (https://arxiv.org/abs/1603.01417) in Tensorflow|210|210|77|NO LICENSE|10|59.050255|Python|{'Python': 100.0}
+SENet-Tensorflow|"Simple Tensorflow implementation of ""Squeeze and Excitation Networks"" using Cifar10 (ResNeXt, Inception-v4, Inception-resnet-v2)"|205|205|77|MIT License|6|58.97406|Python|{'Python': 100.0}
+variational-text-tensorflow|TensorFlow implementation of Neural Variational Inference for Text Processing|488|488|84|MIT License|4|58.96655|Python|{'Python': 100.0}
+tensorflow_basic_tutorial||172|172|129|GNU General Public License v3.0|1|58.9487|Jupyter Notebook|{'Jupyter Notebook': 98.1, 'Python': 1.9}
+fizz-buzz-tensorflow|fizz buzz in tensorflow|644|644|60|The Unlicense|5|58.93779|Jupyter Notebook|{'Jupyter Notebook': 90.86, 'Python': 9.14}
+CycleGAN|Tensorflow implementation of CycleGAN|178|178|105|NO LICENSE|4|58.937275|Python|{'Python': 56.78, 'Jupyter Notebook': 41.1, 'Shell': 2.12}
+tensorflow_examples|TensorFlow Example Projects|121|121|96|Apache License 2.0|0|58.8991|Python|{'Python': 100.0}
+TensorFlowAndroidDemo|TensorFlow Android stand-alone demo|255|255|107|NO LICENSE|13|58.807945|C++|{'C++': 45.3, 'Python': 37.56, 'Jupyter Notebook': 6.99, 'HTML': 4.71, 'TypeScript': 2.49, 'Shell': 0.94, 'C': 0.71, 'Protocol Buffer': 0.48, 'Java': 0.33, 'Objective-C++': 0.18, 'CMake': 0.14, 'Makefile': 0.09, 'JavaScript': 0.05, 'Objective-C': 0.02, 'CSS': 0.0, 'GCC Machine Description': 0.0}
+SRGAN-tensorflow|Tensorflow implementation of the SRGAN algorithm for single image super-resolution|209|209|76|NO LICENSE|20|58.792233|Python|{'Python': 96.06, 'Shell': 3.94}
+CNN_LSTM_CTC_Tensorflow|CNN+LSTM+CTC based OCR implemented using tensorflow.|135|135|140|MIT License|11|58.626545|Python|{'Python': 100.0}
+Getting-Started-with-TensorFlow|Getting Started with TensorFlow, published by Packt|211|211|165|NO LICENSE|3|58.607323|Python|{'Python': 100.0}
+tensorflow-nodejs|TensorFlow Node.js provides idiomatic JavaScript language bindings and a high layer API for Node.js users.|550|550|47|MIT License|10|58.58842|JavaScript|{'JavaScript': 53.6, 'C++': 45.68, 'Python': 0.72}
+LSTM-Sentiment-Analysis|Sentiment Analysis with LSTMs in Tensorflow|459|459|226|MIT License|15|58.493443|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+ssd_tensorflow_traffic_sign_detection|Implementation of Single Shot MultiBox Detector in TensorFlow, to detect and classify traffic signs|292|292|141|MIT License|18|58.412495|Python|{'Python': 100.0}
+TensorFlow-ML-Exercises|Learning Machine Learning with TensorFlow|215|215|111|NO LICENSE|0|58.4086|Python|{'Python': 100.0}
+TensorFlowAndroidMNIST|Tensorflow MNIST demo on Android|241|241|102|NO LICENSE|13|58.367615|C++|{'C++': 45.26, 'Python': 37.68, 'Jupyter Notebook': 7.0, 'HTML': 4.72, 'TypeScript': 2.5, 'Shell': 0.94, 'C': 0.71, 'Protocol Buffer': 0.48, 'Java': 0.22, 'Objective-C++': 0.18, 'CMake': 0.14, 'Makefile': 0.09, 'JavaScript': 0.05, 'Objective-C': 0.02, 'CSS': 0.0, 'GCC Machine Description': 0.0}
+show-attend-and-tell|"TensorFlow Implementation of ""Show, Attend and Tell"" "|489|489|214|MIT License|39|58.260582|Jupyter Notebook|{'Jupyter Notebook': 99.23, 'Python': 0.76, 'Shell': 0.01}
+tensorflow-glove|An implementation of GloVe in TensorFlow|199|199|71|NO LICENSE|6|58.160786|Jupyter Notebook|{'Jupyter Notebook': 98.37, 'Python': 1.63}
+Distributed-TensorFlow-Guide|Distributed TensorFlow basics and examples of training algorithms|365|365|85|MIT License|2|58.136494|Python|{'Python': 59.23, 'Jupyter Notebook': 38.62, 'Shell': 2.15}
+wechat_jump_tensorflow||256|256|97|NO LICENSE|3|58.069557|Python|{'Python': 93.54, 'JavaScript': 6.46}
+tensorflow-mnist-predict|Use TensorFlow to predict handwriting|152|152|120|NO LICENSE|6|58.048466|Python|{'Python': 100.0}
+Tensorflow-SegNet|Implement slightly different caffe-segnet in tensorflow|220|220|104|MIT License|28|58.04095|Python|{'Python': 98.99, 'Shell': 1.01}
+tensorflow_cc|Build and install TensorFlow C++ API library.|196|196|70|MIT License|10|57.986637|CMake|{'CMake': 59.41, 'Shell': 38.6, 'C++': 1.99}
+traffic-signs-tensorflow|Traffic Signs Detection and Recognition with Tensorflow|208|208|107|NO LICENSE|0|57.982258|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+C3D-tensorflow||213|213|105|MIT License|23|57.906013|Python|{'Python': 94.56, 'Shell': 5.44}
+tensorflow-cmake|Integrate TensorFlow with CMake projects effortlessly|201|201|67|MIT License|15|57.834637|Shell|{'Shell': 85.86, 'CMake': 14.14}
+prettytensor|Pretty Tensor: Fluent Networks in TensorFlow|1179|1179|134|Apache License 2.0|23|57.750347|Python|{'Python': 99.82, 'Shell': 0.18}
+Oreilly-Learning-TensorFlow||182|182|108|MIT License|5|57.741867|Jupyter Notebook|{'Jupyter Notebook': 65.25, 'Python': 34.75}
+object_detector_app|Real-Time Object Recognition App with Tensorflow and OpenCV|783|783|421|MIT License|11|57.726246|Python|{'Python': 96.0, 'Protocol Buffer': 3.2, 'Jupyter Notebook': 0.8}
+show_and_tell.tensorflow||266|266|92|"BSD 2-Clause ""Simplified"" License"|23|57.70848|Jupyter Notebook|{'Jupyter Notebook': 98.19, 'Python': 1.81}
+scikit-and-tensorflow-workbooks|"based on ""Hands-On Machine Learning with Scikit-Learn & TensorFlow"" (O'Reilly, Aurelien Geron)"|176|176|110|NO LICENSE|0|57.70838|HTML|{'HTML': 65.09, 'Jupyter Notebook': 34.91}
+horovod|Distributed training framework for TensorFlow, Keras, and PyTorch.|2363|2363|338|Other|64|57.67568|C++|{'C++': 67.9, 'Python': 32.1}
+Mask_RCNN|Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow|5970|5970|2239|Other|312|57.604828|Python|{'Python': 100.0}
+tensorflow-1.4-billion-password-analysis|Deep Learning model to analyze a large corpus of clear text passwords.|738|738|153|NO LICENSE|5|57.600952|Python|{'Python': 100.0}
+tensorflow-vdsr|"A tensorflow implementation of ""Accurate Image Super-Resolution Using  Very Deep Convolutional Networks"", CVPR 16'"|143|143|74|NO LICENSE|7|57.36737|Python|{'Python': 66.38, 'Matlab': 33.62}
+TensorFlow_Exercises|The codes I made while I practiced various TensorFlow examples|222|222|97|NO LICENSE|0|57.35134|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+Tensorflow|Tensorflow深度学习框架学习代码|49|49|41|NO LICENSE|2|57.27793|Python|{'Python': 100.0}
+dnc|A TensorFlow implementation of the Differentiable Neural Computer.|1983|1983|345|Apache License 2.0|5|57.262814|Python|{'Python': 100.0}
+OSVOS-TensorFlow|One-Shot Video Object Segmentation|263|263|81|GNU General Public License v3.0|3|56.947517|Python|{'Python': 100.0}
+R-Net|Tensorflow Implementation of R-Net|255|255|110|MIT License|12|56.944546|Python|{'Python': 98.33, 'Shell': 1.67}
+tensorflow_hmm|A tensorflow implementation of an HMM layer|224|224|57|Apache License 2.0|2|56.789986|Jupyter Notebook|{'Jupyter Notebook': 97.58, 'Python': 2.42}
+Densenet-Tensorflow|"Simple Tensorflow implementation of ""Densenet"" using Cifar10, MNIST"|182|182|60|MIT License|4|56.76343|Python|{'Python': 100.0}
+tensorflow|从入门到精通！学习tensorflow的过程，记录一些模型:mnist_ml LeNet cifar10_cnn|79|79|31|NO LICENSE|1|56.746655|Python|{'Python': 100.0}
+CRNN_Tensorflow|Convolutional Recurrent Neural Networks(CRNN) for Scene Text Recognition|129|129|70|NO LICENSE|37|56.680553|Python|{'Python': 100.0}
+BEGAN-tensorflow|python3 / Implementation of Google Brain's BEGAN in Tensorflow|196|196|58|NO LICENSE|6|56.641018|Python|{'Python': 100.0}
+tensorflow-image-classification|CNN for multi-class image recognition in tensorflow|155|155|96|NO LICENSE|1|56.391357|Jupyter Notebook|{'Jupyter Notebook': 99.61, 'Python': 0.39}
+keras-yolo3|A Keras implementation of YOLOv3 (Tensorflow backend)|536|536|156|MIT License|13|56.358196|Python|{'Python': 100.0}
+neural-summary-tensorflow|In progress|264|264|74|NO LICENSE|2|56.346123|Python|{'Python': 100.0}
+tensorflow_scala|TensorFlow API for the Scala Programming Language|382|382|41|Apache License 2.0|8|56.29316|Scala|{'Scala': 88.81, 'C++': 10.17, 'Shell': 0.57, 'CSS': 0.22, 'CMake': 0.15, 'JavaScript': 0.07}
+emotion-recognition-neural-networks|Emotion recognition using DNN with tensorflow|397|397|177|MIT License|23|56.263474|Python|{'Python': 100.0}
+tensorframes|Tensorflow wrapper for DataFrames on Apache Spark|650|650|139|Apache License 2.0|48|56.23675|Scala|{'Scala': 65.68, 'Python': 24.75, 'Shell': 4.71, 'Makefile': 2.32, 'Batchfile': 2.22, 'Nix': 0.27, 'PureBasic': 0.05}
+TensorFlow-Machine-Learning-Cookbook|Code repository for TensorFlow Machine Learning Cookbook by Packt|139|139|142|MIT License|5|56.19131|Python|{'Python': 100.0}
+TensorFlow-TransX|An implementation of TransE and its extended models for Knowledge Representation Learning on TensorFlow|204|204|82|MIT License|0|56.11262|Python|{'Python': 61.77, 'C++': 37.99, 'Shell': 0.23}
+keras|Deep Learning for humans|30079|30079|11266|Other|1515|56.076893|Python|{'Python': 99.96, 'Makefile': 0.04}
+stocks_rnn|Stock price prediction with LSTMs in TensorFlow|341|341|176|Apache License 2.0|5|55.99291|Python|{'Python': 100.0}
+keras|Deep Learning for humans|30079|30079|11266|Other|1515|55.934772|Python|{'Python': 99.96, 'Makefile': 0.04}
+tensorflow-shakespeare|Neural machine translation between the writings of Shakespeare and modern English using TensorFlow|219|219|50|Apache License 2.0|3|55.841923|Python|{'Python': 99.48, 'Shell': 0.52}
+tensorflow-white-paper-notes|Annotated notes and summaries of the TensorFlow white paper, along with SVG figures and links to documentation|402|402|59|MIT License|4|55.78943||{}
+crfasrnn_keras|CRF-RNN Keras/Tensorflow version|290|290|88|MIT License|11|55.784214|Python|{'Python': 75.1, 'C++': 18.52, 'Makefile': 6.38}
+tensorflow_chessbot|Predict chessboard FEN layouts from images using TensorFlow|247|247|47|MIT License|12|55.719917|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+tensorforce|TensorForce: A TensorFlow library for applied reinforcement learning|1628|1628|282|Apache License 2.0|42|55.632168|Python|{'Python': 100.0}
+tensorflow_novelist|模仿莎士比亚创作戏剧！屌炸天的是还能创作金庸武侠小说！快star，保持更新！！|151|151|56|NO LICENSE|1|55.539383|Python|{'Python': 100.0}
+Tensorflow-Segmentation|Semantic image segmentation in Tensorflow|162|162|55|NO LICENSE|13|55.44605|Jupyter Notebook|{'Jupyter Notebook': 84.78, 'Python': 15.22}
+tensorflow-convlstm-cell|A ConvLSTM cell with layer normalization and peepholes for TensorFlow's RNN API.|217|217|73|MIT License|6|55.403393|Python|{'Python': 100.0}
+Tensorflow-DeconvNet-Segmentation|"Tensorflow implementation of ""Learning Deconvolution Network for Semantic Segmentation"""|194|194|76|Other|19|55.39527|Jupyter Notebook|{'Jupyter Notebook': 95.4, 'Python': 4.6}
+ssd_tensorflow|SSD implementation in development in TensorFlow|169|169|52|NO LICENSE|9|55.363823|Python|{'Python': 97.2, 'OpenEdge ABL': 2.8}
+TensorFlow.jl|A Julia wrapper for TensorFlow|334|334|60|Other|46|55.32812|Julia|{'Julia': 100.0}
+lstm_ctc_ocr|Use CTC + tensorflow to OCR|203|203|95|NO LICENSE|9|55.29952|Python|{'Python': 99.78, 'Shell': 0.22}
+TensorFlowBook|DeepLearning in TensorFlow|89|89|86|Apache License 2.0|0|55.273457|Python|{'Python': 84.96, 'Jupyter Notebook': 15.04}
+tf-rnn|Practical Examples for RNNs in Tensorflow|425|425|135|NO LICENSE|0|55.270126|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+byteNet-tensorflow|ByteNet for character-level language modelling|290|290|62|MIT License|6|55.119595|Python|{'Python': 100.0}
+tfmesos|Tensorflow in Docker on Mesos #tfmesos #tensorflow #mesos|176|176|46|"BSD 3-Clause ""New"" or ""Revised"" License"|2|55.067974|Python|{'Python': 90.85, 'Shell': 9.15}
+EDSR-Tensorflow|Tensorflow implementation of Enhanced Deep Residual Networks for Single Image Super-Resolution|141|141|55|MIT License|12|55.057163|Python|{'Python': 100.0}
+agents|Efficient Batched Reinforcement Learning in TensorFlow|703|703|111|Apache License 2.0|7|54.969917|Python|{'Python': 100.0}
+mnist-android-tensorflow|Handwritten digits classification from MNIST with TensorFlow on Android; Featuring Tutorial!|293|293|59|NO LICENSE|2|54.914112|Java|{'Java': 73.22, 'Python': 19.7, 'CMake': 6.1, 'C++': 0.98}
+tfjs-converter|Convert TensorFlow SavedModel and Keras models to TensorFlow.js|231|231|42|Apache License 2.0|1|54.838825|TypeScript|{'TypeScript': 35.92, 'Python': 33.81, 'JavaScript': 27.77, 'Shell': 2.51}
+tf_repos|TensorFlow Script|88|88|47|NO LICENSE|0|54.83772|Python|{'Python': 89.12, 'C++': 6.94, 'Shell': 3.93}
+lattice|Lattice methods in TensorFlow|306|306|48|Apache License 2.0|7|54.83499|Python|{'Python': 72.64, 'C++': 24.94, 'Shell': 2.42}
+TensorFlow-Time-Series-Examples|Time Series Prediction with tf.contrib.timeseries|219|219|96|NO LICENSE|7|54.809174|Python|{'Python': 100.0}
+tensorflow-face-detection|A mobilenet SSD based face detector, powered by tensorflow object detection api, trained by WIDERFACE dataset.|186|186|70|Apache License 2.0|2|54.792824|Python|{'Python': 100.0}
+DeepQA|"My tensorflow implementation of ""A neural conversational model"", a Deep learning based chatbot"|1858|1858|837|Apache License 2.0|80|54.77519|Python|{'Python': 56.99, 'CSS': 31.96, 'JavaScript': 8.85, 'HTML': 1.76, 'Shell': 0.44}
+gentle_tensorflow|Gentle introduction to Tensorflow|108|108|59|NO LICENSE|0|54.768368|Python|{'Python': 100.0}
+TensorFlow_learning_notes|tensorflow学习笔记，来源于电子书：《Tensorflow实战Google深度学习框架》|185|185|71|NO LICENSE|0|54.76632|Jupyter Notebook|{'Jupyter Notebook': 99.45, 'Python': 0.55}
+subpixel|subpixel: A subpixel convnet for super resolution with Tensorflow|1726|1726|218|MIT License|35|54.749004|Jupyter Notebook|{'Jupyter Notebook': 61.49, 'Python': 38.51}
+tensorflow-deeplab-lfov|DeepLab-LargeFOV implemented in tensorflow|168|168|74|MIT License|12|54.68569|Python|{'Python': 100.0}
+tensorflow-windows-wheel|Tensorflow prebuilt binary for Windows|290|290|56|NO LICENSE|13|54.55627||{}
+TensorFlow-iOS-Example|"Source code for my blog post ""Getting started with TensorFlow on iOS"""|361|361|73|NO LICENSE|7|54.53482|Swift|{'Swift': 40.97, 'Python': 40.53, 'Objective-C++': 14.79, 'Objective-C': 3.46, 'Shell': 0.26}
+tensorflow-without-a-phd|A crash course in six episodes for software developers who want to become machine learning practitioners.|217|217|64|Apache License 2.0|6|54.499584|Jupyter Notebook|{'Jupyter Notebook': 89.32, 'Python': 10.62, 'Shell': 0.06}
+tf-operator|Tools for ML/Tensorflow on Kubernetes.|430|430|129|Apache License 2.0|69|54.451954|Go|{'Go': 81.33, 'Python': 13.02, 'JavaScript': 4.93, 'Shell': 0.54, 'HTML': 0.17, 'CSS': 0.01}
+tensorflow||52|52|28|NO LICENSE|0|54.439487|Python|{'Python': 100.0}
+convolutional-pose-machines-tensorflow||166|166|70|Apache License 2.0|7|54.407417|Python|{'Python': 100.0}
+tensorflow-resources|Curated Tensorflow code resources to help you get started with Deep Learning.|308|308|36|MIT License|1|54.404354|Python|{'Python': 100.0}
+fold|Deep learning with dynamic computation graphs in TensorFlow|1610|1610|232|Apache License 2.0|51|54.395218|Python|{'Python': 51.25, 'C++': 41.92, 'Jupyter Notebook': 5.64, 'Shell': 1.01, 'C': 0.19}
+tfgo|Tensorflow + Go, the gopher way|849|849|47|Apache License 2.0|0|54.392353|Go|{'Go': 97.48, 'Python': 2.52}
+captcha-tensorflow|hack captcha by cnn with tensorflow|100|100|60|NO LICENSE|2|54.386505|HTML|{'HTML': 52.0, 'Python': 48.0}
+tf_unet|Generic U-Net Tensorflow implementation for image segmentation|643|643|332|GNU General Public License v3.0|49|54.313812|Python|{'Python': 97.84, 'Makefile': 1.99, 'Shell': 0.17}
+capsule-networks|A Tensorflow implementation of Capsule Networks|365|365|129|MIT License|2|54.238453|Python|{'Python': 100.0}
+pointer-network-tensorflow|"TensorFlow implementation of ""Pointer Networks"""|240|240|58|MIT License|9|54.086414|Python|{'Python': 100.0}
+DeepLearning_tutorials|The deeplearning algorithms implemented by tensorflow|284|284|146|NO LICENSE|2|54.080196|Jupyter Notebook|{'Jupyter Notebook': 83.98, 'Python': 16.02}
+tensorflow-learn||99|99|56|NO LICENSE|3|54.076557|Python|{'Python': 100.0}
+tf-bestpractice|Tensorflow Best Practices|305|305|44|NO LICENSE|4|54.032917||{}
+PSPNet-Keras-tensorflow|original code : https://github.com/hszhao/PSPNet|158|158|69|MIT License|14|53.981083|Python|{'Python': 100.0}
+AI-Practice-Tensorflow-Notes|人工智能实践：Tensorflow笔记|115|115|78|NO LICENSE|1|53.91014|Python|{'Python': 100.0}
+paraphrase-id-tensorflow|Various models and code (Manhattan LSTM, Siamese LSTM + Matching Layer, BiMPM) for the paraphrase identification task, specifically with the Quora Question Pairs dataset.|231|231|59|MIT License|10|53.86038|Python|{'Python': 97.83, 'Shell': 1.18, 'Makefile': 0.99}
+VNect-tensorflow||150|150|46|Apache License 2.0|3|53.827045|Python|{'Python': 99.58, 'Shell': 0.42}
+cppn-gan-vae-tensorflow|Train CPPNs as a Generative Model, using Generative Adversarial Networks and Variational Autoencoder techniques to produce high resolution images.|220|220|57|NO LICENSE|1|53.7066|Python|{'Python': 100.0}
+tensorflow-ue4|TensorFlow plugin for Unreal Engine 4|253|253|53|Other|10|53.628517|C|{'C': 68.03, 'C++': 22.49, 'Python': 6.3, 'C#': 3.18}
+tensorflow-101|TensorFlow 101: Introduction to TensorFlow|36|36|31|NO LICENSE|0|53.476883|Jupyter Notebook|{'Jupyter Notebook': 90.47, 'Python': 9.08, 'Java': 0.45}
+Variational-Recurrent-Autoencoder-Tensorflow|"A tensorflow implementation of ""Generating Sentences from a Continuous Space"""|152|152|65|NO LICENSE|6|53.425255|Python|{'Python': 100.0}
+AndroidTensorFlowMNISTExample|Android TensorFlow MachineLearning MNIST Example (Building Model with TensorFlow for Android)|379|379|81|Apache License 2.0|2|53.41585|Java|{'Java': 81.52, 'Python': 18.48}
+act-tensorflow|Adaptive Computation Time algorithm in Tensorflow|192|192|38|NO LICENSE|0|53.40165|Python|{'Python': 100.0}
+NakedTensor|Bare bone examples of machine learning in TensorFlow|2464|2464|155|Apache License 2.0|1|53.382042|Python|{'Python': 100.0}
+KittiBox|A car detection model implemented in Tensorflow.|269|269|133|MIT License|30|53.362125|Python|{'Python': 75.13, 'C++': 24.72, 'Makefile': 0.15}
+tensorflow.cifar10|The examples of image recognition with the dataset CIFAR10 via tensorflow.|72|72|88|NO LICENSE|2|53.35389|Python|{'Python': 100.0}
+spatial-transformer-tensorflow|Tensorflow Implementation of Spatial Transformer Networks |159|159|63|MIT License|2|53.34031|Python|{'Python': 100.0}
+tensorflow-style-transfer|A simple, concise tensorflow implementation of style transfer (neural style)|158|158|63|NO LICENSE|1|53.322895|Python|{'Python': 100.0}
+Tensorflow-Examples|Some example code using Tensorflow|76|76|56|NO LICENSE|5|53.267513|Python|{'Python': 100.0}
+KittiSeg|A Kitti Road Segmentation model implemented in tensorflow.|578|578|288|MIT License|71|53.235233|Python|{'Python': 100.0}
+SA-tensorflow|Soft attention mechanism for video caption generation|104|104|49|NO LICENSE|4|53.14115|Python|{'Python': 100.0}
+understanding_tensorflow_nn|🔮Getting started with TensorFlow: Classifying Text with Neural Networks|165|165|61|NO LICENSE|2|53.080692|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+tensorflow-tex-wavenet|This is a TensorFlow implementation of the WaveNet generative neural network architecture https://deepmind.com/blog/wavenet-generative-model-raw-audio/ for text generation.|275|275|48|MIT License|5|53.036816|Python|{'Python': 100.0}
+tensorflow-mnist-VAE|Tensorflow implementation of variational auto-encoder for MNIST|146|146|62|NO LICENSE|4|53.032715|Python|{'Python': 100.0}
+flink-tensorflow|flink-tensorflow - TensorFlow support for Apache Flink|80|80|29|Apache License 2.0|10|52.94298|Scala|{'Scala': 71.96, 'Java': 28.04}
+generative-models|Collection of generative models, e.g. GAN, VAE in Pytorch and Tensorflow.|3368|3368|1043|The Unlicense|5|52.86079|Python|{'Python': 100.0}
+tensorflow-allreduce||174|174|38|Apache License 2.0|12|52.788372|C++|{'C++': 49.29, 'Python': 43.12, 'Jupyter Notebook': 3.31, 'Go': 1.67, 'Shell': 0.61, 'Java': 0.6, 'Protocol Buffer': 0.46, 'C': 0.35, 'CMake': 0.32, 'Objective-C++': 0.11, 'Makefile': 0.07, 'PureBasic': 0.04, 'Batchfile': 0.01, 'Objective-C': 0.01, 'LLVM': 0.01, 'Ruby': 0.0}
+tensorflow-safari-course|Exercises and solutions to accompany my Safari course introducing TensorFlow.|105|105|69|Apache License 2.0|0|52.763172|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+Tensorflow-101|中文的 tensorflow tutorial with jupyter notebooks|103|103|48|Other|4|52.737816|Jupyter Notebook|{'Jupyter Notebook': 100.0, 'Python': 0.0}
+TensorFlow-in-a-Nutshell|The repo for the fast and easy guide to the most popular deep learning framework in the world.|173|173|78|MIT License|2|52.722767|Python|{'Python': 100.0}
+tensorflow_tutorial|tensorflow的一些实例|66|66|56|NO LICENSE|2|52.720295|Python|{'Python': 100.0}
+neural-vqa-tensorflow|Visual Question Answering in Tensorflow.|189|189|53|NO LICENSE|2|52.714405|Python|{'Python': 100.0}
+probability|Probabilistic reasoning and statistical analysis in TensorFlow|648|648|80|Other|48|52.676556|Jupyter Notebook|{'Jupyter Notebook': 70.3, 'Python': 29.59, 'Shell': 0.11}
+tensorlayer|A Deep Learning Library for Researchers and Engineers built on top of TensorFlow|3865|3865|966|Apache License 2.0|43|52.66204|Python|{'Python': 99.83, 'Makefile': 0.1, 'Shell': 0.04, 'Batchfile': 0.03}
+Tensorflow-MultiGPU-VAE-GAN|A single jupyter notebook multi gpu VAE-GAN example with latent space algebra and receptive field visualizations. |309|309|61|MIT License|7|52.587063|Jupyter Notebook|{'Jupyter Notebook': 99.77, 'Python': 0.23}
+CNN_sentence_tensorflow|卷积神经网络(CNN)应用于中文文本分析任务|90|90|72|NO LICENSE|7|52.582626|Python|{'Python': 100.0}
+intro-to-tensorflow|This is an introduction to tensorflow |137|137|59|Other|1|52.554585|Jupyter Notebook|{'Jupyter Notebook': 99.43, 'TypeScript': 0.36, 'Python': 0.17, 'HTML': 0.04, 'CSS': 0.0}
+tf_examples|TensorFlow and Scikit Flow examples|130|130|82|Apache License 2.0|2|52.552387|Python|{'Python': 100.0}
+tf-dann|Domain-Adversarial Neural Network in Tensorflow|273|273|106|NO LICENSE|3|52.504654|Jupyter Notebook|{'Jupyter Notebook': 98.71, 'Python': 1.29}
+tensorflow_makefile||38|38|72|Apache License 2.0|5|52.47889|C++|{'C++': 48.08, 'Python': 33.74, 'Jupyter Notebook': 9.27, 'HTML': 4.04, 'TypeScript': 2.14, 'Shell': 0.87, 'C': 0.82, 'Protocol Buffer': 0.58, 'Java': 0.2, 'CMake': 0.15, 'JavaScript': 0.06, 'Makefile': 0.04, 'CSS': 0.01}
+Youtube-Recommendation-Tensorflow|code of paper `Deep Neural Networks for Youtube Recommendation`|129|129|60|NO LICENSE|5|52.39374|Python|{'Python': 100.0}
+tensorflow-rl|Implementations of deep RL papers and random experimentation|144|144|38|Apache License 2.0|10|52.39114|Python|{'Python': 100.0}
+Neural_Conversation_Models|Tensorflow based Neural Conversation Models|176|176|70|Apache License 2.0|7|52.350998|Python|{'Python': 100.0}
+ICNet-tensorflow|An implementation of ICNet (Real-time image segmentation) in tensorflow, containing train/test phase, see tutorial at:|123|123|42|NO LICENSE|32|52.323036|Python|{'Python': 100.0}
+TensorflowSentiment|Sentiment analysis in TensorFlow, and tutorials from TensorFlow page|35|35|24|NO LICENSE|2|52.25488|Python|{'Python': 100.0}
+DeepLearn-Tensorflow|✨✨开始迈向人工智能、机器学习、深度学习，学习主流的深度学习框架Tensorflow之旅|174|174|51|NO LICENSE|0|52.249474|Python|{'Python': 100.0}
+ShuffleNet|ShuffleNet Implementation in TensorFlow|151|151|45|Apache License 2.0|6|52.234703|Python|{'Python': 100.0}
+cppn-tensorflow|Very Simple and Basic Implementation of Compositional Pattern Producing Network in TensorFlow|176|176|34|NO LICENSE|0|52.220528|Python|{'Python': 100.0}
+TensorFlowDeepAutoencoder|MNIST Digit Classification Using Stacked Autoencoder And TensorFlow|121|121|59|NO LICENSE|4|52.186024|Python|{'Python': 96.91, 'Shell': 3.09}
+DQN_tensorflow|Tensorflow implementation of deep Q networks in paper  'Playing Atari with Deep Reinforcement Learning'|116|116|41|NO LICENSE|2|52.167416|Python|{'Python': 100.0}
+AlphaGOZero-python-tensorflow|Congratulation to DeepMind! This is a reengineering implementation (on behalf of many other git repo in /support/) of DeepMind's Oct19th publication: [Mastering the Game of Go without Human Knowledge]. The supervised learning approach is more practical for individuals. (This repository has single purpose of education only)|176|176|51|MIT License|2|52.11086|Python|{'Python': 99.41, 'Shell': 0.59}
+ocr_tensorflow_cnn|tensorflow 实现端到端的OCR：二代身份证号识别|97|97|67|NO LICENSE|3|52.06376|Python|{'Python': 100.0}
+tensorflow_shiny|A R/Shiny app for interactive RNN tensorflow models|114|114|41|NO LICENSE|0|52.058|Jupyter Notebook|{'Jupyter Notebook': 94.35, 'R': 5.65}
+visual-analogy-tensorflow|"Tensorflow implementation of ""Deep Visual Analogy-Making"""|276|276|42|MIT License|1|52.04238|Python|{'Python': 99.35, 'Shell': 0.65}
+memn2n|End-To-End Memory Network using Tensorflow|254|254|111|MIT License|9|52.024944|Python|{'Python': 100.0}
+RPNplus|RPN+(Tensorflow) for people detection|134|134|73|MIT License|12|51.98798|Python|{'Python': 100.0}
+segan|Speech Enhancement Generative Adversarial Network in TensorFlow|280|280|101|MIT License|23|51.986946|Python|{'Python': 95.74, 'Shell': 4.26}
+DilatedRNN|Tensorflow implementation for DilatedRNN|250|250|36|Apache License 2.0|3|51.985302|Python|{'Python': 55.89, 'Jupyter Notebook': 44.11}
+TensorflowFramework|An extendable framework for training neural network models using TensorFlow.|62|62|18|NO LICENSE|0|51.94418|Python|{'Python': 100.0}
+Relation-Network-Tensorflow|Tensorflow implementations of Relational Networks and a VQA dataset named Sort-of-CLEVR proposed by DeepMind.|186|186|48|MIT License|1|51.911987|Python|{'Python': 100.0}
+distributed-tensorflow-example|An example of data parallelism and async updates of parameter in tensorflow.|101|101|64|NO LICENSE|5|51.911896|Python|{'Python': 100.0}
+boltzmann-machines|Boltzmann Machines in TensorFlow with examples|568|568|74|MIT License|0|51.896225|Jupyter Notebook|{'Jupyter Notebook': 99.73, 'Python': 0.14, 'TeX': 0.13, 'Shell': 0.0, 'Makefile': 0.0}
+tensorflow_fasttext|Simple embedding based text classifier inspired by fastText, implemented in tensorflow|138|138|36|MIT License|3|51.877872|Python|{'Python': 80.29, 'Shell': 19.71}
+PSPNet-tensorflow|An implementation of PSPNet in tensorflow, see tutorial at: |89|89|44|NO LICENSE|23|51.87283|Python|{'Python': 100.0}
+Valified_Code_Classify|Python3/TensorFlow|59|59|38|NO LICENSE|0|51.799236|Python|{'Python': 100.0}
+SpikeFlow|Chinese OCR with TensorFlow|118|118|47|MIT License|2|51.67604|Python|{'Python': 100.0}
+tensorflow-deep-learning|google tensorflow deep learning for big data examples|197|197|47|NO LICENSE|16|51.64945||{}
+indrnn|TensorFlow implementation of Independently Recurrent Neural Networks|393|393|83|Apache License 2.0|1|51.602592|Python|{'Python': 100.0}
+Deep-Learning-with-TensorFlow|Deep Learning with TensorFlow by Packt|82|82|91|MIT License|3|51.59341|Python|{'Python': 100.0}
+TensorFlow-Pointer-Networks|TensorFlow implementation of Pointer Networks|150|150|50|MIT License|7|51.592922|Python|{'Python': 59.31, 'Jupyter Notebook': 40.69}
+ImageProcessing|Image processing using tensorflow|94|94|51|NO LICENSE|0|51.54856|Python|{'Python': 100.0}
+tdb|Interactive, node-by-node debugging and visualization for TensorFlow|1293|1293|150|Apache License 2.0|8|51.5326|JavaScript|{'JavaScript': 90.27, 'Python': 6.67, 'Jupyter Notebook': 3.05, 'Shell': 0.01}
+tensorflow_qrnn|QRNN implementation for TensorFlow|196|196|31|MIT License|1|51.49178|Python|{'Python': 100.0}
+tf-dcgan|DCGAN implementation by TensorFlow|123|123|44|MIT License|1|51.474987|Python|{'Python': 100.0}
+tensorflow-rex-run|A TensorFlow.js based AI player platform for T-Rex Runner. T-Rex Runner is originally an easter egg game inside chrome.|290|290|37|NO LICENSE|0|51.45198|JavaScript|{'JavaScript': 94.53, 'HTML': 3.98, 'CSS': 1.49}
+first-steps-with-tensorflow|도서 '텐서플로 첫걸음'의 예제 주피터 노트북입니다.|83|83|63|MIT License|0|51.446987|Jupyter Notebook|{'Jupyter Notebook': 79.74, 'C++': 11.61, 'Shell': 5.7, 'Python': 2.21, 'C': 0.66, 'Makefile': 0.07}
+NAF-tensorflow|"""Continuous Deep Q-Learning with Model-based Acceleration"" in TensorFlow"|127|127|37|MIT License|5|51.382153|Python|{'Python': 99.06, 'Shell': 0.94}
+tf-coriander|OpenCL 1.2 implementation for Tensorflow|571|571|68|Apache License 2.0|29|51.355473|C++|{'C++': 45.98, 'Python': 41.57, 'Jupyter Notebook': 6.2, 'TypeScript': 2.35, 'HTML': 1.71, 'Shell': 0.94, 'C': 0.32, 'CMake': 0.23, 'Objective-C++': 0.22, 'Java': 0.17, 'Go': 0.16, 'Makefile': 0.09, 'JavaScript': 0.04, 'Objective-C': 0.02, 'CSS': 0.0}
+NN_NER_tensorFlow|"Implementing , learning and re implementing ""End-to-end Sequence Labeling via Bi-directional LSTM-CNNs-CRF"" in Tensorflow"|95|95|59|NO LICENSE|2|51.35382|Python|{'Python': 100.0}
+GAN-tensorflow|Implement Generative Adversarial Nets by Tensorflow|70|70|45|NO LICENSE|0|51.325123|Python|{'Python': 100.0}
+TensorFlow-ENet|TensorFlow implementation of ENet|103|103|48|MIT License|9|51.31047|Python|{'Python': 98.65, 'Shell': 1.35}
+onnx-tensorflow|Tensorflow Backend and Frontend for ONNX|178|178|30|Apache License 2.0|23|51.29583|Python|{'Python': 98.79, 'Shell': 1.21}
+genadv_tutorial|TensorFlow tutorial on Generative Adversarial Models|213|213|103|Other|3|51.284607|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+attentive-reader-tensorflow|in progress|178|178|45|NO LICENSE|7|51.264057|Python|{'Python': 98.96, 'Shell': 1.04}
+InsightFace_TF|Insight Face on TensorFlow|124|124|44|MIT License|13|51.262566|Python|{'Python': 100.0}
+distributeTensorflowExample|distribute tensorflow  example|97|97|48|NO LICENSE|16|51.143036|Python|{'Python': 100.0}
+TensorNet-TF|TensorNet (TensorFlow implementation)|146|146|39|NO LICENSE|1|51.129208|Python|{'Python': 100.0}
+VAE-TensorFlow|Implementation of a Variational Auto-Encoder in TensorFlow|120|120|51|MIT License|0|51.06815|Python|{'Python': 100.0}
+Tiny_Faces_in_Tensorflow|"A Tensorflow Tiny Face Detector, implementing ""Finding Tiny Faces"""|134|134|49|NO LICENSE|8|51.02662|Python|{'Python': 100.0}
+tensorflow|TensorFlow ROCm port|83|83|16|Apache License 2.0|9|51.01127|C++|{'C++': 49.97, 'Python': 42.9, 'Jupyter Notebook': 3.29, 'Go': 1.67, 'Shell': 0.63, 'Java': 0.6, 'C': 0.36, 'CMake': 0.32, 'Objective-C++': 0.11, 'Makefile': 0.07, 'PureBasic': 0.04, 'AMPL': 0.02, 'Batchfile': 0.01, 'Objective-C': 0.01, 'LLVM': 0.01, 'Ruby': 0.0}
+tensorflow_CTC_example|A short example of training a bidirectional LSTM model with connectionist temporal classification|134|134|49|NO LICENSE|5|50.990223|Python|{'Python': 100.0}
+Custom-Object-Detection|Custom Object Detection with TensorFlow|119|119|65|MIT License|11|50.95685|Python|{'Python': 96.58, 'Jupyter Notebook': 2.2, 'Shell': 1.22}
+deeplearning-tensorflow-keras||110|110|53|NO LICENSE|3|50.948914|Python|{'Python': 100.0}
+tensorflow-posenet|Implementation of Posenet in TensorFlow |125|125|35|MIT License|2|50.931576|Python|{'Python': 100.0}
+LSTM-autoencoder|TensorFlow LSTM-autoencoder implementation|100|100|45|MIT License|0|50.925064|Python|{'Python': 100.0}
+transformer-tensorflow|TensorFlow implementation of 'Attention Is All You Need (2017. 6)'|137|137|32|NO LICENSE|3|50.91671|Python|{'Python': 66.06, 'Jupyter Notebook': 32.86, 'Shell': 1.08}
+cnn-text-classification-tf-chinese|CNN for Chinese Text Classification in Tensorflow|196|196|102|NO LICENSE|10|50.8956|Python|{'Python': 100.0}
+c3d-keras|C3D for Keras + TensorFlow|99|99|46|Other|1|50.891747|Python|{'Python': 87.92, 'Shell': 12.08}
+TensorFlow-for-absolute-beginners|TensorFlow for absolute beginners: a 3-hour codelab for self-learning neural network basics without hard math.|153|153|65|Apache License 2.0|1|50.890232|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+3D_CNN_tensorflow|KITTI data processing and 3D CNN for Vehicle Detection|103|103|54|NO LICENSE|6|50.879642|Python|{'Python': 100.0}
+VQA-tensorflow|Tensorflow Implementation of Deeper LSTM+ normalized CNN for Visual Question Answering|85|85|39|MIT License|3|50.851948|Python|{'Python': 91.12, 'Lua': 8.88}
+tensorflow-model-zoo.torch|InceptionV3, InceptionV4, Inception-Resnet pretrained models for Torch7 and PyTorch|196|196|42|Other|4|50.79523|Python|{'Python': 79.43, 'C++': 15.85, 'HTML': 1.71, 'Jupyter Notebook': 1.12, 'Shell': 0.95, 'Lua': 0.42, 'JavaScript': 0.39, 'TypeScript': 0.08, 'Makefile': 0.06, 'GLSL': 0.01}
+edward|A probabilistic programming language in TensorFlow. Deep generative models, variational inference.|3604|3604|648|Other|177|50.764065|Jupyter Notebook|{'Jupyter Notebook': 69.93, 'Python': 29.93, 'Makefile': 0.12, 'Smarty': 0.01}
+VoxelNet-tensorflow|A 3D object detection system for autonomous driving.|130|130|47|NO LICENSE|11|50.74093|Python|{'Python': 100.0}
+gae|Implementation of Graph Auto-Encoders in TensorFlow|393|393|75|MIT License|1|50.7246|Python|{'Python': 100.0}
+tf-tutorial|Short tutorial for TensorFlow, designed to be presented in-person|140|140|347|NO LICENSE|5|50.723217|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+tensorflow-infogan|:dolls: InfoGAN: Interpretable Representation Learning|86|86|38|NO LICENSE|6|50.7022|Python|{'Python': 56.22, 'Jupyter Notebook': 43.78}
+Tensorflow-Cheatsheet|My personal reference for Tensorflow|97|97|38|NO LICENSE|0|50.676964||{}
+functional-zoo|PyTorch and Tensorflow functional model definitions|405|405|69|NO LICENSE|1|50.563797|Jupyter Notebook|{'Jupyter Notebook': 99.65, 'Python': 0.24, 'C++': 0.1, 'CMake': 0.02}
+tensorflow-vgg|Re-implementation of VGG Network in tensorflow|59|59|44|MIT License|10|50.55935|Jupyter Notebook|{'Jupyter Notebook': 88.13, 'Python': 11.87}
+R2CNN_FPN_Tensorflow|R2CNN: Rotational Region CNN Based on FPN (Tensorflow)|173|173|58|NO LICENSE|34|50.5336|Python|{'Python': 99.94, 'C++': 0.06}
+FPN_Tensorflow|A Tensorflow implementation of FPN detection framework.|101|101|36|NO LICENSE|14|50.523525|Python|{'Python': 100.0}
+Matrix-Capsules-EM-Tensorflow|A Tensorflow implementation of CapsNet based on paper Matrix Capsules with EM Routing|125|125|47|Apache License 2.0|19|50.518562|Python|{'Python': 99.6, 'Shell': 0.4}
+tensorflow-feedstock|A conda-smithy repository for tensorflow.|51|51|47|"BSD 3-Clause ""New"" or ""Revised"" License"|5|50.50743|Shell|{'Shell': 93.12, 'Batchfile': 6.88}
+TensorFlow-Bitcoin-Robot|A Bitcoin trade robot based on Tensorflow LSTM model.Just for fun.|113|113|49|Apache License 2.0|2|50.497307|Python|{'Python': 100.0}
+ecosystem|Integration of TensorFlow with other open-source frameworks|588|588|179|Apache License 2.0|17|50.441708|Scala|{'Scala': 76.11, 'Java': 16.44, 'Python': 4.08, 'HTML': 3.37}
+tensorflow-image-detection|A generic image detection program that uses Google's Machine Learning library, Tensorflow and a pre-trained Deep Learning Convolutional Neural Network model called Inception.|208|208|37|MIT License|3|50.301506|Python|{'Python': 99.34, 'Shell': 0.66}
+bnlstm|Batch normalized LSTM for tensorflow|166|166|50|NO LICENSE|5|50.268066|Python|{'Python': 100.0}
+keras-tensorflow-windows-installation|10 easy steps to install Tensorflow-GPU and Keras in Windows|88|88|52|MIT License|3|50.15659||{}
+DnCNN-tensorflow|":octocat::octocat:A tensorflow implement of the paper ""Beyond a Gaussian Denoiser: Residual Learning of Deep CNN for Image Denoising"""|85|85|52|GNU General Public License v3.0|6|50.133095|Python|{'Python': 98.91, 'Shell': 1.09}
+dilation-tensorflow|A native Tensorflow implementation of semantic segmentation according to Multi-Scale Context Aggregation by Dilated Convolutions (2016). Optionally uses the pretrained weights by the authors.|95|95|34|MIT License|1|50.10396|Python|{'Python': 100.0}
+tensorflow-finetune-flickr-style|Demonstrate the finetune process on TensorFlow|110|110|47|NO LICENSE|2|50.100574|Python|{'Python': 100.0}
+TF-Tutorials|A collection of deep learning tutorials using Tensorflow and Python|468|468|183|NO LICENSE|3|50.099106|Jupyter Notebook|{'Jupyter Notebook': 99.56, 'Python': 0.44}
+tensorflow-mnist-cnn|MNIST classification using Convolutional NeuralNetwork. Various techniques such as data augmentation, dropout, batchnormalization, etc are implemented. |94|94|50|NO LICENSE|2|50.06838|Python|{'Python': 100.0}
+Android-TensorFlow-Lite-Example|Android TensorFlow Lite Machine Learning Example|249|249|46|Apache License 2.0|4|50.067448|Java|{'Java': 100.0}
+QA-with-Tensorflow||95|95|50|NO LICENSE|1|50.002056|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+sact|Spatially Adaptive Computation Time for Residual Networks|192|192|38|Apache License 2.0|2|49.99061|Python|{'Python': 100.0}
+tf-seq2seq|Sequence to sequence learning using TensorFlow.|254|254|77|NO LICENSE|9|49.96462|Python|{'Python': 51.01, 'Perl': 18.75, 'Jupyter Notebook': 13.55, 'Emacs Lisp': 11.15, 'Shell': 1.29, 'Smalltalk': 1.24, 'Ruby': 1.08, 'NewLisp': 1.04, 'JavaScript': 0.55, 'Slash': 0.23, 'SystemVerilog': 0.12}
+neural-style-audio-tf|TensorFlow implementation for audio neural style.|299|299|73|NO LICENSE|8|49.928387|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+CarND-LeNet-Lab|Implement the LeNet deep neural network model with TensorFlow.|77|77|379|MIT License|0|49.894505|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+tensorflow-build|A set of scripts to (cross-)build the Tensorflow C lib for various architectures / OS|149|149|27|MIT License|6|49.887722|Shell|{'Shell': 100.0}
+tensorflow-deeplab-v3-plus|DeepLabv3+ built in TensorFlow |118|118|38|MIT License|4|49.81055|Python|{'Python': 100.0}
+cifar10-tensorflow|cifar10数据集上进行图片分类，基于tensorflow框架，旨在探究不同的改进策略对分类准确率的影响，如何一步步得提高准确率|87|87|49|NO LICENSE|1|49.686035|Python|{'Python': 100.0}
+VGG19_with_tensorflow|An easy implement of VGG19 with tensorflow, which has a detailed explanation.|120|120|42|GNU General Public License v3.0|1|49.668156|Python|{'Python': 100.0}
+tensorflow-classifier-android|http://nilhcem.com/android/custom-tensorflow-classifier|84|84|52|Apache License 2.0|0|49.66268|Java|{'Java': 76.97, 'C++': 22.07, 'CMake': 0.96}
+tensorflow-adversarial|Crafting adversarial images|82|82|34|MIT License|2|49.462193|Python|{'Python': 100.0}
+tensorflow_input_image_by_tfrecord|Feed your own image data to a pre-trained network by tensorflow|83|83|68|Apache License 2.0|0|49.454712|Python|{'Python': 100.0}
+tensorfow-rbm|Tensorflow implementation of Restricted Boltzmann Machine|160|160|87|MIT License|1|49.43018|Python|{'Python': 100.0}
+tf-face-recognizer||84|84|51|NO LICENSE|1|49.39622|Python|{'Python': 100.0}
+Building-Machine-Learning-Projects-with-TensorFlow|Building Machine Learning Projects with TensorFlow by Packt|130|130|90|MIT License|7|49.393265|Jupyter Notebook|{'Jupyter Notebook': 97.93, 'Python': 2.07}
+domain-transfer-network|TensorFlow Implementation of Unsupervised Cross-Domain Image Generation |652|652|137|MIT License|9|49.296764|Python|{'Python': 98.81, 'Shell': 1.19}
+tensorflow_transfer_cifar10|tensorflow_transfer_cifar10|79|79|40|NO LICENSE|3|49.238308|Python|{'Python': 100.0}
+Tacotron-2|DeepMind's Tacotron-2 Tensorflow implementation|233|233|74|MIT License|27|49.23204|Python|{'Python': 99.28, 'Jupyter Notebook': 0.72}
+Age-Gender-Estimate-TF|Face age and gender estimate using TensorFlow |233|233|73|MIT License|14|49.204185|Python|{'Python': 62.07, 'Jupyter Notebook': 37.93}
+tensorflow-wavenet|speech recognition based on tensorflow 1.0.0|66|66|35|NO LICENSE|5|49.19587|Python|{'Python': 100.0}
+ImageFlow|A simple wrapper of TensorFlow for Converting, Importing (and Soon, Training) Images in tensorflow.|169|169|60|Apache License 2.0|8|49.077717|Python|{'Python': 100.0}
+text-to-image|Text to image synthesis using thought vectors|1645|1645|279|MIT License|29|49.04118|Python|{'Python': 100.0}
+TF|Tensorflow实例|67|67|42|MIT License|0|49.019547|Python|{'Python': 100.0}
+tensorflow-demo|Local AI demo and distributed AI demo using TensorFlow|69|69|34|NO LICENSE|2|49.010418|Jupyter Notebook|{'Jupyter Notebook': 72.89, 'Python': 24.06, 'C++': 2.62, 'Shell': 0.27, 'HTML': 0.15}
+donkey|self driving car|848|848|346|MIT License|20|48.96964|Python|{'Python': 54.64, 'JavaScript': 37.0, 'HTML': 7.14, 'CSS': 1.22}
+GOTURN-Tensorflow|A tensorflow implementation for GOTURN tracker|72|72|33|MIT License|15|48.946583|Python|{'Python': 100.0}
+simple_tensorflow_serving|Generic and easy-to-use serving service for machine learning models|150|150|34|Apache License 2.0|6|48.826256|JavaScript|{'JavaScript': 73.79, 'Python': 19.94, 'HTML': 3.51, 'Swift': 0.53, 'Lua': 0.42, 'Go': 0.32, 'Shell': 0.31, 'C++': 0.27, 'Ruby': 0.23, 'PHP': 0.22, 'Perl': 0.18, 'R': 0.17, 'Erlang': 0.11}
+hands_on_Ml_with_Sklearn_and_TF|OReilly Hands On Machine Learning with Scikit Learn and TensorFlow  (Sklearn与TensorFlow机器学习实用指南)|706|706|259|GNU General Public License v3.0|7|48.774963|JavaScript|{'JavaScript': 82.89, 'Python': 17.11}
+tensorflow-vrnn|A variational recurrent neural network implementation in tensorflow|65|65|33|NO LICENSE|1|48.75972|Python|{'Python': 100.0}
+CycleGAN-Tensorflow-PyTorch|CycleGAN Tensorflow PyTorch|79|79|37|MIT License|0|48.737747|Python|{'Python': 97.69, 'Shell': 2.31}
+tensorflow-deeplab-v3|DeepLabv3 built in TensorFlow|98|98|35|MIT License|7|48.73302|Python|{'Python': 100.0}
+tensorflow-gpu-install-ubuntu-16.04|Tensorflow GPU install instructions for ubuntu 16.04 - Deep learning|175|175|71|NO LICENSE|4|48.71776||{}
+DeepLabV3-Tensorflow|Reimplementation of DeepLabV3|132|132|49|NO LICENSE|6|48.69065|Python|{'Python': 99.18, 'Shell': 0.82}
+yolo-tensorflow|基于tensorflow开发的YOLO和YOLO9000，提供训练以及测试功能，以VOC2012数据集作为训练/测试集（5000/5000），进行性能检测，同时对比识别性能以及效率|70|70|33|NO LICENSE|9|48.651424|Python|{'Python': 100.0}
+tensorflow-demos|all kinds of demos of tensorflow code |73|73|31|NO LICENSE|0|48.61305|Python|{'Python': 100.0}
+tensorflow-socher-ntn|"Reimplementation of ""Reasoning With Neural Tensor Networks for Knowledge Base Completion"" (Socher, Chen 2013) in Google's TensorFlow framework. MIT 6.806 Final Project. NOTE: Not maintained."|97|97|41|NO LICENSE|7|48.60367|Python|{'Python': 100.0}
+AlexNet_with_tensorflow|an implement of AlexNet with tensorflow, which has a detailed explanation.|71|71|47|NO LICENSE|0|48.590794|Python|{'Python': 100.0}
+tf-image-segmentation|Image Segmentation framework based on Tensorflow and TF-Slim library|426|426|150|MIT License|34|48.56291|Python|{'Python': 53.8, 'Jupyter Notebook': 46.2}
+spatial-transformer-network|A Tensorflow Implementation of Spatial Transformer Networks|163|163|76|MIT License|8|48.530132|Python|{'Python': 60.54, 'Jupyter Notebook': 39.46}
+tensorflow|Go binding for Tensorflow|127|127|10|NO LICENSE|0|48.49091|Go|{'Go': 93.93, 'C': 3.61, 'Shell': 2.47}
+EasyTensorflow|This package provides users with methods for the automated building, training, and testing of complex neural networks using Google's Tensorflow module. The project includes objects that perform both regression and classification tasks.|197|197|20|Other|3|48.45632|Python|{'Python': 100.0}
+unet-tensorflow-keras|A concise code for training and evaluating Unet using tensorflow+keras |91|91|40|MIT License|2|48.42345|Python|{'Python': 100.0}
+tensorflow-object-detection-example||99|99|39|Apache License 2.0|1|48.419983|Python|{'Python': 75.54, 'HTML': 24.46}
+ssd-tensorflow|A Single Shot MultiBox Detector in TensorFlow|53|53|35|GNU General Public License v3.0|3|48.366608|Python|{'Python': 99.71, 'Shell': 0.29}
+TensorFlow-Xception|TensorFlow implementation of the Xception Model by François Chollet|99|99|38|MIT License|3|48.343025|Python|{'Python': 100.0}
+How_to_use_Tensorflow_for_classification-LIVE|"This is the code for the ""How to Use Tensorflow for Classification"" live session by Siraj Raval on Youtube"|69|69|100|NO LICENSE|6|48.253788|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+finch|Deep NLP Examples in latest TensorFlow, using Estimator and Dataset API, viewed in Notebooks|1013|1013|300|MIT License|0|48.25188|Jupyter Notebook|{'Jupyter Notebook': 81.63, 'Python': 18.35, 'Shell': 0.01}
+dlwithtf|TensorFlow for Deep Learning Book|122|122|46|NO LICENSE|2|48.243862|Python|{'Python': 99.92, 'Shell': 0.08}
+libsdae-autoencoder-tensorflow|A simple Tensorflow based library for deep and/or denoising AutoEncoder.|97|97|38|MIT License|4|48.19935|Python|{'Python': 100.0}
+tensorflow-open_nsfw|Tensorflow Implementation of Yahoo's Open NSFW Model|89|89|39|Other|3|48.182606|Python|{'Python': 100.0}
+neural-art-tf|"""A neural algorithm of Artistic style"" in tensorflow"|534|534|124|NO LICENSE|3|48.1535|Python|{'Python': 100.0}
+tensorflow-XNN|4th Place Solution for Mercari Price Suggestion Challenge on Kaggle (https://www.kaggle.com/c/mercari-price-suggestion-challenge)|96|96|26|MIT License|0|48.124443|Python|{'Python': 100.0}
+kcws|Deep Learning Chinese Word Segment |1805|1805|636|NO LICENSE|37|48.11883|C++|{'C++': 60.42, 'Python': 37.01, 'Shell': 1.75, 'HTML': 0.81}
+DQN-Atari-Tensorflow|Simplest Version of playing Atari with Deep Q Learning  in Tensorflow|105|105|36|NO LICENSE|5|48.11425|Python|{'Python': 100.0}
+DeepChatModels|Conversation models in TensorFlow. (website removed)|272|272|56|MIT License|4|48.102924|Python|{'Python': 79.36, 'JavaScript': 12.53, 'HTML': 7.42, 'CSS': 0.52, 'Mako': 0.16}
+tensorflow-ipy|VM with the TensorFlow library from Google|47|47|33|NO LICENSE|0|48.073742|Jupyter Notebook|{'Jupyter Notebook': 64.35, 'Python': 15.68, 'Puppet': 11.79, 'Shell': 8.18}
+tfdeploy|Deploy tensorflow graphs for fast evaluation and export to tensorflow-less environments running numpy.|329|329|38|MIT License|10|48.011047|Python|{'Python': 100.0}
+scribe|Realistic Handwriting with Tensorflow|92|92|32|NO LICENSE|3|47.998573|Jupyter Notebook|{'Jupyter Notebook': 93.88, 'OpenEdge ABL': 4.9, 'Python': 1.22}
+fast-wavenet|Speedy Wavenet generation using dynamic programming :zap:|1256|1256|218|GNU General Public License v3.0|11|47.979385|Python|{'Python': 79.93, 'Jupyter Notebook': 20.07}
+RNN_Text_Generation_Tensorflow|Text generation using RNN (LSTM) implemented using Tensorflow|79|79|40|Apache License 2.0|10|47.94191|Python|{'Python': 100.0}
+Tacotron|Implementation of Google's Tacotron in TensorFlow|180|180|67|NO LICENSE|16|47.92559|Python|{'Python': 96.69, 'Shell': 3.31}
+tacotron|A TensorFlow Implementation of Tacotron: A Fully End-to-End Text-To-Speech Synthesis Model|1043|1043|256|Apache License 2.0|64|47.924904|Python|{'Python': 100.0}
+tensorflow_snippets||85|85|27|NO LICENSE|0|47.827957||{}
+MUNIT-Tensorflow|"Simple Tensorflow implementation of ""Multimodal Unsupervised Image-to-Image Translation"""|140|140|21|MIT License|4|47.774086|Python|{'Python': 100.0}
+tensorflow-cpp|Image classification C++ example using tensorflow shared library|70|70|30|NO LICENSE|6|47.772087|C++|{'C++': 84.35, 'CMake': 10.89, 'Makefile': 4.76}
+conversation-tensorflow|TensorFlow implementation of Conversation Models|124|124|22|NO LICENSE|6|47.64182|Python|{'Python': 99.2, 'Shell': 0.8}
+tensorflow-plot|📈 TensorFlow Plot Ops (In Progress)|164|164|19|MIT License|4|47.439724|Python|{'Python': 100.0}
+tf-rnn-attention|Tensorflow implementation of attention mechanism for text classification tasks.|356|356|132|MIT License|1|47.382698|Python|{'Python': 73.45, 'HTML': 26.55}
+Bilinear-CNN-TensorFlow|This is an implementation of Bilinear Convolutional Neural Network using TensorFlow.|69|69|40|NO LICENSE|14|47.34921|Python|{'Python': 100.0}
+tensorflow-playground||61|61|29|NO LICENSE|4|47.31248|Python|{'Python': 100.0}
+tffm|TensorFlow implementation of an arbitrary order Factorization Machine|460|460|113|MIT License|12|47.230972|Jupyter Notebook|{'Jupyter Notebook': 76.75, 'Python': 23.25}
+squeezenet|Tensorflow implementation of SqueezeNet.|57|57|35|NO LICENSE|3|47.225952|Python|{'Python': 100.0}
+tensorflow||46|46|13|Apache License 2.0|2|47.12123|Java|{'Java': 99.05, 'Python': 0.95}
+tensorflow-mtcnn|C++ and python Inference only for MTCNN face detector on Tensorflow. Based on davidsandberg's facenet project:|45|45|33|MIT License|6|47.114292|C++|{'C++': 61.56, 'Python': 37.6, 'Makefile': 0.84}
+tensorflow2caffemodel|tensorflow  2 caffe model  |36|36|16|NO LICENSE|0|47.081894|Python|{'Python': 100.0}
+deepvoice3|Tensorflow Implementation of Deep Voice 3|214|214|54|NO LICENSE|16|47.016697|Python|{'Python': 100.0}
+tfClassifier|Tensorflow based training and classification scripts for text, images, etc|224|224|143|NO LICENSE|0|46.97197|Python|{'Python': 100.0}
+TensorFlow-Chinese-Tutorial|###欢迎加入，TensorFlow机器学习社区 232113779|87|87|34|NO LICENSE|0|46.961723|Python|{'Python': 99.15, 'JavaScript': 0.85}
+tf-adversarial|Adversarial networks in TensorFlow|157|157|22|NO LICENSE|1|46.958904|Jupyter Notebook|{'Jupyter Notebook': 99.81, 'Python': 0.19}
+Automatic_Speech_Recognition|End-to-end Automatic Speech Recognition for Madarian and English in Tensorflow |2063|2063|363|MIT License|53|46.871403|Python|{'Python': 99.01, 'Shell': 0.99}
+galaxy-image-classifier-tensorflow|TensorFlow Image Classifier Files that can be used to classify whether an image is of a Spiral or an Elliptical Galaxy|99|99|31|NO LICENSE|2|46.846863|Python|{'Python': 100.0}
+tensorflow-multi-dimensional-lstm|Multi dimensional LSTM as described in Alex Graves' Paper https://arxiv.org/pdf/0705.2011.pdf|81|81|34|Apache License 2.0|3|46.838036|Jupyter Notebook|{'Jupyter Notebook': 94.5, 'Python': 5.43, 'Shell': 0.06}
+UNet-in-Tensorflow|U-Net implementation in Tensorflow|67|67|37|MIT License|4|46.817924|Jupyter Notebook|{'Jupyter Notebook': 99.65, 'Python': 0.33, 'Makefile': 0.02}
+cpm|Convolutional Pose Machines in TensorFlow|72|72|44|NO LICENSE|3|46.764744|Jupyter Notebook|{'Jupyter Notebook': 94.66, 'Python': 5.34}
+im2latex-tensorflow|Tensorflow implementation of the HarvardNLP paper - What You Get Is What You See: A Visual Markup Decompiler (https://arxiv.org/pdf/1609.04938v1.pdf)|99|99|31|NO LICENSE|10|46.742516|HTML|{'HTML': 69.67, 'Lua': 11.91, 'Python': 10.06, 'Jupyter Notebook': 7.22, 'JavaScript': 1.15}
+food-101-keras|Food Classification with Deep Learning in Keras / Tensorflow|328|328|117|MIT License|13|46.735836|Jupyter Notebook|{'Jupyter Notebook': 99.89, 'JavaScript': 0.06, 'Python': 0.04, 'CSS': 0.01, 'HTML': 0.01}
+LibroTensorFlow|Tutorial básico de uso de TensorFlow|85|85|76|NO LICENSE|3|46.710876|Python|{'Python': 100.0}
+RNN-Tutorial|Recurrent Neural Networks  - A Short TensorFlow Tutorial|9|9|202|Apache License 2.0|0|46.66369|Python|{'Python': 100.0}
+model-analysis|Model analysis tools for TensorFlow|278|278|25|Apache License 2.0|4|46.634914|HTML|{'HTML': 44.65, 'JavaScript': 38.44, 'Python': 16.92}
+deep-photo-styletransfer-tf|Tensorflow (Python API) implementation of Deep Photo Style Transfer|445|445|101|NO LICENSE|4|46.609833|Python|{'Python': 100.0}
+neural-cryptography-tensorflow|Neural Networks that invent their own encryption :key:|126|126|28|MIT License|1|46.595387|Python|{'Python': 100.0}
+u-net-brain-tumor|U-Net Brain Tumor Segmentation in TensorFlow|119|119|64|NO LICENSE|18|46.58988|Python|{'Python': 100.0}
+A_Guide_to_Running_Tensorflow_Models_on_Android|"This is the code for""A Guide to Running Tensorflow Models on Android"" By SIraj Raval on Youtube"|220|220|104|NO LICENSE|6|46.5314|Java|{'Java': 97.89, 'Python': 1.42, 'Jupyter Notebook': 0.69}
+BinaryNet.tf|BNN implementation in tensorflow |67|67|31|NO LICENSE|8|46.4931|Python|{'Python': 100.0}
+TensorFlow|Examples built with TensorFlow|11|11|25|NO LICENSE|0|46.483585|Python|{'Python': 100.0}
+QANet|A Tensorflow implementation of QANet for machine reading comprehension|361|361|106|MIT License|4|46.44486|Python|{'Python': 96.5, 'HTML': 2.23, 'Shell': 1.26}
+webcam-pix2pix-tensorflow|Source code and pretrained model for webcam pix2pix|176|176|31|MIT License|2|46.430996|Python|{'Python': 100.0}
+tensorflow-on-arm|TensorFlow for Arm|136|136|22|MIT License|2|46.419598|Shell|{'Shell': 100.0}
+Human-Activity-Recognition-using-CNN|Convolutional Neural Network for Human Activity Recognition in Tensorflow|228|228|130|Apache License 2.0|0|46.41172|Jupyter Notebook|{'Jupyter Notebook': 57.5, 'Java': 42.5}
+seqgan-text-tensorflow|:dango: SeqGAN implementation for generating text using an RNN.|63|63|35|GNU General Public License v3.0|2|46.41072|Python|{'Python': 100.0}
+tensorflow_end2end_speech_recognition|End-to-End speech recognition implementation base on TensorFlow (CTC, Attention, and MTL training)|142|142|54|MIT License|9|46.351826|Python|{'Python': 99.58, 'Shell': 0.42}
+nmt-keras|Neural Machine Translation with Keras (Theano/Tensorflow)|218|218|46|MIT License|0|46.214905|Python|{'Python': 56.47, 'CSS': 24.82, 'HTML': 14.65, 'JavaScript': 2.7, 'Shell': 1.13, 'PHP': 0.23}
+attentional_factorization_machine|TensorFlow Implementation of Attentional Factorization Machine|105|105|64|NO LICENSE|5|46.204098||{}
+tensorflow-style-transfer-android||58|58|37|Apache License 2.0|2|46.164074|C++|{'C++': 83.48, 'Java': 15.37, 'C': 1.15}
+tensorflow-tutorial|Some tensorflow demo|38|38|30|NO LICENSE|4|46.156067|Python|{'Python': 85.73, 'C++': 12.49, 'Makefile': 1.18, 'Shell': 0.6}
+GAN-MNIST|Generative Adversarial Network for MNIST with tensorflow|123|123|60|NO LICENSE|3|46.07931|Python|{'Python': 100.0}
+PhotographicImageSynthesis|Photographic Image Synthesis with Cascaded Refinement Networks|1049|1049|179|NO LICENSE|9|46.01036|Python|{'Python': 71.62, 'Matlab': 28.2, 'Mercury': 0.19}
+Technical-Analysis-And-Practice-in-TensorFlow|《TensorFlow技术解析与实战》的源码整理、补充和讨论|88|88|64|NO LICENSE|2|46.001324|Python|{'Python': 75.83, 'CSS': 18.74, 'Shell': 2.69, 'JavaScript': 1.71, 'HTML': 1.04}
+resnet-cppn-gan-tensorflow|Using Residual Generative Adversarial Networks and Variational Auto-encoder techniques to produce high resolution images.|98|98|29|NO LICENSE|1|45.99303|Python|{'Python': 100.0}
+tensorflow-mnist-tutorial|"Sample code for ""Tensorflow and deep learning, without a PhD"" presentation and code lab."|4|4|109|Apache License 2.0|0|45.846535|Python|{'Python': 100.0}
+aws-tensorflow-setup|Install TensorFlow on AWS GPU-instance|63|63|34|NO LICENSE|4|45.82632|Shell|{'Shell': 100.0}
+tensorflow-triplet-loss|Implementation of triplet loss in TensorFlow|100|100|27|MIT License|3|45.796635|Python|{'Python': 100.0}
+tacotron|An independent TensorFlow implementation of Google's Tacotron speech synthesis with pre-trained model|718|718|263|MIT License|52|45.752464|Python|{'Python': 100.0}
+tensorflow-nvJetson|TensorFlow for Nvidia Jetson, also include patch and script for building.|96|96|27|NO LICENSE|0|45.735077|Python|{'Python': 91.83, 'Shell': 8.17}
+tensorflow.js_explained|"This is the code for ""Tensorflow.js Explained"" By Siraj Raval on Youtube "|95|95|27|MIT License|1|45.67449|JavaScript|{'JavaScript': 100.0}
+tensorboard_logger|Log TensorBoard events without touching TensorFlow|451|451|32|MIT License|5|45.649208|Python|{'Python': 100.0}
+tensorflow-examples|Sample tensorflow code to try on Floyd|57|57|24|Other|0|45.649|Python|{'Python': 100.0}
+siamesenetwork-tensorflow|Using siamese network to do dimensionality reduction and similar image retrieval|67|67|22|MIT License|2|45.5887|Jupyter Notebook|{'Jupyter Notebook': 93.31, 'Python': 6.65, 'Shell': 0.05}
+miniflow|Minimal numerical computation library with TensorFlow APIs|193|193|45|Apache License 2.0|0|45.557995|C|{'C': 79.42, 'Python': 20.43, 'Makefile': 0.09, 'Shell': 0.07}
+tensorflow_compact_bilinear_pooling|Compact Bilinear Pooling in TensorFlow|77|77|29|Other|3|45.5579|Python|{'Python': 64.76, 'C++': 33.5, 'Shell': 1.73}
+TensorMol|Tensorflow + Molecules = TensorMol|83|83|24|GNU General Public License v3.0|9|45.534798|Python|{'Python': 92.31, 'C++': 7.34, 'Shell': 0.3, 'HTML': 0.05}
+visual-interaction-networks_tensorflow|Tensorflow Implementation of Visual Interaction Networks|109|109|26|MIT License|2|45.49044|Python|{'Python': 100.0}
+caffe-ocr|OCR with caffe deep learning framework -> Migrated to tensorflow|203|203|115|NO LICENSE|2|45.478123|Shell|{'Shell': 100.0}
+OpenNMT-tf|Neural machine translation and sequence learning using TensorFlow|317|317|94|MIT License|16|45.43252|Python|{'Python': 98.62, 'Shell': 1.38}
+tensorflow-beginner|tensorflow learning according to CS20SI|32|32|32|NO LICENSE|0|45.412357|Python|{'Python': 100.0}
+nlc|Neural Language Correction implemented on Tensorflow|110|110|56|NO LICENSE|6|45.40928|Python|{'Python': 100.0}
+neuraltalk2-tensorflow|Neuraltalk2 in tensorflow|46|46|29|NO LICENSE|1|45.34033|Python|{'Python': 95.05, 'Jupyter Notebook': 3.57, 'HTML': 1.38}
+react-native-tensorflow|A TensorFlow inference library for react native|169|169|20|Apache License 2.0|6|45.252796|Java|{'Java': 47.1, 'Objective-C++': 45.06, 'JavaScript': 4.88, 'Objective-C': 2.96}
+udacity-deep-learning|Udacity Deep Learning MOOC assignments|408|408|211|MIT License|1|45.24213|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+LOUPE|Tensorflow toolbox implementing several learnable pooling architecture|151|151|47|Apache License 2.0|1|45.022198|Python|{'Python': 100.0}
+tensornets|High level network definitions with pre-trained weights in TensorFlow|508|508|71|MIT License|2|45.00494|Python|{'Python': 100.0}
+deep-voice-conversion|Deep neural networks for voice conversion (voice style transfer) in Tensorflow|1482|1482|273|MIT License|28|45.004074|Python|{'Python': 97.14, 'Shell': 2.86}
+text-detection-ctpn|text detection mainly based on ctpn model in tensorflow, id card detect, connectionist text proposal network|741|741|356|MIT License|82|44.983307|Python|{'Python': 96.61, 'Cuda': 3.21, 'C++': 0.09, 'Shell': 0.09}
+SiamFC-TensorFlow|A TensorFlow implementation of the SiamFC tracker|61|61|30|MIT License|5|44.983112|Python|{'Python': 100.0}
+CNN-3D-images-Tensorflow|3D image classification using CNN (Convolutional Neural Network)|65|65|39|NO LICENSE|11|44.930855|Python|{'Python': 100.0}
+resnet-tf|ResNet Implementation in TensorFlow|60|60|25|NO LICENSE|1|44.90641|Python|{'Python': 100.0}
+TensorFlow|This Repository contains all tensorflow tutorials.|31|31|14|NO LICENSE|1|44.90491|Jupyter Notebook|{'Jupyter Notebook': 65.44, 'HTML': 26.91, 'Python': 7.65}
+Conditional-PixelCNN-decoder|Tensorflow implementation of Gated Conditional Pixel Convolutional Neural Network|413|413|79|NO LICENSE|3|44.902294|Python|{'Python': 100.0}
+dcgan_tensorflow|"Tensorflow implementation of ""UNSUPERVISED REPRESENTATION LEARNING WITH DEEP CONVOLUTIONAL GENERATIVE ADVERSARIAL NETWORKS"""|65|65|20|NO LICENSE|2|44.826157|Python|{'Python': 100.0}
+music_recommender|Music recommender using deep learning with Keras and TensorFlow|372|372|82|NO LICENSE|0|44.77321|Jupyter Notebook|{'Jupyter Notebook': 93.9, 'Python': 6.1}
+siamese_tf_mnist|Implementing Siamese Network using Tensorflow with MNIST|131|131|47|NO LICENSE|3|44.771053|Python|{'Python': 100.0}
+grid-lstm-tensorflow|Examples of using GridLSTM (and GridRNN in general) in tensorflow|53|53|31|Apache License 2.0|0|44.76979|Python|{'Python': 100.0}
+visual_search|A visual search engine based on Elasticsearch and Tensorflow|287|287|88|MIT License|0|44.74964|JavaScript|{'JavaScript': 79.79, 'Python': 17.6, 'Java': 0.87, 'HTML': 0.64, 'Cuda': 0.49, 'CSS': 0.41, 'Matlab': 0.18, 'C++': 0.01, 'Makefile': 0.01}
+Deep-Image-Matting|"This is tensorflow implementation for paper ""Deep Image Matting"""|281|281|87|NO LICENSE|22|44.69981|Python|{'Python': 100.0}
+Dynamic-Memory-Networks-in-TensorFlow|Dynamic Memory Network implementation in TensorFlow|104|104|48|MIT License|2|44.64013|Python|{'Python': 99.31, 'Shell': 0.69}
+chatbot-MemN2N-tensorflow|Tensorflow Implementation of Learning End-to-End Goal-Oriented Dialog.|119|119|44|MIT License|0|44.5608|Python|{'Python': 100.0}
+TensorFlowOnYARN|Support TensorFlow on YARN|56|56|25|Apache License 2.0|12|44.548065|Java|{'Java': 88.81, 'C++': 6.0, 'Shell': 1.81, 'C': 1.77, 'Protocol Buffer': 1.61}
+vat_tf|Virtual adversarial training with Tensorflow|77|77|32|MIT License|3|44.49921|Python|{'Python': 100.0}
+SoundNet-tensorflow|"TensorFlow implementation of ""SoundNet""."|67|67|23|MIT License|1|44.45671|Python|{'Python': 100.0}
+tf-wgan|Wasserstein DCGAN in Tensorflow/Keras|72|72|32|NO LICENSE|1|44.451763|Python|{'Python': 100.0}
+cnn_depth_tensorflow|depth estimation using tensorflow|53|53|26|NO LICENSE|9|44.43968|Python|{'Python': 100.0}
+RecurrentHighwayNetworks|Recurrent Highway Networks - Implementations for Tensorflow, Torch7, Theano and Brainstorm|377|377|74|MIT License|3|44.428192|Python|{'Python': 67.97, 'Lua': 32.03}
+Tensorflow_in_ROS|Tensorflow tutorial in ROS|48|48|26|Apache License 2.0|0|44.369923|Python|{'Python': 100.0}
+ResNeXt-Tensorflow|Simple Tensorflow implementation of ResNeXt using Cifar10|63|63|27|MIT License|0|44.33702|Python|{'Python': 100.0}
+crnn-tensorflow|This software implements the Convolutional Recurrent Neural Network (CRNN) in tensorflow|45|45|23|NO LICENSE|5|44.31574|Python|{'Python': 100.0}
+AutoPortraitMatting|"Tensorflow implementation of Automatic Portrait Matting on paper ""Automatic Portrait Segmentation for Image Stylization"""|238|238|85|Apache License 2.0|18|44.28671|Python|{'Python': 100.0}
+TensorFlowDemo|TensorFlow android demo 车道线 车辆 人脸 动作 骨架 识别 检测|111|111|22|NO LICENSE|1|44.280125|Java|{'Java': 99.49, 'Python': 0.51}
+tf-pose-estimation|Deep Pose Estimation implemented using Tensorflow with Custom Architectures for fast inference.|894|894|293|Apache License 2.0|59|44.254932|PureBasic|{'PureBasic': 58.42, 'Python': 26.79, 'Jupyter Notebook': 5.83, 'C++': 5.15, 'C': 2.93, 'Shell': 0.87, 'CMake': 0.01}
+text-classification-cnn-rnn|CNN-RNN中文文本分类，基于tensorflow|705|705|333|MIT License|18|44.24218|Python|{'Python': 98.43, 'Shell': 1.57}
+TensorFlow_Center_Loss|Center Loss implementation with TensorFlow|60|60|29|MIT License|1|44.221233|Jupyter Notebook|{'Jupyter Notebook': 99.42, 'Python': 0.58}
+tensorflow-neat|implementation of neat like genetic algorithm for finding network topologies in tensorflow|54|54|21|NO LICENSE|0|44.171818|Python|{'Python': 100.0}
+zhusuan|A Library for Bayesian Deep Learning, Generative Models, Based on Tensorflow|1264|1264|241|MIT License|9|44.149258|Python|{'Python': 100.0}
+tf-svm|Tensorflow Linear SVM|54|54|26|NO LICENSE|1|44.144283|Python|{'Python': 100.0}
+Grad-CAM-tensorflow|tensorflow implementation of Grad-CAM (CNN visualization)|71|71|26|NO LICENSE|3|44.141705|Jupyter Notebook|{'Jupyter Notebook': 80.96, 'Python': 18.25, 'Shell': 0.79}
+Weakly_detector|"Tensorflow implementation of ""Learning Deep Features for Discriminative Localization"""|292|292|76|NO LICENSE|9|44.09562|Jupyter Notebook|{'Jupyter Notebook': 98.81, 'Python': 1.19}
+tensorflow-pix2pix|A lightweight pix2pix Tensorflow implementation.|105|105|21|NO LICENSE|2|44.034004|Python|{'Python': 100.0}
+tf_serving_example|Deployment of TensorFlow models into production with TensorFlow Serving, Docker, Kubernetes and Microsoft Azure|88|88|39|NO LICENSE|1|44.01407|Python|{'Python': 100.0}
+How_to_generate_music_in_tensorflow_LIVE||90|90|46|Apache License 2.0|6|44.01342|Python|{'Python': 100.0}
+TensorBoard-TF-Dev-Summit-Tutorial|Hands-on TensorBoard (TensorFlow Dev Summit 2017)|82|82|48|Apache License 2.0|0|43.98312|Python|{'Python': 100.0}
+tensorflow-tutorial||74|74|17|NO LICENSE|0|43.97612|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+dash-docset-tensorflow|dash/zeal docset for tensorflow|123|123|19|Apache License 2.0|1|43.934536|CSS|{'CSS': 98.05, 'Python': 1.34, 'Shell': 0.61}
+medium-facenet-tutorial|Facial Recognition Pipeline using Dlib and Tensorflow|88|88|49|NO LICENSE|1|43.928577|Python|{'Python': 100.0}
+practical_seq2seq|A simple, minimal wrapper for tensorflow's seq2seq module, for experimenting with datasets rapidly|385|385|183|GNU General Public License v3.0|38|43.919106|Jupyter Notebook|{'Jupyter Notebook': 62.94, 'Python': 36.52, 'Shell': 0.54}
+object-recognition-tensorflow|Object Recognition using TensorFlow and Java|50|50|28|Apache License 2.0|1|43.917465|Java|{'Java': 100.0}
+yolov2-tensorflow||60|60|27|MIT License|6|43.848606|Python|{'Python': 100.0}
+try-tf|Simple code for trying out TensorFlow with simulated datasets|169|169|94|Apache License 2.0|2|43.832943|Python|{'Python': 84.19, 'R': 15.81}
+Fast_Multi_Style_Transfer-tensorflow|Multi style transfer. You can make Gogh + Manet + Picasso style image|162|162|22|NO LICENSE|2|43.82505|Python|{'Python': 86.54, 'Shell': 13.46}
+tensorflow-ocaml|OCaml bindings for TensorFlow|155|155|12|Apache License 2.0|2|43.796646|OCaml|{'OCaml': 91.84, 'C': 7.81, 'Python': 0.25, 'Makefile': 0.1, 'Standard ML': 0.0}
+picasso|:art: A CNN visualizer|881|881|114|Eclipse Public License 1.0|17|43.796356|Python|{'Python': 78.58, 'HTML': 13.22, 'JavaScript': 5.81, 'Makefile': 2.34, 'CSS': 0.06}
+Tensorflow-projects||48|48|19|NO LICENSE|1|43.78624|Python|{'Python': 59.69, 'Jupyter Notebook': 35.4, 'C++': 4.87, 'Shell': 0.04}
+face2face-demo|pix2pix demo that learns from facial landmarks and translates this into a face|505|505|163|MIT License|13|43.779854|Python|{'Python': 100.0}
+tfjs-layers|TensorFlow.js high-level layers API|164|164|37|Other|10|43.731617|TypeScript|{'TypeScript': 96.66, 'Python': 1.39, 'JavaScript': 0.93, 'Shell': 0.88, 'HTML': 0.15}
+async_deep_reinforce|Asynchronous Methods for Deep Reinforcement Learning|485|485|174|Apache License 2.0|34|43.670662|Python|{'Python': 100.0}
+MachineLearning_TensorFlow|TensorFlow学习|35|35|28|MIT License|0|43.657|Python|{'Python': 100.0}
+tensorflow-xnor-bnn|BinaryNets in TensorFlow with XNOR GEMM op|93|93|24|Apache License 2.0|5|43.651382|C++|{'C++': 51.13, 'Python': 45.95, 'Makefile': 1.48, 'Cuda': 1.33, 'Shell': 0.11}
+wheels|Performance-optimized wheels for TensorFlow (SSE, AVX, FMA, XLA, MPI)|547|547|55|NO LICENSE|12|43.646854||{}
+impl-pruning-TF|"Implementation of ""Iterative pruning"" on TensorFlow"|102|102|44|NO LICENSE|0|43.639454|Python|{'Python': 100.0}
+transformer|A TensorFlow Implementation of the Transformer: Attention Is All You Need|860|860|249|Apache License 2.0|26|43.633366|Python|{'Python': 100.0}
+hierarchical-attention-networks|Document classification with Hierarchical Attention Networks in TensorFlow|205|205|84|MIT License|5|43.63136|Python|{'Python': 100.0}
+DeepLearningAndTensorflow||50|50|27|NO LICENSE|1|43.59393|Python|{'Python': 100.0}
+Kaggle_NCFM|Using Keras+TensorFlow to solve NCFM-Leadboard Top 5%|183|183|84|NO LICENSE|0|43.52638|Python|{'Python': 100.0}
+real_time_face_recognition|Real time face detection and recognition base  on opencv/tensorflow/mtcnn/facenet|541|541|296|NO LICENSE|10|43.531624|Python|{'Python': 59.22, 'Jupyter Notebook': 40.78}
+MVCNN-TensorFlow|An Multi-View CNN (MVCNN) implementation with TensorFlow.|45|45|29|MIT License|12|43.52566|Python|{'Python': 98.96, 'Shell': 1.04}
+dl-docker|An all-in-one Docker image for deep learning. Contains all the popular DL frameworks (TensorFlow, Theano, Torch, Caffe, etc.)|2851|2851|660|NO LICENSE|54|43.508305|Python|{'Python': 58.77, 'Shell': 41.23}
+text-cnn-tensorflow|Convolutional Neural Networks for Sentence Classification(TextCNN) implements by TensorFlow|84|84|21|NO LICENSE|0|43.489304|Python|{'Python': 99.49, 'Shell': 0.51}
+uTensor|AI inference library based on mbed and TensorFlow|565|565|52|Apache License 2.0|28|43.43708|Python|{'Python': 76.42, 'C++': 23.58}
+Image-Captioning|TensorFlow (TensorLayer) Implementation of Image Captioning ⚠️（Deprecated）⚠️|84|84|47|NO LICENSE|3|43.400867|Python|{'Python': 99.7, 'Shell': 0.3}
+EUNN-tensorflow|Efficient Unitary Neural Network(EUNN) implementation in tensorflow|40|40|22|Other|0|43.390617|Python|{'Python': 99.92, 'Shell': 0.08}
+TCML-tensorflow|Tensorflow implementation of Meta-Learning with Temporal Convolutions|82|82|14|MIT License|0|43.38472|Python|{'Python': 100.0}
+tensorflow-cifar-10|Cifar-10 CNN implementation using TensorFlow library with 20% error.|46|46|27|MIT License|0|43.344044|Python|{'Python': 100.0}
+How-to-Deploy-a-Tensorflow-Model-in-Production|"This is the code for the ""How to Deploy a Tensorflow Model in Production"" by Siraj Raval on YouTube"|171|171|66|NO LICENSE|6|43.312275|Python|{'Python': 51.09, 'Jupyter Notebook': 48.91}
+tensorflow_video_classification_LSTM|Action detection used BiLSTM and Tensorflow|54|54|25|MIT License|2|43.295094|Python|{'Python': 98.05, 'Shell': 1.95}
+handson-ml|A series of Jupyter notebooks that walk you through the fundamentals of Machine Learning and Deep Learning in python using Scikit-Learn and TensorFlow.|7691|7691|3939|Apache License 2.0|27|43.266|Jupyter Notebook|{'Jupyter Notebook': 99.82, 'Python': 0.18, 'Shell': 0.0, 'Makefile': 0.0}
+CoGAN-tensorflow|Implement Coupled Generative Adversarial Networks in Tensorflow|81|81|20|NO LICENSE|2|43.21584|Python|{'Python': 100.0}
+tensorflow-classification|A unified program to check predictions of different convolutional neural networks for image classification.|46|46|19|NO LICENSE|1|43.201645|Python|{'Python': 98.36, 'Shell': 1.64}
+Make_Money_with_Tensorflow|"This is the code for ""Make Money with Tensorflow"" by Siraj Raval on Youtube "|85|85|20|GNU General Public License v3.0|1|43.178154|Python|{'Python': 100.0}
+tensorflow-MNIST-GAN-DCGAN|Tensorflow implementation of Generative Adversarial Networks (GAN) and Deep Convolutional Generative Adversarial Netwokrs for MNIST dataset.|48|48|27|NO LICENSE|1|43.177113|Python|{'Python': 100.0}
+tf-3dgan|Tensorflow implementation of 3D Generative Adversarial Network.|117|117|39|MIT License|9|43.127438|Python|{'Python': 100.0}
+tensorrec|A TensorFlow recommendation algorithm and framework in Python.|384|384|58|Apache License 2.0|5|43.10711|Python|{'Python': 100.0}
+elbow|Flexible Bayesian inference using TensorFlow|138|138|19|"BSD 3-Clause ""New"" or ""Revised"" License"|1|43.03799|Python|{'Python': 100.0}
+tf-Faster-RCNN|TensorFlow implementation of Faster R-CNN|78|78|44|NO LICENSE|10|43.025948|Python|{'Python': 66.27, 'Jupyter Notebook': 31.73, 'Cuda': 1.92, 'C++': 0.05, 'Makefile': 0.02}
+Coursera-ML-AndrewNg|use numpy, scipy, and tensorflow to implement these basic ML model and learning algorithm|659|659|250|MIT License|0|42.996998|Jupyter Notebook|{'Jupyter Notebook': 99.38, 'Python': 0.62}
+deepQN_tensorflow|Unfinished. Deep Q Learning in Tensorflow for ATARI. |72|72|20|NO LICENSE|1|42.988163|Python|{'Python': 100.0}
+go-tensorflow-image-recognition|Image Recognition API in Go using TensorFlow|71|71|23|MIT License|1|42.925713|Go|{'Go': 100.0}
+tensorflow-tutorial|Code for email classification in TensorFlow.|37|37|20|NO LICENSE|0|42.914352|Python|{'Python': 51.83, 'TeX': 45.83, 'Shell': 2.34}
+tf_seq2seq_chatbot|[unmaintained]|344|344|199|NO LICENSE|15|42.91176|Python|{'Python': 98.64, 'Shell': 1.36}
+tensorflow-hangul-recognition|Handwritten Korean Character Recognition with TensorFlow and Android|44|44|26|Apache License 2.0|1|42.9024|Python|{'Python': 58.73, 'Java': 41.27}
+dqn|DQN implementation in Keras + TensorFlow + OpenAI Gym|80|80|44|NO LICENSE|7|42.87725|Python|{'Python': 100.0}
+tensorflow_tutorials|Code for TF tutorials (CS20SI and CS224N)|36|36|21|NO LICENSE|3|42.85983|Python|{'Python': 100.0}
+Generative-Adversarial-Network-Tutorial|Tutorial on creating your own GAN in Tensorflow|227|227|70|NO LICENSE|4|42.849606|Jupyter Notebook|{'Jupyter Notebook': 67.93, 'Python': 32.07}
+bi-att-flow|Bi-directional Attention Flow (BiDAF) network is a multi-stage hierarchical process that represents context at different levels of granularity and uses a bi-directional attention flow mechanism to achieve a query-aware context representation without early summarization.|719|719|323|Apache License 2.0|49|42.836357|Python|{'Python': 75.22, 'Jupyter Notebook': 22.19, 'HTML': 1.95, 'Shell': 0.64}
+Facebook-Messenger-Bot|Facebook chatbot that I trained to talk like me using Seq2Seq|324|324|117|NO LICENSE|10|41.19976|Python|{'Python': 91.69, 'JavaScript': 8.31}
+ClockworkRNN|Clockwork RNN in TensorFlow|44|44|17|NO LICENSE|3|41.179447|Python|{'Python': 100.0}
+tensorflow_export_cpp_example|Tutorial for how to export your tensorflow models in python to C++|68|68|17|NO LICENSE|4|41.130306|PureBasic|{'PureBasic': 81.46, 'Python': 13.02, 'C++': 5.52}
+gail-tf|Tensorflow implementation of generative adversarial imitation learning|102|102|29|MIT License|0|41.112988|Python|{'Python': 100.0}
+insuranceQA-cnn-lstm|tensorflow and theano cnn code for insurance QA(question Answer matching)|375|375|222|NO LICENSE|18|41.11037|Python|{'Python': 100.0}
+tensorflow-class-activation-mapping|Learning Deep Features for Discriminative Localization (2016)|51|51|19|MIT License|0|41.101154|Python|{'Python': 91.53, 'Lua': 8.47}
+installTensorFlowTX2|Install TensorFlow on the NVIDIA Jetson TX2 Development Kit|109|109|70|MIT License|7|41.057545|Shell|{'Shell': 100.0}
+CarND-Alexnet-Feature-Extraction|This lab guides you through using AlexNet and TensorFlow to build a feature extraction network.|83|83|397|MIT License|4|41.050682|Python|{'Python': 100.0}
+How-to-Use-Tensorflow-for-Time-Series-Live-||104|104|54|NO LICENSE|3|41.011284|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+nasnet-tensorflow|A nasnet in tensorflow|36|36|16|Apache License 2.0|0|40.98761|Python|{'Python': 98.86, 'Shell': 1.14}
+SampleRNN|Tensorflow implementation of SampleRNN|33|33|19|GNU Lesser General Public License v3.0|2|40.84909|Python|{'Python': 99.07, 'Shell': 0.93}
+DaNet-Tensorflow|"Tensorflow implementation of ""Speaker-independent Speech Separation with Deep Attractor Network"""|37|37|21|MIT License|5|40.803856|Python|{'Python': 96.73, 'Shell': 3.27}
+seq2seq-signal-prediction|Signal prediction with a Sequence-to-Sequence (seq2seq) Recurrent Neural Network (RNN) model in TensorFlow - Guillaume Chevalier|381|381|126|MIT License|5|40.80257|Jupyter Notebook|{'Jupyter Notebook': 90.58, 'Python': 9.42}
+hourglasstensorlfow|Tensorflow implementation of Stacked Hourglass Networks for Human Pose Estimation |158|158|55|NO LICENSE|25|40.77042|Python|{'Python': 100.0}
+TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10|How to train a TensorFlow Object Detection Classifier for multiple object detection on Windows|313|313|110|NO LICENSE|29|40.715385|Python|{'Python': 100.0}
+sagemaker-tensorflow-containers|This support code is used for making the TensorFlow framework run on Amazon SageMaker.|51|51|19|Apache License 2.0|4|40.70798|Python|{'Python': 100.0}
+tf_tutorial_plus|Tutorials for TensorFlow APIs the official documentation doesn't cover|196|196|52|NO LICENSE|4|40.706326|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+expressive_tacotron|Tensorflow Implementation of Expressive Tacotron|120|120|16|NO LICENSE|4|40.637054|Python|{'Python': 100.0}
+tensorflow-densenet|Tensorflow-DenseNet with ImageNet Pretrained Models|50|50|13|Apache License 2.0|3|40.60947|Python|{'Python': 100.0}
+Free-Tensorflow|Tensorflow 免费中文视频教程，开源代码，免费书籍.|44|44|14|Apache License 2.0|0|40.592964||{}
+TensorPy|Easy Image Classification with TensorFlow|33|33|26|MIT License|1|40.543262|Python|{'Python': 94.08, 'Shell': 5.92}
+tensorflowML||14|14|10|NO LICENSE|0|40.542103|Jupyter Notebook|{'Jupyter Notebook': 99.89, 'Python': 0.11}
+tensorflowbook|tensorflow教程每个章节的源码|19|19|14|NO LICENSE|1|40.536507|Python|{'Python': 100.0}
+LeNet-in-Tensorflow|Implementation of the LeNet-5 deep neural network model in Tensorflow. https://www.youtube.com/watch?v=ixkpBmKRZDw|17|17|29|NO LICENSE|1|40.535347|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+kubeflow|Machine Learning Toolkit for Kubernetes|3723|3723|450|Apache License 2.0|209|40.53384|Python|{'Python': 60.32, 'Go': 12.35, 'Shell': 9.74, 'HTML': 7.43, 'Makefile': 7.4, 'CSS': 2.76}
+RecSys|Builds a recommender system using TensorFlow|59|59|35|NO LICENSE|0|40.529278|Jupyter Notebook|{'Jupyter Notebook': 93.99, 'Python': 6.01}
+How_to_make_a_tensorflow_image_classifier_LIVE||56|56|64|NO LICENSE|3|40.52635|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+tensorflow_practice|tensorflow的一些实战练习|31|31|16|NO LICENSE|0|40.49499|Python|{'Python': 96.42, 'Jupyter Notebook': 3.58}
+Interaction-networks_tensorflow|Tensorflow Implementation of Interaction Networks for Learning about Objects, Relations and Physics|85|85|15|MIT License|2|40.441025|Python|{'Python': 100.0}
+VAE_tensorflow|Variational autoencoder in Tensorflow |58|58|12|NO LICENSE|0|40.430496|Python|{'Python': 100.0}
+YOLO_tensorflow|YOLO v1 implentation in tensorflow, with training, testing and video features.|35|35|19|NO LICENSE|3|42.272526|Python|{'Python': 100.0}
+Google-Neural-Machine-Translation-GNMT|It is a tensorflow implementation of GNMT|96|96|36|NO LICENSE|2|42.211544|Python|{'Python': 100.0}
+chess-alpha-zero|Chess reinforcement learning by AlphaGo Zero methods.|1089|1089|210|MIT License|39|42.19707|Jupyter Notebook|{'Jupyter Notebook': 76.56, 'Python': 23.43, 'Batchfile': 0.01}
+Language-Modeling-GatedCNN|"Tensorflow implementation of ""Language Modeling with Gated Convolutional Networks"""|172|172|70|NO LICENSE|7|42.193485|Python|{'Python': 100.0}
+neural-chatbot|A chatbot based on seq2seq architecture done with tensorflow.|168|168|73|NO LICENSE|6|42.17054|Python|{'Python': 100.0}
+text-gan-tensorflow|TensorFlow GAN implementation using Gumbel Softmax|61|61|22|MIT License|2|42.133804|Python|{'Python': 100.0}
+tensorflow-phased-lstm|Phased LSTM: Accelerating Recurrent Network Training for Long or Event-based Sequences (NIPS 2016) - Tensorflow 1.0|94|94|17|MIT License|4|42.124275|Python|{'Python': 100.0}
+speech-to-text-wavenet|Speech-to-Text-WaveNet : End-to-end sentence level English speech recognition based on DeepMind's WaveNet and tensorflow|2417|2417|478|Apache License 2.0|63|42.121056|Python|{'Python': 100.0}
+TF_Deformable_Net|Deformable convolution net on Tensorflow|60|60|27|MIT License|11|42.110245|Python|{'Python': 79.01, 'C++': 17.31, 'C': 1.16, 'Jupyter Notebook': 1.08, 'Shell': 0.91, 'Cuda': 0.52, 'Makefile': 0.01}
+Tensorflow-siamese||38|38|17|NO LICENSE|4|42.08128|Python|{'Python': 100.0}
+Faster-RCNN-TensorFlow-Python3.5|Tensorflow Faster R-CNN for Windows and Python 3.5|54|54|42|MIT License|20|42.065395|Jupyter Notebook|{'Jupyter Notebook': 88.48, 'Python': 7.65, 'Matlab': 2.0, 'Lua': 0.68, 'C++': 0.68, 'C': 0.48, 'Shell': 0.03, 'Makefile': 0.01}
+tf-lstm-char-cnn|tensorflow rewrite of Yoon Kim's lstm-char-cnn|159|159|70|MIT License|5|42.055965|Python|{'Python': 100.0}
+GRU4Rec_TensorFlow|TensorFlow implemenation of GRu4Rec model|33|33|33|NO LICENSE|3|41.968143|Python|{'Python': 100.0}
+deeplab_v3|Tensorflow Implementation of the Semantic Segmentation DeepLab_V3 CNN|175|175|67|MIT License|2|41.938606|Python|{'Python': 91.27, 'Jupyter Notebook': 8.73}
+squeezeDet|A tensorflow implementation for SqueezeDet, a convolutional neural network for object detection.|493|493|227|"BSD 2-Clause ""Simplified"" License"|58|41.934376|Python|{'Python': 78.81, 'C++': 18.98, 'Shell': 2.13, 'Makefile': 0.07}
+jupyter_tfbook|Jupyter Notebooks for TensorFlow Book|46|46|28|Apache License 2.0|0|41.924904|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+cnn_lstm_ctc_ocr|Tensorflow-based  CNN+LSTM trained with CTC-loss for OCR|150|150|72|GNU General Public License v3.0|6|41.892868|Python|{'Python': 98.57, 'Makefile': 1.43}
+clojure-tensorflow|An extremely light layer over TensorFlow's Java api|73|73|13|Eclipse Public License 1.0|2|41.884895|Clojure|{'Clojure': 100.0}
+tensorflow-CNN-CIFAR-10||27|27|28|NO LICENSE|0|41.882366|Python|{'Python': 100.0}
+tensorflow-forward-ad|Forward-mode Automatic Differentiation for TensorFlow|112|112|14|MIT License|2|41.86202|Python|{'Python': 99.8, 'Shell': 0.2}
+DRL-FlappyBird|Playing Flappy Bird Using Deep Reinforcement Learning (Based on Deep Q Learning DQN using Tensorflow)|348|348|251|NO LICENSE|3|41.837364|Python|{'Python': 100.0}
+yolo-tf|TensorFlow implementation of the YOLO (You Only Look Once)|170|170|65|GNU Lesser General Public License v3.0|11|41.830975|Python|{'Python': 100.0}
+AMSGrad-Tensorflow|"Simple Tensorflow implementation of ""On the Convergence of Adam and Beyond"" (ICLR 2018)"|53|53|17|MIT License|0|41.827595|Python|{'Python': 100.0}
+pro-deep-learning-w-tensorflow|Source code for 'Pro Deep Learning with TensorFlow' by Santanu Pattanayak|38|38|33|Other|0|41.822144|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+tensorflow-GANs|各类GAN综合在一起，借鉴了hwalsuklee大神的|39|39|18|NO LICENSE|0|41.74715|Python|{'Python': 100.0}
+TensorFlowTalks|TensorFlow Meetup Talks|49|49|18|NO LICENSE|0|41.723824|Jupyter Notebook|{'Jupyter Notebook': 99.93, 'Python': 0.07}
+tensorflow-java|Tensorflow Java examples|38|38|17|MIT License|0|41.699806|Java|{'Java': 86.92, 'Shell': 13.08}
+Attention-ocr-Chinese-Version| Attention OCR Based On Tensorflow |62|62|24|NO LICENSE|7|41.69894|Python|{'Python': 100.0}
+Focal-Loss-implement-on-Tensorflow|"The implementation of focal loss proposed on ""Focal Loss for Dense Object Detection"" by KM He and support for multi-label dataset."|85|85|22|Apache License 2.0|6|41.69582|Python|{'Python': 100.0}
+tensorflow-image-wavenet|This is a TensorFlow implementation of the WaveNet generative neural network architecture https://deepmind.com/blog/wavenet-generative-model-raw-audio/ for image generation.|105|105|15|MIT License|1|41.67569|Python|{'Python': 100.0}
+CADL|"Course materials/Homework materials for the FREE MOOC course on ""Creative Applications of Deep Learning w/ Tensorflow"" #CADL"|1115|1115|624|Apache License 2.0|15|41.66845|Jupyter Notebook|{'Jupyter Notebook': 98.77, 'Python': 1.23, 'Shell': 0.0}
+tensorflow-ctc-speech-recognition|Application of Connectionist Temporal Classification (CTC) for Speech Recognition (Tensorflow 1.0).|67|67|19|Apache License 2.0|0|41.662884|Python|{'Python': 100.0}
+CapsNet-tensorflow|"With reconstruct, capsule representation, adversarial experiments. Implementation of NIPS2017 paper ""Dynamic Routing Between Capsules"" in tensorflow. "|61|61|19|MIT License|0|41.66208|Python|{'Python': 99.09, 'Shell': 0.91}
+dnn_tensorflow_cpp|This project is a simple deep neural network trained using only TensorFlow C++.|61|61|19|NO LICENSE|1|41.63678|C++|{'C++': 90.17, 'Python': 4.96, 'CMake': 4.87}
+FaceRecognition|Webcam face recognition using tensorflow and opencv|60|60|40|MIT License|0|41.61574|Python|{'Python': 100.0}
+sketch-code|Keras model to generate HTML code from hand-drawn website mockups. Implements an image captioning architecture to drawn source images.|1448|1448|184|NO LICENSE|5|41.584652|Python|{'Python': 99.07, 'Shell': 0.93}
+topically-driven-language-model|Tensorflow code to train TDLM|68|68|23|Apache License 2.0|1|41.584137|Python|{'Python': 98.19, 'Shell': 1.81}
+tensorflow-stock-index||41|41|22|NO LICENSE|4|41.558712|Python|{'Python': 99.96, 'Shell': 0.04}
+Free-Tensorflow-Books|A curated collection of free Tensorflow related eBooks|24|24|30|NO LICENSE|0|41.55333||{}
+reinforcement-learning|Implementation of Reinforcement Learning Algorithms. Python, OpenAI Gym, Tensorflow. Exercises and Solutions to accompany Sutton's Book and David Silver's course.|6797|6797|2289|MIT License|63|41.44779|Jupyter Notebook|{'Jupyter Notebook': 97.08, 'Python': 2.92}
+Adversarial-Learning-for-Neural-Dialogue-Generation-in-Tensorflow|Adversarial-Learning-for-Neural-Dialogue-Generation-in-Tensorflow|109|109|56|NO LICENSE|11|41.439697|Python|{'Python': 100.0}
+face-transfer-tensorflow|Face transfer with Neural Network using tensorflow|74|74|17|NO LICENSE|2|41.416977|Python|{'Python': 100.0}
+tensorflow_ios||17|17|23|Apache License 2.0|0|41.379684|C++|{'C++': 53.64, 'Python': 29.99, 'Jupyter Notebook': 5.78, 'HTML': 4.88, 'TypeScript': 2.44, 'C': 1.13, 'Protocol Buffer': 0.75, 'Shell': 0.56, 'Java': 0.37, 'CMake': 0.22, 'JavaScript': 0.12, 'Objective-C++': 0.1, 'Objective-C': 0.02, 'CSS': 0.0}
+DCGAN-Tensorflow|A Tensorflow implementation of Deep Convolutional Generative Adversarial Networks trained on Fashion-MNIST, CIFAR-10, etc.|45|45|15|MIT License|1|41.33104|Python|{'Python': 100.0}
+five-video-classification-methods|Code that accompanies my blog post outlining five video classification methods in Keras and TensorFlow|394|394|197|MIT License|13|41.29019|Python|{'Python': 100.0}
+ResNeXt-in-tensorflow|This is an implementation of ResNeXt (by Xie et al.) in tensorflow|65|65|22|NO LICENSE|8|41.284374|Python|{'Python': 100.0}
+tensorflow-ue4-examples|Drag and drop Unreal Engine TensorFlow examples repository|80|80|16|MIT License|4|41.26878|Python|{'Python': 100.0}
+factorizer|Matrix factorization using TensorFlow|44|44|19|NO LICENSE|1|41.26698|Python|{'Python': 100.0}
+AssociativeRetrieval|TensorFlow implementation of Fast Weights|125|125|17|Apache License 2.0|2|41.252617|Python|{'Python': 100.0}
+ClockworkRNN|Clockwork RNN in TensorFlow|44|44|17|NO LICENSE|3|41.179474|Python|{'Python': 100.0}
+Facebook-Messenger-Bot|Facebook chatbot that I trained to talk like me using Seq2Seq|324|324|117|NO LICENSE|10|41.16623|Python|{'Python': 91.69, 'JavaScript': 8.31}
+tensorflow_export_cpp_example|Tutorial for how to export your tensorflow models in python to C++|68|68|17|NO LICENSE|4|41.125866|PureBasic|{'PureBasic': 81.46, 'Python': 13.02, 'C++': 5.52}
+tensorflow-class-activation-mapping|Learning Deep Features for Discriminative Localization (2016)|51|51|19|MIT License|0|41.11344|Python|{'Python': 91.53, 'Lua': 8.47}
+gail-tf|Tensorflow implementation of generative adversarial imitation learning|102|102|29|MIT License|0|41.11303|Python|{'Python': 100.0}
+insuranceQA-cnn-lstm|tensorflow and theano cnn code for insurance QA(question Answer matching)|375|375|222|NO LICENSE|18|41.110397|Python|{'Python': 100.0}
+DocumentClassification|This code implements a simple CNN model for document classification with tensorflow.|96|96|57|NO LICENSE|2|41.10652|Python|{'Python': 100.0}
+tensorflow-vgg|A VGG-19 implementation using Tensorflow|24|24|19|NO LICENSE|3|41.06054|Python|{'Python': 100.0}
+installTensorFlowTX2|Install TensorFlow on the NVIDIA Jetson TX2 Development Kit|109|109|70|MIT License|7|41.054405|Shell|{'Shell': 100.0}
+gradient_boosting_tensorflow_xgboost|Benchmarking Gradient Boosting in TensorFlow and XGBoost|56|56|18|NO LICENSE|0|41.051205|Python|{'Python': 100.0}
+CarND-Alexnet-Feature-Extraction|This lab guides you through using AlexNet and TensorFlow to build a feature extraction network.|83|83|397|MIT License|4|41.0507|Python|{'Python': 100.0}
+nasnet-tensorflow|A nasnet in tensorflow|36|36|16|Apache License 2.0|0|41.01305|Python|{'Python': 98.86, 'Shell': 1.14}
+How-to-Use-Tensorflow-for-Time-Series-Live-||104|104|54|NO LICENSE|3|41.01134|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+YOLO-Object-Detection-Tensorflow|YOLO: Real-Time Object Detection using Tensorflow and easy to use|35|35|22|MIT License|2|40.97382|Python|{'Python': 100.0}
+SampleRNN|Tensorflow implementation of SampleRNN|33|33|19|GNU Lesser General Public License v3.0|2|40.849148|Python|{'Python': 99.07, 'Shell': 0.93}
+DaNet-Tensorflow|"Tensorflow implementation of ""Speaker-independent Speech Separation with Deep Attractor Network"""|37|37|21|MIT License|5|40.80391|Python|{'Python': 96.73, 'Shell': 3.27}
+seq2seq-signal-prediction|Signal prediction with a Sequence-to-Sequence (seq2seq) Recurrent Neural Network (RNN) model in TensorFlow - Guillaume Chevalier|381|381|126|MIT License|5|40.80289|Jupyter Notebook|{'Jupyter Notebook': 90.58, 'Python': 9.42}
+hourglasstensorlfow|Tensorflow implementation of Stacked Hourglass Networks for Human Pose Estimation |158|158|55|NO LICENSE|25|40.770493|Python|{'Python': 100.0}
+bayesgan|Tensorflow code for the Bayesian GAN (https://arxiv.org/abs/1705.09558) (NIPS 2017)|878|878|135|Other|6|40.72951|Jupyter Notebook|{'Jupyter Notebook': 63.37, 'Python': 36.63}
+sagemaker-tensorflow-containers|This support code is used for making the TensorFlow framework run on Amazon SageMaker.|51|51|19|Apache License 2.0|4|40.72017|Python|{'Python': 100.0}
+TensorFlow-Object-Detection-API-Tutorial-Train-Multiple-Objects-Windows-10|How to train a TensorFlow Object Detection Classifier for multiple object detection on Windows|313|313|110|NO LICENSE|29|40.715435|Python|{'Python': 100.0}
+tf_tutorial_plus|Tutorials for TensorFlow APIs the official documentation doesn't cover|196|196|52|NO LICENSE|4|40.70595|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+ABCNN|Implementation of ABCNN(Attention-Based Convolutional Neural Network) on Tensorflow|129|129|63|NO LICENSE|3|40.692295|Python|{'Python': 100.0}
+expressive_tacotron|Tensorflow Implementation of Expressive Tacotron|120|120|16|NO LICENSE|4|40.637104|Python|{'Python': 100.0}
+tensorflow-densenet|Tensorflow-DenseNet with ImageNet Pretrained Models|50|50|13|Apache License 2.0|3|40.609528|Python|{'Python': 100.0}
+Free-Tensorflow|Tensorflow 免费中文视频教程，开源代码，免费书籍.|44|44|14|Apache License 2.0|0|40.593044||{}
+kubeflow|Machine Learning Toolkit for Kubernetes|3723|3723|450|Apache License 2.0|209|40.576275|Python|{'Python': 60.32, 'Go': 12.35, 'Shell': 9.74, 'HTML': 7.43, 'Makefile': 7.4, 'CSS': 2.76}
+tensorflowML||14|14|10|NO LICENSE|0|40.542137|Jupyter Notebook|{'Jupyter Notebook': 99.89, 'Python': 0.11}
+LeNet-in-Tensorflow|Implementation of the LeNet-5 deep neural network model in Tensorflow. https://www.youtube.com/watch?v=ixkpBmKRZDw|17|17|29|NO LICENSE|1|40.54202|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+TensorPy|Easy Image Classification with TensorFlow|33|33|26|MIT License|1|40.53978|Python|{'Python': 94.08, 'Shell': 5.92}
+tensorflowbook|tensorflow教程每个章节的源码|19|19|14|NO LICENSE|1|40.53656|Python|{'Python': 100.0}
+RecSys|Builds a recommender system using TensorFlow|59|59|35|NO LICENSE|0|40.52932|Jupyter Notebook|{'Jupyter Notebook': 93.99, 'Python': 6.01}
+How_to_make_a_tensorflow_image_classifier_LIVE||56|56|64|NO LICENSE|3|40.51868|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+tensorflow_practice|tensorflow的一些实战练习|31|31|16|NO LICENSE|0|40.495026|Python|{'Python': 96.42, 'Jupyter Notebook': 3.58}
+Interaction-networks_tensorflow|Tensorflow Implementation of Interaction Networks for Learning about Objects, Relations and Physics|85|85|15|MIT License|2|40.464718|Python|{'Python': 100.0}
+VAE_tensorflow|Variational autoencoder in Tensorflow |58|58|12|NO LICENSE|0|40.431335|Python|{'Python': 100.0}
+Perfect-TensorFlow|TensorFlow C API Class Wrapper in Server Side Swift.|139|139|11|Apache License 2.0|0|40.36483|Swift|{'Swift': 99.64, 'C': 0.28, 'Shell': 0.08}
+tf-slim-mnist|MNIST tutorial with Tensorflow Slim (tf-slim)|63|63|32|Apache License 2.0|0|40.34735|Python|{'Python': 100.0}
+LightRNN-NIPS2016-Tensorflow_code|"The tensorflow implementation of NIPS2016 paper ""LightRNN: Memory and Computation-Efficient Recurrent Neural Networks"" (https://arxiv.org/abs/1610.09893)"|53|53|34|NO LICENSE|2|40.339935||{}
+keras-rl|Deep Reinforcement Learning for Keras.|2615|2615|635|MIT License|67|40.29067|Python|{'Python': 100.0}
+tensorfuse|Common interface for Theano, CGT, and TensorFlow|236|236|17|NO LICENSE|1|40.23062|Python|{'Python': 100.0}
+ConvLSTMCell-tensorflow|ConvLSTMCell for TensorFlow|47|47|15|MIT License|1|40.225418|Python|{'Python': 100.0}
+deep_q|Deep reinforcement learning with TensorFlow|49|49|20|Apache License 2.0|0|40.221344|Python|{'Python': 99.48, 'Shell': 0.52}
+pythonml|Artificial neural network classes and tools in Python and TensorFlow.|62|62|77|MIT License|0|40.19193|Python|{'Python': 100.0}
+DiscoGAN-Tensorflow|An implementation of DiscoGAN in tensorflow|77|77|14|MIT License|1|40.18193|Python|{'Python': 100.0}
+deepdetect|Deep Learning API and Server in C++11 with Python bindings and support for Caffe, Tensorflow, XGBoost and TSNE|1545|1545|374|Other|56|40.16665|C++|{'C++': 75.39, 'Shell': 18.99, 'CMake': 2.61, 'Python': 1.56, 'C': 1.13, 'M4': 0.32}
+tensorflow_mnist_ram|"An attempt to implement the recurrent attention model (RAM) from ""Recurrent Models of Visual Attention"" (Mnih+ 2014)"|42|42|18|MIT License|4|40.16078|Python|{'Python': 100.0}
+keras-js|Run Keras models in the browser, with GPU support using WebGL|4078|4078|391|MIT License|71|40.148594|JavaScript|{'JavaScript': 96.27, 'GLSL': 2.15, 'HTML': 1.09, 'Python': 0.49}
+tensorflow-face-object-detector-tutorial|How to train a Tensorflow face object detection model|31|31|27|NO LICENSE|0|40.12598|Python|{'Python': 83.34, 'Shell': 16.66}
+word2vec-tensorflow|in progress|37|37|20|NO LICENSE|2|40.125526|Python|{'Python': 100.0}
+solving-minesweeper-by-tensorflow|Tensorflow solve minesweeper|59|59|13|NO LICENSE|0|40.120354|Python|{'Python': 100.0}
+k8s-tensorflow||57|57|16|NO LICENSE|7|40.108376|Shell|{'Shell': 100.0}
+MPCNN-sentence-similarity-tensorflow|Multi-Perspective Sentence Similarity Modeling with Convolution Neural Networks论文实现|43|43|18|NO LICENSE|5|40.10038|Python|{'Python': 93.99, 'Perl': 6.01}
+jpmml-tensorflow|Java library and command-line application for converting TensorFlow models to PMML|43|43|13|GNU Affero General Public License v3.0|4|40.088684|Java|{'Java': 88.64, 'Python': 11.36}
+MusicGenerator|Experiment diverse Deep learning models for music generation with TensorFlow|159|159|49|Apache License 2.0|5|40.08826|Python|{'Python': 100.0}
+python-machine-learning-book-2nd-edition|"The ""Python Machine Learning (2nd edition)"" book code repository and info resource"|1208|1208|563|MIT License|10|40.05158|Jupyter Notebook|{'Jupyter Notebook': 99.39, 'Python': 0.6, 'HTML': 0.01, 'Shell': 0.0, 'CSS': 0.0}
+Chinese_poem_generator|唐诗生成器，有详细说明|119|119|50|GNU General Public License v3.0|2|40.036373|Python|{'Python': 100.0}
+trpo|Trust Region Policy Optimization with TensorFlow and OpenAI Gym|169|169|49|MIT License|0|40.017742|Jupyter Notebook|{'Jupyter Notebook': 99.28, 'Python': 0.72}
+handwriting-synthesis|Handwriting Synthesis with RNNs ✏️|495|495|86|NO LICENSE|5|40.00285|Python|{'Python': 100.0}
+social-lstm-tf|Tensorflow implementation of the Social LSTM model|57|57|32|GNU General Public License v3.0|9|39.999043|Python|{'Python': 91.78, 'Matlab': 8.22}
+crack_captcha|破解英文数字验证码|72|72|56|NO LICENSE|0|39.987877|Python|{'Python': 100.0}
+dilated-cnn-ner|Dilated CNNs for NER in TensorFlow|113|113|24|NO LICENSE|6|39.920265|Python|{'Python': 95.15, 'Shell': 4.85}
+Keras-FCN|Keras-tensorflow implementation of Fully Convolutional Networks for Semantic Segmentation（Unfinished）|360|360|170|MIT License|42|39.913765|Python|{'Python': 100.0}
+hred-attention-tensorflow|An extension on the Hierachical Recurrent Encoder-Decoder for Generative Context-Aware Query Suggestion, our implementation is in Tensorflow and uses an attention mechanism.|31|31|20|NO LICENSE|3|39.902294|Python|{'Python': 80.53, 'Jupyter Notebook': 19.31, 'Shell': 0.16, 'Forth': 0.01}
+VQG-tensorflow|Visual Question Generation in Tensorflow|41|41|13|NO LICENSE|0|39.87983|Python|{'Python': 100.0}
+Text_Summarization_with_Tensorflow|Implementation of a seq2seq model for summarization of textual data. Demonstrated on amazon reviews, github issues and news articles. |99|99|12|MIT License|2|39.86669|Jupyter Notebook|{'Jupyter Notebook': 83.36, 'Python': 16.64}
+tensorflow-lstm-sin|TensorFlow 1.3 experiment with LSTM (and GRU) RNNs for sine prediction|38|38|18|NO LICENSE|0|39.86139|Python|{'Python': 100.0}
+My-TensorFlow-tutorials|TensorFlow 学习笔记和分享|24|24|23|NO LICENSE|1|39.85737|Python|{'Python': 100.0}
+cutkum|Thai Word-Segmentation with LSTM in Tensorflow|117|117|23|MIT License|0|39.854855|Python|{'Python': 100.0}
+TF-rex|Play Google Chrome's T-rex game with TensorFlow|245|245|39|MIT License|0|39.836533|JavaScript|{'JavaScript': 60.27, 'HTML': 20.04, 'Python': 18.08, 'CSS': 1.61}
+LapSRN-tensorflow|"Tensorflow implementation of the paper ""Deep Laplacian Pyramid Networks for Fast and Accurate Super-Resolution"" "|43|43|17|Apache License 2.0|0|39.81888|Python|{'Python': 100.0}
+tensorflow-image-classification|Generic image classification using a simple tensorflow neural network |20|20|11|NO LICENSE|4|34.21132|Python|{'Python': 100.0}
+models|Pretrained models for TFLearn and TensorFlow|47|47|15|MIT License|4|34.196312|Python|{'Python': 100.0}
+TensorFlow_TimeSeries_RNN_MapR|TensorFlow code from my blog post https://mapr.com/blog/deep-learning-tensorflow/|25|25|15|NO LICENSE|1|34.188606|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+S2VT|Tensorflow implement of paper: Sequence to Sequence: Video to Text|53|53|28|NO LICENSE|12|34.16102|Python|{'Python': 99.71, 'Shell': 0.29}
+Deep-Learning-21-Examples|《21个项目玩转深度学习———基于TensorFlow的实践详解》配套代码|1640|1640|462|NO LICENSE|3|34.13995|Python|{'Python': 91.56, 'Jupyter Notebook': 2.34, 'JavaScript': 2.11, 'HTML': 1.59, 'Shell': 1.11, 'Matlab': 0.67, 'CSS': 0.44, 'HCL': 0.15, 'Makefile': 0.03}
+Keras-Tutorials|Simple tutorials using Keras Framework|175|175|83|NO LICENSE|1|34.102135|Jupyter Notebook|{'Jupyter Notebook': 96.42, 'Python': 3.58}
+AAE-tensorflow|Tensorflow implementation of Adversarial Autoencoders (https://arxiv.org/abs/1511.05644)|30|30|8|GNU General Public License v3.0|1|34.066994|Python|{'Python': 100.0}
+CrackCaptcha|Crack Captcha Using TensorFlow|23|23|9|NO LICENSE|1|34.04996|Python|{'Python': 100.0}
+TransE|A TensorFlow implementation of TransE model|30|30|18|NO LICENSE|0|34.030785|Python|{'Python': 97.67, 'Shell': 2.33}
+tensorflow_tmva|A proof of concept adapter to use Google's TensorFlow in place of ROOT's TMVA.|29|29|7|GNU General Public License v2.0|7|34.03076|Python|{'Python': 100.0}
+SubCNN_TF|A tensorflow implementation of SubCNN (working progress)|25|25|18|NO LICENSE|2|33.99508|Python|{'Python': 80.59, 'C++': 17.76, 'Cuda': 1.23, 'Shell': 0.41, 'Makefile': 0.02}
+treernn|Recurrent Neural Networks with tree structure in Tensorflow|64|64|25|NO LICENSE|0|33.949978|Python|{'Python': 99.57, 'Shell': 0.43}
+tensorflow-keras-docker|Tensorflow + Keras as a Docker container for local experiments|15|15|12|MIT License|0|33.89093||{}
+demon|DeMoN: Depth and Motion Network|228|228|89|GNU General Public License v3.0|18|33.88378|C++|{'C++': 49.65, 'Python': 47.19, 'Shell': 1.66, 'CMake': 1.5}
+HyperFace-TensorFlow-implementation|HyperFace|21|21|16|NO LICENSE|4|33.867287|Python|{'Python': 100.0}
+Adversarial_Video_Generation|"A TensorFlow Implementation of ""Deep Multi-Scale Video Prediction Beyond Mean Square Error"" by Mathieu, Couprie & LeCun."|453|453|126|MIT License|18|33.862682|Python|{'Python': 100.0}
+tensorflow-AlexNet|An implementment of AlexNet with TensorFlow|23|23|10|NO LICENSE|0|33.86064|Python|{'Python': 100.0}
+skip-thought-tf|An implementation of skip-thought vectors in Tensorflow|63|63|25|MIT License|4|33.826614|Python|{'Python': 100.0}
+deepSpeech|End-to-end speech recognition using distributed TensorFlow|45|45|28|"BSD 3-Clause ""New"" or ""Revised"" License"|3|33.81945|Python|{'Python': 98.73, 'Shell': 1.27}
+multi-class-text-classification-cnn-rnn|Classify Kaggle San Francisco Crime Description into 39 classes. Build the model with CNN, RNN (GRU and LSTM) and Word Embeddings on Tensorflow.|404|404|201|Apache License 2.0|27|33.813164|Python|{'Python': 100.0}
+tensorflow-docker||8|8|12|NO LICENSE|0|33.74249|Jupyter Notebook|{'Jupyter Notebook': 98.64, 'Python': 0.79, 'Shell': 0.57}
+tensorflow-predictor-cpp|tensorflow prediction using c++ api|27|27|9|NO LICENSE|1|33.734375|Python|{'Python': 67.22, 'C++': 25.35, 'CMake': 7.43}
+EBGAN.tensorflow|Tensorflow implementation of Energy Based Generative Adversarial Networks (EBGAN)|20|20|8|MIT License|1|33.728653|Python|{'Python': 100.0}
+Tensorflow-windows-dll|Compiled tensorflow.lib and tensorflow.dll on windows 7.|26|26|7|NO LICENSE|5|33.70289|C++|{'C++': 74.66, 'Python': 24.3, 'C': 0.44, 'Objective-C++': 0.16, 'Shell': 0.14, 'CMake': 0.13, 'Makefile': 0.09, 'Java': 0.05, 'Objective-C': 0.02, 'Ruby': 0.01, 'HTML': 0.0}
+Fabrik|:factory: Collaboratively build, visualize, and design neural nets in browser|844|844|179|GNU General Public License v3.0|36|33.667694|Python|{'Python': 61.19, 'JavaScript': 35.0, 'CSS': 2.69, 'Shell': 0.93, 'HTML': 0.18}
+rostensorflow|TensorFlow ImageNet demo using ROS sensor_msgs/Image|32|32|32|Apache License 2.0|2|33.64474|Python|{'Python': 100.0}
+NER-LSTM-CRF|An easy-to-use named entity recognition (NER) toolkit, implemented the Bi-LSTM+CRF model in tensorflow.|186|186|68|NO LICENSE|2|33.64386|Python|{'Python': 100.0}
+human-motion-prediction|Simple baselines and RNNs for predicting human motion in tensorflow. Presented at CVPR 17.|106|106|38|MIT License|3|33.59672|Python|{'Python': 100.0}
+densenet-tensorflow|A clean densenet in tensorflow|19|19|8|Apache License 2.0|0|33.573368|Python|{'Python': 100.0}
+TensorGraphX|A tensorflow library for building all kinds of models|65|65|19|Apache License 2.0|1|33.56591|Python|{'Python': 99.89, 'Shell': 0.11}
+A-Recsys|A Tensorflow based implicit recommender system|61|61|28|NO LICENSE|1|39.303326|Python|{'Python': 100.0}
+tf-dqn-simple|Tensorflow Deep Q-Network|27|27|17|MIT License|0|39.301712|Python|{'Python': 100.0}
+Bender|Easily craft fast Neural Networks on iOS! Use TensorFlow models. Metal under the hood.|1513|1513|76|Other|18|39.287086|Swift|{'Swift': 89.3, 'Metal': 8.39, 'Objective-C': 2.07, 'Ruby': 0.24}
+gold-miner|🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：|14268|14268|2501|NO LICENSE|40|39.27257||{}
+jaylyrics_generation_tensorflow|Lyrics Generation Using Seq2seq Model implemented by TensorFlow.|7|7|35|NO LICENSE|0|39.267597|Python|{'Python': 100.0}
+TensorFlow-Input-Pipeline|TensorFlow Input Pipeline Examples based on multi-thread and FIFOQueue|48|48|17|NO LICENSE|0|39.26707|Python|{'Python': 100.0}
+tensorlayer-chinese|TensorLayer 中文文档|273|273|102|Apache License 2.0|5|39.259506|Python|{'Python': 100.0}
+VAE-Tensorflow|A Tensorflow implementation of a Variational Autoencoder for the deep learning course at University of Southern California (USC) in the Fall 2017 Semester.|34|34|14|MIT License|0|39.224022|Jupyter Notebook|{'Jupyter Notebook': 99.16, 'Python': 0.84}
+HiddenMarkovModel_TensorFlow|TensorFlow: Viterbi, Forward-Backward and Baum Welch with a Hidden Markov Model (HMM)|56|56|18|NO LICENSE|1|39.21284|Jupyter Notebook|{'Jupyter Notebook': 84.36, 'Python': 15.64}
+android-yolo|Real-time object detection on Android using the YOLO network with TensorFlow|363|363|142|Apache License 2.0|9|39.152184|C++|{'C++': 46.75, 'Python': 38.76, 'Jupyter Notebook': 7.21, 'TypeScript': 2.57, 'HTML': 2.12, 'Shell': 0.97, 'C': 0.73, 'Java': 0.39, 'Objective-C++': 0.19, 'CMake': 0.15, 'Makefile': 0.1, 'JavaScript': 0.05, 'Objective-C': 0.02, 'CSS': 0.0}
+TensorFlow-MIL|TF Implementation of Multiple Instance Learning FCN.|40|40|16|MIT License|0|39.1294|Python|{'Python': 100.0}
+Generative-Adversarial-Networks|Tutorial on GANs|193|193|90|NO LICENSE|1|39.12739|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+web-traffic-forecasting|"Kaggle | Web Traffic Forecasting 📈"|220|220|92|NO LICENSE|3|39.126217|Python|{'Python': 100.0}
+dfi-tensorflow|Implementation of Deep Feature Interpolation in Tensorflow using a VGG19 model|58|58|10|NO LICENSE|1|39.08975|Python|{'Python': 100.0}
+SPIRAL-tensorflow|in progress (I'll revisit this after NIPS deadline)|57|57|10|Other|0|39.049675|Python|{'Python': 98.99, 'Shell': 1.01}
+gans|Generative Adversarial Networks implemented in PyTorch and Tensorflow|302|302|34|MIT License|2|39.04387|Jupyter Notebook|{'Jupyter Notebook': 99.55, 'Python': 0.45}
+3D-Deepbox|3D Bounding Box Estimation Using Deep Learning and Geometry (MultiBin)|107|107|44|NO LICENSE|12|39.039845|Python|{'Python': 82.11, 'Matlab': 17.1, 'C++': 0.79}
+draw|"TensorFlow Implementation of ""DRAW: A Recurrent Neural Network For Image Generation"""|399|399|130|Apache License 2.0|3|39.00038|Python|{'Python': 100.0}
+autoencoding_vi_for_topic_models|Tensorflow implementation for prodLDA and NVLDA.|88|88|23|MIT License|2|38.95191|Python|{'Python': 100.0}
+tensorflowjs|Simple FFI bindings for TensorFlow's C API.|44|44|8|NO LICENSE|0|38.929974|JavaScript|{'JavaScript': 100.0}
+CASED-Tensorflow|"Simple Tensorflow implementation of ""Curriculum Adaptive Sampling for Extreme Data Imbalance"" with multi GPU using LUNA16 (MICCAI 2017) / LUNA16 Tutorial"|37|37|13|MIT License|1|38.927444|Python|{'Python': 100.0}
+easy-tensorflow-on-cloud9|Hopefully the easiest way to get started with Google's TensorFlow Deep Learning Neural Network Python Library|40|40|20|MIT License|2|38.925682|Python|{'Python': 69.27, 'Shell': 21.31, 'Jupyter Notebook': 4.76, 'R': 4.66}
+TensorFlowinAction||18|18|23|NO LICENSE|1|38.923904|Jupyter Notebook|{'Jupyter Notebook': 52.15, 'Python': 47.85}
+deep_image_model|Deep convolution/recurrent neural network project with TensorFlow|98|98|50|Apache License 2.0|2|38.9188|Python|{'Python': 44.85, 'C++': 43.21, 'Jupyter Notebook': 6.25, 'HTML': 1.79, 'TypeScript': 1.51, 'Shell': 0.87, 'CMake': 0.32, 'C': 0.3, 'Go': 0.29, 'Java': 0.23, 'Objective-C++': 0.22, 'Makefile': 0.08, 'JavaScript': 0.04, 'Objective-C': 0.02, 'Batchfile': 0.01}
+distributed_tensorflow_gentle_introduction|Jupyter notebook running through some basic examples of Distributed TensorFlow|38|38|18|NO LICENSE|0|38.87451|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+resnet-tensorflow|Modular Residual Networks implemented in TensorFlow. Easily change hyperparameters in a few lines.|31|31|13|MIT License|0|38.85486|Python|{'Python': 100.0}
+TF-mRNN|Re-implementation of the m-RNN model using TensorFLow|99|99|52|NO LICENSE|5|38.85297|Jupyter Notebook|{'Jupyter Notebook': 90.29, 'Python': 9.33, 'Shell': 0.37}
+segmentation|TensorFlow implementation of ENet, trained on the Cityscapes dataset.|166|166|38|NO LICENSE|7|38.787872|Python|{'Python': 100.0}
+DeepID1|Implementation of DeepID1 using tensorflow.|37|37|19|NO LICENSE|3|38.778|Python|{'Python': 100.0}
+Group-Normalization-Tensorflow|A TensorFlow implementation of Group Normalization on the task of image classification|108|108|10|MIT License|6|38.775524|Python|{'Python': 100.0}
+Group-Normalization-Tensorflow|A TensorFlow implementation of Group Normalization on the task of image classification|108|108|10|MIT License|6|38.75174|Python|{'Python': 100.0}
+tf-performance-tips|Tips for optimizing TensorFlow code|62|62|15|NO LICENSE|0|38.73014||{}
+diabetic-retinopathy-screening|Diabetic retinopathy screening w/ Tensorflow.|48|48|17|Other|1|38.721462|Python|{'Python': 100.0}
+CS224n_project|Neural Image Captioning in TensorFlow.|48|48|17|NO LICENSE|1|38.70936|Jupyter Notebook|{'Jupyter Notebook': 52.94, 'Python': 32.63, 'C++': 9.51, 'JavaScript': 1.39, 'CSS': 1.06, 'Matlab': 0.94, 'Shell': 0.51, 'Lua': 0.32, 'HTML': 0.23, 'C': 0.23, 'Protocol Buffer': 0.15, 'Makefile': 0.09, 'PHP': 0.02}
+CipherGAN|TensorFlow implementation of CipherGAN|70|70|10|MIT License|2|38.705925|Python|{'Python': 100.0}
+tfstage|TFStage: TensorFlow Project Scaffolding|60|60|10|NO LICENSE|2|38.693962|Python|{'Python': 100.0}
+Multilabel-timeseries-classification-with-LSTM| Tensorflow implementation of paper: Learning to Diagnose with LSTM Recurrent Neural Networks.|373|373|126|Apache License 2.0|2|38.68219|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+FCRN-DepthPrediction|Deeper Depth Prediction with Fully Convolutional Residual Networks (FCRN)|464|464|175|"BSD 2-Clause ""Simplified"" License"|16|38.64552|Python|{'Python': 63.99, 'Matlab': 36.01}
+imgrec|image recognition with GoogLeNet in tensorflow|35|35|31|NO LICENSE|3|38.633087|Python|{'Python': 96.39, 'HTML': 3.61}
+tensorflow-image-classifier|image classifier, retrained for specific classes|21|21|20|NO LICENSE|2|38.62452|Python|{'Python': 99.35, 'Shell': 0.65}
+char-cnn-text-classification-tensorflow|Character-level Convolutional Networks for Text Classification论文仿真实现|33|33|21|NO LICENSE|1|38.60982|Python|{'Python': 100.0}
+overcoming-catastrophic|"Implementation of ""Overcoming catastrophic forgetting in neural networks"" in Tensorflow"|127|127|42|NO LICENSE|0|38.596546|Jupyter Notebook|{'Jupyter Notebook': 97.87, 'Python': 2.13}
+vision_networks|Repo about neural networks for images handling|186|186|90|MIT License|2|38.586063|Python|{'Python': 100.0}
+Deep-Learning-|Deep learning algorithms written in TensorFlow|20|20|42|MIT License|3|38.5753|Jupyter Notebook|{'Jupyter Notebook': 99.29, 'Java': 0.41, 'Python': 0.31}
+dcn.tf|Dynamic Capacity Networks using Tensorflow|46|46|16|NO LICENSE|1|38.573666|Python|{'Python': 100.0}
+TensorFlow-1x-Deep-Learning-Cookbook|TensorFlow 1.x Deep Learning Cookbook, published by Packt|30|30|32|MIT License|0|38.55686|Jupyter Notebook|{'Jupyter Notebook': 99.12, 'Python': 0.88}
+VIN_TensorFlow|TensorFlow implementation of Value Iteration Networks (VIN): Clean, Simple and Modular|40|40|15|NO LICENSE|0|38.54972|Python|{'Python': 100.0}
+fast-LayerNorm-TF|Efficient layer normalization GPU kernel for Tensorflow|96|96|21|MIT License|3|38.5289|C++|{'C++': 78.9, 'Python': 20.2, 'Makefile': 0.9}
+Generative-Models|Comparison of Generative Models in Tensorflow|58|58|25|NO LICENSE|0|38.528385|Python|{'Python': 100.0}
+TensorFlow4Delphi|TensorFlow API (Wrapper) for Delphi|38|38|15|Apache License 2.0|1|38.521236|Pascal|{'Pascal': 87.15, 'Python': 6.06, 'PHP': 3.14, 'C++': 2.49, 'C': 0.83, 'Batchfile': 0.33}
+Fader-Networks-Tensorflow||33|33|18|NO LICENSE|1|38.48876|Python|{'Python': 100.0}
+generative-adversarial-networks|Introduction to generative adversarial networks, with code to accompany the O'Reilly tutorial on GANs|328|328|154|MIT License|2|38.488625|Jupyter Notebook|{'Jupyter Notebook': 68.27, 'Python': 31.73}
+BEGAN|Boundary Equibilibrium Generative Adversarial Networks Implementation in Tensorflow|161|161|39|MIT License|7|38.470398|Python|{'Python': 100.0}
+sketch-rnn|Multilayer LSTM and Mixture Density Network for modelling path-level SVG Vector Graphics data in TensorFlow|558|558|101|NO LICENSE|6|38.466137|Python|{'Python': 99.64, 'Shell': 0.36}
+deep-learning-demo|:pill: The data is the future of oil, digging the potential value of the data is very meaningful. This library records my road of machine learning study. |304|304|181|NO LICENSE|0|38.459972|Jupyter Notebook|{'Jupyter Notebook': 95.1, 'Python': 4.31, 'C++': 0.32, 'Shell': 0.16, 'HTML': 0.08, 'CMake': 0.02, 'OpenEdge ABL': 0.01}
+DeepLearn|Implementation of research papers on Deep Learning+ NLP+ CV in Python using Keras, Tensorflow and Scikit Learn.|1447|1447|251|MIT License|9|38.45728|Python|{'Python': 100.0}
+text-based-game-rl-tensorflow|in progress|50|50|17|NO LICENSE|1|38.45593|Python|{'Python': 100.0}
+pointnet|PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation|919|919|417|Other|28|38.447536|Python|{'Python': 99.68, 'Shell': 0.32}
+jiji-with-tensorflow-example|Example of the forex trading system using Jiji and Tensorflow.|33|33|17|MIT License|0|38.425617|Python|{'Python': 55.25, 'Ruby': 44.75}
+tfrnnlm|Example TensorFlow RNN Language Model|43|43|18|NO LICENSE|1|38.42335|Python|{'Python': 100.0}
+Tensorflow-ML|Different machine learning algorithms implementation in Tensorflow|14|14|18|MIT License|0|38.40562|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+faceai|一款入门级的人脸、视频、文字检测以及识别的项目.|584|584|149|MIT License|3|38.378883|Python|{'Python': 100.0}
+stockprediction|Data and code of my Medium story on stock prediction with TensorFlow|219|219|144|NO LICENSE|1|38.36301|Python|{'Python': 100.0}
+td-gammon|Implementation of TD-Gammon in TensorFlow.|50|50|26|NO LICENSE|6|38.36196|Python|{'Python': 100.0}
+keras-squeezenet|SqueezeNet implementation with Keras Framework|256|256|90|MIT License|11|38.35648|Python|{'Python': 100.0}
+TD-LSTM|Attention-based Aspect-term Sentiment Analysis implemented by tensorflow.|81|81|46|NO LICENSE|0|38.354607|Python|{'Python': 96.25, 'HTML': 3.75}
+pixel-cnn|"Python3 / Tensorflow implementation of PixelCNN++, as described in ""PixelCNN++: A PixelCNN Implementation with Discretized Logistic Mixture Likelihood and Other Modifications"""|1203|1203|273|MIT License|22|38.35405|Python|{'Python': 100.0}
+Seq2Seq_Upgrade_TensorFlow|[unmaintained] Additional Sequence to Sequence Features for TensorFlow|53|53|24|Apache License 2.0|0|38.347572|Python|{'Python': 100.0}
+PornDetector|Porn images detector with python, tensorflow, scikit-learn and opencv.|134|134|39|NO LICENSE|3|38.339268|Python|{'Python': 100.0}
+tensorflow-IPythonNotebook|tensorflow with IPythonNotebook|53|53|11|NO LICENSE|1|38.301014|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+course-tensorflow|2017~2018学年，第一学期，《TensorFlow基础教程》（基于1.3版本）课程仓库，Python与机器学习方向。|22|22|16|NO LICENSE|0|38.279877|Python|{'Python': 100.0}
+tensorflow-scala|A Scala binding of TensorFlow for Serving TensorFlow Models (Provides RESTful API)|47|47|10|Apache License 2.0|0|38.269836|Shell|{'Shell': 59.36, 'Scala': 40.64}
+Recommender|A recommendation system using tensorflow|36|36|19|MIT License|0|38.2359|Jupyter Notebook|{'Jupyter Notebook': 82.71, 'Python': 17.12, 'Shell': 0.17}
+tensorflow-alexnet|Implemetations of alexnet using Tensorflow on mnist and cifar10.|25|25|13|MIT License|1|38.231697|Python|{'Python': 100.0}
+davian-tensorflow|tensorflow tutorial for beginner to intermediate|30|30|12|NO LICENSE|0|38.22506|Jupyter Notebook|{'Jupyter Notebook': 91.48, 'Python': 8.46, 'Shell': 0.06}
+tensorflow-shakespeare-poem-generator|generates new poem using a Tensorflow RNN|31|31|15|Apache License 2.0|2|38.214367|Python|{'Python': 100.0}
+-tensorflow-|唐源黄文坚所著书籍《tensorflow实战》的源码实现|20|20|12|NO LICENSE|0|38.19771|Python|{'Python': 100.0}
+Awesome-GANs|Awesome Generative Adversarial Networks with tensorflow|110|110|18|MIT License|2|38.192207|Python|{'Python': 100.0}
+social-lstm-tf|Tensorflow implementation of the Social LSTM model|44|44|27|NO LICENSE|0|38.183594|Python|{'Python': 100.0}
+DNI-tensorflow|DNI (Decoupled Neural Interfaces using Synthetic Gradients) Implementation with Tensorflow.|30|30|12|NO LICENSE|0|38.157272|Python|{'Python': 100.0}
+tensorflow-music-generator|generates music (midi files) using a Tensorflow RNN|34|34|16|NO LICENSE|4|38.14732|Python|{'Python': 100.0}
+rnn-nlu|A TensorFlow implementation of Recurrent Neural Networks for Sequence Classification and Sequence Labeling|304|304|119|NO LICENSE|8|38.13959|Python|{'Python': 84.18, 'Perl': 15.82}
+Visualizing-Convnets|How to build convolutional neural networks from scratch w/ Tensorflow|71|71|46|NO LICENSE|1|38.028816|Jupyter Notebook|{'Jupyter Notebook': 98.45, 'Python': 1.55}
+tensorflow-sphereface-asoftmax|a re-implementation of asoftmax in tensorflow|54|54|12|NO LICENSE|4|38.025063|Python|{'Python': 100.0}
+NeuralNetPlayground|A MATLAB implementation of the TensorFlow Neural Networks Playground seen on http://playground.tensorflow.org/|44|44|22|MIT License|0|38.020954|Matlab|{'Matlab': 100.0}
+TensorFlow-HelloWorld||14|14|21|NO LICENSE|0|38.019955|Python|{'Python': 100.0}
+TimeFlow|Tensorflow for Time Series Applications|58|58|14|MIT License|2|38.003162|Jupyter Notebook|{'Jupyter Notebook': 96.19, 'Python': 3.81}
+TensorFlow-Signal-Processing|doing audio digital signal processing in tensorflow to try to recreate digital audio effects|33|33|15|NO LICENSE|2|37.996655|Python|{'Python': 52.3, 'Jupyter Notebook': 47.0, 'Makefile': 0.7}
+CppNumericalSolvers|L-BFGS-B for TensorFlow or pure C++11 and other optimization methods|377|377|108|MIT License|1|37.98416|C++|{'C++': 86.62, 'Python': 10.28, 'Matlab': 2.17, 'CMake': 0.93}
+learning-tensorflow|Using tensorflow to implement different deep learning model|20|20|15|NO LICENSE|0|37.9618|Python|{'Python': 100.0}
+GoPiGo-Driven-by-Tensorflow|GoPiGo robot driven autonomously by trained CNN using retrained Tensorflow Inception|71|71|21|MIT License|0|37.948242|Python|{'Python': 100.0}
+RecursiveNN|Tensorflow implementation of Recursive Neural Networks using LSTM units|82|82|46|NO LICENSE|5|37.916805|Python|{'Python': 100.0}
+node2vec|Node2vec with tensorflow|33|33|13|NO LICENSE|0|37.90946|Jupyter Notebook|{'Jupyter Notebook': 87.22, 'Python': 12.78}
+Deep-Learning-Tensorflow|Tensorflow deep learning projects|23|23|15|MIT License|1|37.904297|Jupyter Notebook|{'Jupyter Notebook': 99.57, 'OpenEdge ABL': 0.32, 'Python': 0.08, 'C': 0.04}
+TensorFlowKR-2017-talk-bestpractice|💬 Slides and Tutorial Codes for the talk 'Toward Best Practices of TensorFlow Code Patterns' (2017)|137|137|15|NO LICENSE|1|37.880898|CSS|{'CSS': 54.02, 'HTML': 28.87, 'JavaScript': 17.1}
+char-rnn-tensorflow|Multi-layer Recurrent Neural Networks for character-level language models implements by TensorFlow|53|53|12|NO LICENSE|0|37.870316|Python|{'Python': 100.0}
+tensorflow-font2char2word2sent2doc|TensorFlow implementation of Hierarchical Attention Networks for Document Classification and some extension|86|86|34|The Unlicense|3|37.866898|Python|{'Python': 95.37, 'Ruby': 4.63}
+Predictive-Analytics-with-TensorFlow|Predictive Analytics with TensorFlow, published by Packt|20|20|26|MIT License|0|37.82531|Python|{'Python': 100.0}
+tensorflow-cyclegan|A single file implementation of cyclegan in tensorflow. Purpose is for base, starting project for hackfests and educational Jupyter Notebooks|33|33|12|NO LICENSE|0|37.814034|Python|{'Python': 100.0}
+JoshieGo|A Go playing program implemented in Tensorflow roughly according to the architecture of AlphaGo. Current strength is 3~4 amateur dan. |174|174|31|NO LICENSE|2|37.79612|Python|{'Python': 92.58, 'C++': 7.42}
+text-to-image|Generative Adversarial Text to Image Synthesis / Please Star -->|207|207|88|NO LICENSE|13|37.779606|Python|{'Python': 100.0}
+tensorflow-mtcnn|tensorflow mtcnn|24|24|11|NO LICENSE|0|37.77907|Python|{'Python': 100.0}
+Self-Attentive-tensorflow|"Tensorflow implementation of ""A Structured Self-Attentive Sentence Embedding"""|50|50|12|NO LICENSE|0|37.71847|Python|{'Python': 100.0}
+neural_style_tensorflow|the neural style methods version in tensorflow|23|23|18|NO LICENSE|2|37.713413|Python|{'Python': 100.0}
+tensorfx|TensorFlow framework for training and serving machine learning models|158|158|32|Apache License 2.0|11|37.69458|Python|{'Python': 99.21, 'Shell': 0.79}
+TextSum|Preparing a dataset for TensorFlow text summarization (TextSum) model.|105|105|39|MIT License|2|37.693417|Python|{'Python': 100.0}
+TensorFlow-Tutorial|###欢迎加入，TensorFlow机器学习社区 232113779|50|50|12|NO LICENSE|4|37.686344|Python|{'Python': 99.15, 'JavaScript': 0.85}
+how_to_generate_images_with_tensorflow_LIVE||41|41|25|NO LICENSE|2|37.658268|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+Colorization.tensorflow|Image colorization using CNNs in tensorflow|39|39|11|MIT License|0|37.631477|Python|{'Python': 100.0}
+CapsNet_Tensorflow||59|59|11|MIT License|2|37.622498|Python|{'Python': 100.0}
+tensorflow-tutorial-samples|tensorflow教程&示例，有详细的中文注释|72|72|10|NO LICENSE|0|37.595863|Python|{'Python': 100.0}
+tf-oreilly|"Code for O'Reilly's ""A Short Course on TensorFlow"""|64|64|47|NO LICENSE|0|37.59389|Python|{'Python': 53.2, 'Jupyter Notebook': 46.8}
+tensorflow-maxout|Maxout Networks TensorFlow implementation presented in https://arxiv.org/abs/1302.4389|37|37|11|MIT License|0|37.576786|Python|{'Python': 100.0}
+docnade|TensorFlow implementation of DocNADE|28|28|13|NO LICENSE|4|37.53217|Python|{'Python': 100.0}
+image_captioning|"Tensorflow implementation of  ""Show, Attend and Tell: Neural Image Caption Generation with Visual Attention"" "|249|249|113|MIT License|27|37.50128|Python|{'Python': 99.81, 'Shell': 0.19}
+DeepLearningCourseCodes|Notes, Codes, and Tutorials for the Deep Learning Course at ChinaHadoop|112|112|90|Apache License 2.0|1|37.486008|Jupyter Notebook|{'Jupyter Notebook': 62.08, 'HTML': 24.27, 'Python': 13.65}
+tf_serving_flask_app|Creation of REST API for TensorFlow models hosted by TensorFlow Serving|46|46|21|NO LICENSE|1|37.48153|Python|{'Python': 100.0}
+MultiNet|Real-time Joint Semantic Reasoning for Autonomous Driving|259|259|145|MIT License|16|37.47341|Python|{'Python': 100.0}
+dynamic-coattention-network|Tensorflow implementation of Dynamic Coattention Networks for Question Answering.|93|93|40|MIT License|8|37.473152|Python|{'Python': 100.0}
+dl_cv_tensorflow_10weeks|딥러닝-영상인식 CAMP 10주 과정을 위한 TensorFlow 코드들|20|20|24|NO LICENSE|0|37.4402|Jupyter Notebook|{'Jupyter Notebook': 73.73, 'Python': 11.8, 'Lua': 9.94, 'C++': 1.46, 'Shell': 1.08, 'Matlab': 0.91, 'TeX': 0.76, 'C': 0.31, 'Makefile': 0.01}
+SSD_tensorflow_VOC||32|32|14|Apache License 2.0|18|37.4045|Python|{'Python': 100.0}
+DeepLearningCourseCodes|Notes, Codes, and Tutorials for the Deep Learning Course at ChinaHadoop|112|112|90|Apache License 2.0|1|37.395187|Jupyter Notebook|{'Jupyter Notebook': 62.08, 'HTML': 24.27, 'Python': 13.65}
+tensorflow-tutorial|Code and examples for Initialized's Introduction to Tensorflow Tutorial|28|28|11|MIT License|1|37.390144|Jupyter Notebook|{'Jupyter Notebook': 79.06, 'Python': 20.94}
+semantic-segmentation-tensorflow|Semantic segmentation task for ADE20k & cityscapse dataset, based on several models.|27|27|15|NO LICENSE|7|37.373158|Python|{'Python': 100.0}
+AI-TensorFlow|AI code and notes using TensorFlow|55|55|11|NO LICENSE|1|37.372128|Python|{'Python': 100.0}
+tutorials|机器学习相关教程|3548|3548|2177|MIT License|3|37.35041|Python|{'Python': 93.11, 'Jupyter Notebook': 6.89}
+YOLO2TensorFlow|YOLOv2 implemented by TensorFlow|27|27|15|Apache License 2.0|7|37.350372|Python|{'Python': 100.0}
+conv_seq2seq|A tensorflow implementation of Fairseq Convolutional Sequence to Sequence Learning(Gehring et al. 2017)|165|165|64|Apache License 2.0|15|37.31358|Python|{'Python': 94.72, 'Shell': 3.17, 'Perl': 1.05, 'JavaScript': 0.88, 'CSS': 0.17}
+3D-RecGAN|3D-RecGAN in Tensorflow (ICCV Workshops 2017)|49|49|22|NO LICENSE|2|37.29143|Python|{'Python': 100.0}
+Kohonen_SOM_Tensorflow|Tensorflow implementation of the Kohonen Self Organizing Map|37|37|13|NO LICENSE|1|37.27913|Python|{'Python': 100.0}
+textgenrnn|Easily train your own text-generating neural network of any size and complexity on any text dataset with a few lines of code.|755|755|94|Other|1|37.27874|Python|{'Python': 100.0}
+3d-pose-baseline|A simple baseline for 3d human pose estimation in tensorflow. Presented at ICCV 17.|338|338|97|MIT License|13|37.27226|Python|{'Python': 100.0}
+ByteNet|A tensorflow implementation of French-to-English machine translation using DeepMind's ByteNet .|517|517|80|MIT License|5|37.256668|Python|{'Python': 100.0}
+ml-class|Materials for class on machine learning/deep learning using scikit-learn, tensorflow and keras|155|155|134|GNU General Public License v2.0|17|37.248802|Python|{'Python': 60.33, 'Jupyter Notebook': 39.67}
+neuralnets|Deep Learning libraries tested on images and time series|129|129|77|MIT License|4|37.22597|Jupyter Notebook|{'Jupyter Notebook': 99.31, 'Python': 0.69}
+tensorflow-input-pipelines|TensorFlow input pipelines for multiple datasets for easy data fetching |42|42|13|NO LICENSE|0|37.1965|Python|{'Python': 98.65, 'Shell': 1.35}
+DCGAN-LSGAN-WGAN-WGAN-GP-Tensorflow|DCGAN LSGAN WGAN WGAN-GP Tensorflow|43|43|22|MIT License|0|37.192303|Python|{'Python': 100.0}
+mdm|A TensorFlow implementation of the Mnemonic Descent Method.|102|102|36|"BSD 3-Clause ""New"" or ""Revised"" License"|1|37.184464|Jupyter Notebook|{'Jupyter Notebook': 85.44, 'Python': 14.56}
+TensorFlow-on-Android-for-Human-Activity-Recognition-with-LSTMs|iPython notebook and Android app that shows how to build LSTM model in TensorFlow and deploy it on Android|71|71|35|NO LICENSE|2|37.174824|Jupyter Notebook|{'Jupyter Notebook': 99.37, 'Java': 0.63}
+dlcampjeju|Deep Learning Camp Jeju|326|326|53|NO LICENSE|0|37.16366|HTML|{'HTML': 46.12, 'CSS': 42.53, 'JavaScript': 5.8, 'Ruby': 5.36, 'Makefile': 0.19}
+tensorflow-code-experiences||29|29|15|Apache License 2.0|1|37.158405|Python|{'Python': 51.9, 'Jupyter Notebook': 48.1}
+tensorflow|一些机器学习的实践|11|11|8|NO LICENSE|0|37.09167|Python|{'Python': 97.97, 'C#': 1.68, 'Cuda': 0.32, 'Shell': 0.02, 'C++': 0.01}
+feature-visualization|tensorflow example of visualizing features from a convnet|87|87|38|NO LICENSE|3|37.06332|Python|{'Python': 100.0}
+tensorflow-worklab|This set of files is an example of how to use Tensorflow for importing and retraining an existing model, such as ResNet. The goal of this example is to separate all functionality on several classes, so it is easy to modify the parameters and run the models, while still having all code not too deep inside. |26|26|10|NO LICENSE|0|37.056995|Python|{'Python': 100.0}
+yolov2_tensorflow||18|18|17|NO LICENSE|1|37.053265|Python|{'Python': 91.65, 'C++': 8.35}
+tensorflow-workshop||15|15|14|Apache License 2.0|5|37.035763|Jupyter Notebook|{'Jupyter Notebook': 90.16, 'Python': 9.84}
+tensorflow-vgg16-train-and-test|The purpose of this program is for studying. Using tensorflow trains the vgg16 and recognizes only two kinds of picture(cat and dog).|36|36|23|NO LICENSE|1|37.005608|Python|{'Python': 100.0}
+tf_to_trt_image_classification|Image classification with NVIDIA TensorRT from TensorFlow models.|101|101|35|Other|9|36.988136|Python|{'Python': 69.84, 'Cuda': 19.24, 'C++': 5.12, 'Shell': 4.78, 'CMake': 1.02}
+The-GAN-World|Everything about Generative Adversarial Networks|142|142|65|NO LICENSE|0|36.983788||{}
+tensorflow-community-wheels|Place to upload links to TensorFlow wheels|138|138|7|NO LICENSE|60|36.97973||{}
+dcan-tensorflow|Deep Contour-Aware Networks in Tensorflow|21|21|12|NO LICENSE|0|36.96617|Python|{'Python': 93.67, 'Matlab': 6.33}
+honk|PyTorch reimplementation of Google's TensorFlow CNNs for keyword spotting|121|121|32|NO LICENSE|3|36.945587|Python|{'Python': 54.49, 'Jupyter Notebook': 45.34, 'Shell': 0.17}
+Tracking-with-darkflow|Real-time people Multitracker using YOLO v2 and deep_sort with tensorflow |239|239|104|MIT License|39|36.910103|Python|{'Python': 100.0}
+my_tensorflow|The code on deep learning.|9|9|17|NO LICENSE|1|36.88603|Python|{'Python': 100.0}
+ImageCompletion-DCGAN|Image completion using deep convolutional generative adversarial nets in tensorflow|103|103|34|NO LICENSE|2|36.883778|Jupyter Notebook|{'Jupyter Notebook': 67.54, 'Python': 31.45, 'Matlab': 1.01}
+RNN-Classification|classify text by rnn/lstm, based on TensorFlow r1.0|75|75|39|NO LICENSE|1|36.882713|Python|{'Python': 100.0}
+ID-Card_with_TensorFlow_Opencv_in_Android|ID-Card_with_TensorFlow_Opencv_in_Android|57|57|20|NO LICENSE|2|36.874496|Java|{'Java': 64.83, 'C++': 33.76, 'Makefile': 1.41}
+Fast-RCNN|My implementation of Fast-RCNN （tensorflow）|62|62|20|NO LICENSE|1|36.85527|Python|{'Python': 100.0}
+97-tensorflowjs-quick-start|Episode 97 - TensorFlow.js Quick Start|31|31|13|NO LICENSE|1|36.851776|TypeScript|{'TypeScript': 75.04, 'HTML': 12.16, 'JavaScript': 10.12, 'CSS': 2.68}
+adv_attack_capsnet|Tensorflow Implementation of Adversarial Attack to Capsule Networks|125|125|31|NO LICENSE|2|36.839134|Python|{'Python': 98.1, 'Shell': 1.9}
+FFM-tensorflow|FFM implement with tensorflow by Python|30|30|10|NO LICENSE|2|36.81368|Python|{'Python': 100.0}
+TagSpace-tensorflow|Tensorflow implementation of Facebook TagSpace|47|47|11|NO LICENSE|0|36.80638|Python|{'Python': 100.0}
+FaceRank|FaceRank - Rank Face by CNN Model based on TensorFlow (add keras version). FaceRank-人脸打分基于 TensorFlow (新增 Keras 版本) 的 CNN 模型（QQ群：167122861）。技术支持：http://tensorflow123.com|576|576|146|GNU General Public License v3.0|7|36.793148|Python|{'Python': 100.0}
+transferflow|Transfer Learning for Tensorflow|33|33|11|NO LICENSE|0|36.788933|Python|{'Python': 82.12, 'C++': 16.53, 'Makefile': 1.35}
+lstm_stock_prediction|This is an LSTM stock prediction using Tensorflow with Keras on top.|135|135|128|NO LICENSE|11|36.771|Jupyter Notebook|{'Jupyter Notebook': 100.0}
+FastFPN|"Tensorflow implementation for ""Feature Pyramid Networks for Object Detection"""|99|99|33|Apache License 2.0|4|36.691284|Python|{'Python': 93.42, 'C++': 2.99, 'C': 2.36, 'Cuda': 1.15, 'Makefile': 0.06, 'Shell': 0.02}
+jupyter_tensorflow|Dockerfile for Jupyter with TensorFlow|19|19|12|NO LICENSE|0|36.69009|Shell|{'Shell': 100.0}
+tensorflow_profiling|Scripts with example usage of tensorflow profiler|37|37|9|MIT License|0|36.660027|Python|{'Python': 100.0}
+tf_texture_net|TensorFlow implementation of DmitryUlyanov/texture_nets|88|88|16|Other|0|36.65308|Python|{'Python': 71.66, 'Lua': 28.34}
+hsr|Hand signals recognition using Convolutional Neural Network implemented in TensorFlow|101|101|32|NO LICENSE|1|36.625008|Python|{'Python': 100.0}
+dynamic-training-bench|Simplify the training and tuning of Tensorflow models|169|169|26|Mozilla Public License 2.0|1|36.619106|Python|{'Python': 100.0}
+transfer_learning_tutorial|A guide to transfer learning with inception-resnet-v2.|127|127|62|NO LICENSE|0|36.578297|Python|{'Python': 100.0}
+DeepAA|make ASCII Art by Deep Learning|1031|1031|69|MIT License|0|36.561077|Python|{'Python': 100.0}
+handtracking|Building a Real-time Hand-Detector using Neural Networks (SSD) on Tensorflow|289|289|87|Apache License 2.0|5|36.550983|Python|{'Python': 100.0}
+distributed_tensorflow|Distributed TensorFlow application|27|27|10|Apache License 2.0|1|36.540276|Python|{'Python': 100.0}
+deep-learning-workshop|Deep Learning Workshop : Including a VirtualBox VM with pre-configured Jupyter, Theano, Tensorflow, models and data|340|340|80|MIT License|2|36.53148|Jupyter Notebook|{'Jupyter Notebook': 66.19, 'HTML': 23.59, 'Python': 7.45, 'Shell': 2.22, 'CSS': 0.54}
+2D_detection|TensorFlow implementation of SqueezeDet, trained on the KITTI dataset.|102|102|32|NO LICENSE|2|36.527046|Python|{'Python': 100.0}
+tensorflow-grad-cam|Tensorflow Slim Grad-Cam to Explain Neural Network Predictions with Heatmap or Shading|88|88|8|NO LICENSE|1|36.52255|Python|{'Python': 99.4, 'Shell': 0.6}
+Lattice-Boltzmann-fluid-flow-in-Tensorflow|A Lattice Boltzmann fluid flow simulation written in Tensorflow.|38|38|21|NO LICENSE|0|36.51287|Python|{'Python': 100.0}
+enas|"TensorFlow Code for paper ""Efficient Neural Architecture Search via Parameter Sharing"""|365|365|79|Apache License 2.0|28|36.5066|Python|{'Python': 95.9, 'Shell': 4.1}
+tensorflow_to_lambda_serverless|Serve tensorflow models prediction from AWS lambda endpoints|34|34|12|NO LICENSE|0|36.486546|Python|{'Python': 100.0}
+NeuroNER|Named-entity recognition using neural networks. Easy-to-use and state-of-the-art results.|927|927|260|NO LICENSE|76|36.447845|Python|{'Python': 91.8, 'Perl': 7.19, 'Shell': 1.01}
+tf-object-detection|Simpler app for tensorflow object detection API|46|46|20|MIT License|3|36.43902|Python|{'Python': 94.96, 'Shell': 5.04}
+voxelnet|This is an unofficial inplementation of VoxelNet in TensorFlow.|63|63|39|NO LICENSE|15|36.43631|Python|{'Python': 62.62, 'C++': 37.25, 'Shell': 0.13}
+tensorflow-emscripten|VERY MUCH A WORK IN PROGRESS  & ACTIVE RESEARCH PROJECT -- DO NOT USE.|44|44|9|Apache License 2.0|3|36.435658|C++|{'C++': 49.56, 'Python': 39.83, 'Jupyter Notebook': 4.45, 'TypeScript': 1.85, 'HTML': 1.3, 'Shell': 0.84, 'Java': 0.52, 'Protocol Buffer': 0.45, 'C': 0.31, 'CMake': 0.27, 'Go': 0.24, 'Objective-C++': 0.16, 'Makefile': 0.11, 'JavaScript': 0.05, 'Objective-C': 0.02, 'Batchfile': 0.02, 'LLVM': 0.02, 'CSS': 0.0}
+cs230-code-examples|Code examples in pyTorch and Tensorflow for CS230|55|55|42|Other|3|36.415245|Python|{'Python': 100.0}
+BicycleGAN-Tensorflow|A Tensorflow implementation of BicycleGAN.|50|50|10|MIT License|2|36.405582|Python|{'Python': 98.44, 'Shell': 1.56}
+Generative-Latent-Optimization-Tensorflow|Tensorflow implementation of Generative Latent Optimization (GLO) proposed by Facebook AI Research|49|49|11|MIT License|1|36.37808|Python|{'Python': 100.0}
+ac-gan|A tensorflow implementation of google's AC-GAN ( Auxiliary Classifier GAN ).|312|312|82|MIT License|2|36.348244|Python|{'Python': 100.0}
+ESPCN-TensorFlow|An implementation of the Efficient Sub-Pixel Convolutional Neural Network in TensorFlow|27|27|13|NO LICENSE|0|36.340546|Python|{'Python': 98.07, 'Shell': 1.93}
+tensorflow_demo||14|14|15|NO LICENSE|1|36.32897|Python|{'Python': 100.0}
+RRPN_FPN_Tensorflow||39|39|11|NO LICENSE|5|36.313904|Python|{'Python': 99.95, 'C++': 0.05}
+htm-tensorflow|An implementation of Numenta's HTM algorithm in Tensorflow.|43|43|9|NO LICENSE|3|36.288437|Python|{'Python': 100.0}
+tensorflow-nlp-tutorial|Code from 6.806 TensorFlow Tutorial Presentation|16|16|18|MIT License|0|36.254654|Jupyter Notebook|{'Jupyter Notebook': 84.05, 'Python': 15.95}
+Transfer-Learning-for-Animal-Classification-in-Tensorflow|Siraj Raval's Weekly Challenge Accepted :sunglasses:|25|25|24|NO LICENSE|1|36.244392|Jupyter Notebook|{'Jupyter Notebook': 99.69, 'Python': 0.31}
+UNIT-Tensorflow|"Simple Tensorflow implementation of ""Unsupervised Image to Image Translation Networks"" (NIPS 2017 Spotlight)"|43|43|8|MIT License|0|36.237034|Python|{'Python': 100.0}
+highway-cnn|Simple convolutional highway networks using TensorFlow.|54|54|19|NO LICENSE|0|36.2366|Python|{'Python': 100.0}
+binarynet-tensorflow||41|41|10|NO LICENSE|7|36.20551|C|{'C': 39.48, 'Objective-C': 23.17, 'Python': 20.03, 'Java': 17.32}
+tensorflow_speech_recognition_solution|code for 3rd place kaggle tensorflow competition|38|38|10|NO LICENSE|2|36.205013|Python|{'Python': 100.0}
+keras-vis|Neural network visualization toolkit for keras|1480|1480|235|MIT License|56|36.188377|Python|{'Python': 100.0}
+Tensorflow-RDMA|Tensorflow is a computational library  using data flow graphs for scalable machine learning, and Tensorflow-RDMA is the implementation over RDMA, which can get about 4.5x speedup on two nodes comparing with TCP/IP. |32|32|8|NO LICENSE|1|36.135166|C++|{'C++': 45.62, 'Python': 39.36, 'Jupyter Notebook': 7.3, 'TypeScript': 2.6, 'HTML': 2.14, 'Shell': 1.06, 'C': 0.74, 'Protocol Buffer': 0.5, 'Objective-C++': 0.19, 'Java': 0.17, 'CMake': 0.15, 'Makefile': 0.09, 'JavaScript': 0.05, 'Objective-C': 0.02, 'CSS': 0.0, 'GCC Machine Description': 0.0}
+ofxMSATensorFlow|openframeworks addon + examples for Google's TensorFlow numerical computation and machine learning library|341|341|73|Apache License 2.0|12|36.05924|C++|{'C++': 95.1, 'Python': 2.58, 'Cuda': 0.89, 'C': 0.67, 'Makefile': 0.58, 'QML': 0.14, 'Shell': 0.02}
+tensorflow_neural_net_live_demo|This is the code for the 'Tensorflow Neural Network' Live session by @Sirajology on Youtube|20|20|18|NO LICENSE|3|36.049896|Python|{'Python': 100.0}
+tensorlang|Tensorlang, a differentiable programming language based on TensorFlow|278|278|19|Apache License 2.0|15|36.02702|Python|{'Python': 40.37, 'Jupyter Notebook': 33.52, 'JavaScript': 17.46, 'Shell': 3.74, 'CSS': 3.24, 'HTML': 1.57, 'Nix': 0.11}
+tensorflow-cnn-time-series|Feeding images of time series to Conv Nets! (Tensorflow + Keras)|36|36|11|Apache License 2.0|0|36.022923|Python|{'Python': 100.0}
+async-rl|"Tensorflow + Keras + OpenAI Gym implementation of 1-step Q Learning from  ""Asynchronous Methods for Deep Reinforcement Learning"""|952|952|163|MIT License|23|36.018036|Python|{'Python': 100.0}
+keras-mobilenet|Google MobileNet implementation with Keras|219|219|47|MIT License|4|36.013206|Python|{'Python': 100.0}
+mnist-multi-gpu|MNIST ConvNet MultiGPU TensorFlow|33|33|10|Apache License 2.0|2|36.005398|Python|{'Python': 100.0}
+progressive_growing_of_gans_tensorflow|the Tensorflow code of PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION|51|51|13|MIT License|7|36.00252|Python|{'Python': 100.0}
+tensorflow-practices|TensorFlow的练习代码|11|11|15|NO LICENSE|0|35.96669|Python|{'Python': 98.17, 'Shell': 1.83}
