@@ -5,7 +5,7 @@ import csv
 
 # Paste your Access token here
 # To create an access token - https://github.com/settings/tokens
-token = "access_token=" + "40291a784587d53f5c271eb1f5c5cc60afb60107"
+token = "access_token=" + "access_token_here"
 
 # Base API Endpoint
 base_api_url = 'https://api.github.com/'
