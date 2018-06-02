@@ -15,3 +15,10 @@ The headers are as follows
 - Repository Relevance Score to the query
 - Main Language of the Repository
 - Dictionary of the Languages used in the Repository along with the % share of every language
+
+
+
+# TODO:
+
+Add progressbar in the terminal
+Add support for other search parameters
